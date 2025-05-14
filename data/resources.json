@@ -53,7 +53,7 @@
     "url": "https://github.com/rohsec/Uncomment",
     "tooltip": "Extract all HTML comments from any URL in seconds. Give it a list of URLs, and this tool will uncover all hidden HTML comments for deeper analysis. https://github.com/rohsec/Uncomment LinkedIn Post: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7249312692144918529 #osint #cybersecurity #infosec",
     "categories": [
-      "CRAWLING &amp; SCRAPING"
+      "CRAWLING - SCRAPING"
     ],
     "attributes": [],
     "date_added": "2025-05-13"
@@ -178,7 +178,7 @@
     "url": "https://github.com/anmolksachan/TheTimeMachine",
     "tooltip": "Use Wayback URL analysis for effective recon The Time Machine leverages Wayback Machine URLs to identify historical web endpoints, aiding bug hunters and OSINT professionals. With options for endpoint vulnerability checks, including XSS and SQLi, it provides a robust approach to discovering sensitive information across time. https://github.com/anmolksachan/TheTimeMachine #va #pentest #cybersecurity #infosec",
     "categories": [
-      "CRAWLING &amp; SCRAPING"
+      "CRAWLING - SCRAPING"
     ],
     "attributes": [],
     "date_added": "2025-05-13"
@@ -222,7 +222,7 @@
     "url": "https://github.com/PhonePe/mantis",
     "tooltip": "Automate asset discovery. Mantis is a command-line framework designed to automate the workflow of asset discovery, reconnaissance, and scanning. It takes the top-level domains as input, then seamlessly progresses to discovering corresponding assets, including subdomains and certificates. The tool performs reconnaissance on active assets and concludes with a comprehensive scan for vulnerabilities, secrets, misconfigurations and phishing domains &#8211; all powered by a blend of open-source and custom tools. https://github.com/PhonePe/mantis #osint #cybersecurity #infosec",
     "categories": [
-      "CRAWLING &amp; SCRAPING"
+      "CRAWLING - SCRAPING"
     ],
     "attributes": [],
     "date_added": "2025-05-13"
@@ -789,7 +789,7 @@
     "url": "https://github.com/shubhamrooter/ShodanSpider",
     "tooltip": "ShodanSpider automates the process of crawling Shodan results, helping OSINT researchers and security professionals gather detailed insights on exposed devices. https://github.com/shubhamrooter/ShodanSpider #OSINT #Cybersecurity #Shodan",
     "categories": [
-      "CRAWLING &amp; SCRAPING",
+      "CRAWLING - SCRAPING",
       "IoT Scraping"
     ],
     "attributes": [],
@@ -1214,10 +1214,10 @@
     "slug": "osint-sh-buckets-search",
     "title": "OSINT.SH Buckets",
     "url": "https://osint.sh/buckets/",
-    "tooltip": "Search public AWS S3 &amp; Azure Blob storage by keyword &#8211; Quickly uncover exposed cloud storage for OSINT investigations. https://osint.sh/buckets/ #OSINT #CloudSecurity #Cybersecurity #Reconnaissance",
+    "tooltip": "Search public AWS S3 - Azure Blob storage by keyword &#8211; Quickly uncover exposed cloud storage for OSINT investigations. https://osint.sh/buckets/ #OSINT #CloudSecurity #Cybersecurity #Reconnaissance",
     "categories": [
       "Bucket Search",
-      "CRAWLING &amp; SCRAPING"
+      "CRAWLING - SCRAPING"
     ],
     "attributes": [],
     "date_added": "2025-05-13"
@@ -1253,7 +1253,7 @@
     "tooltip": "Buckets GrayHatWarfare maintains a searchable database of open Amazon S3 buckets, filtering out non-relevant files while indexing millions of exposed documents, updated daily. https://lnkd.in/dEv49gnN #OSINT #CloudSecurity #Cybersecurity #Reconnaissance",
     "categories": [
       "Bucket Search",
-      "CRAWLING &amp; SCRAPING"
+      "CRAWLING - SCRAPING"
     ],
     "attributes": [],
     "date_added": "2025-05-13"
@@ -1311,7 +1311,7 @@
     "url": "https://github.com/gigachad80/grep-backURLs",
     "tooltip": "Automate credential extraction for web security and bug hunting: find subdomains, scrape archived URLs, and grep for sensitive data. https://github.com/gigachad80/grep-backURLs #OSINT #BugBounty #Cybersecurity #Reconnaissance",
     "categories": [
-      "CRAWLING &amp; SCRAPING"
+      "CRAWLING - SCRAPING"
     ],
     "attributes": [],
     "date_added": "2025-05-13"
@@ -1333,7 +1333,7 @@
     "url": "https://github.com/getmaxun/maxun",
     "tooltip": "Open-source no-code platform for automated web data extraction: train scraping workflows in minutes and collect data at scale\u2014no coding needed. https://github.com/getmaxun/maxun #OSINT #WebScraping #Automation",
     "categories": [
-      "CRAWLING &amp; SCRAPING"
+      "CRAWLING - SCRAPING"
     ],
     "attributes": [],
     "date_added": "2025-05-13"
