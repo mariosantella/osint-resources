@@ -30,12 +30,12 @@ function renderRack(resources) {
     deadContainer.appendChild(li);
   });
 
-  // Accordion
+  // Accordion (render as inline boxes)
   const grouped = {};
   resources.forEach(r => {
     if (r.categories.length === 0) return;
-    const group = r.categories[0];
-    const subgroup = r.categories[1] || "Misc";
+    const group = decodeHTMLEntities(r.categories[0]);
+    const subgroup = decodeHTMLEntities(r.categories[1] || "Misc");
 
     if (!grouped[group]) grouped[group] = {};
     if (!grouped[group][subgroup]) grouped[group][subgroup] = [];
@@ -45,23 +45,27 @@ function renderRack(resources) {
 
   const accContainer = document.getElementById("accordion-container");
   Object.entries(grouped).forEach(([group, subs]) => {
-    const wrapper = document.createElement("div");
-    wrapper.className = "border rounded shadow-sm";
+    const groupWrapper = document.createElement("div");
+    groupWrapper.className = "mb-6";
 
-    const header = document.createElement("button");
-    header.className = "w-full text-left font-bold p-4 bg-gray-100 hover:bg-gray-200";
-    header.innerText = group;
+    const groupTitle = document.createElement("h3");
+    groupTitle.className = "text-xl font-bold mb-2";
+    groupTitle.innerText = group;
+    groupWrapper.appendChild(groupTitle);
 
-    const subWrapper = document.createElement("div");
-    subWrapper.className = "p-4 hidden";
+    const flexWrap = document.createElement("div");
+    flexWrap.className = "flex flex-wrap gap-4";
 
     Object.entries(subs).forEach(([sub, tools]) => {
-      const subTitle = document.createElement("h4");
-      subTitle.className = "font-semibold mb-2 mt-4";
-      subTitle.innerText = sub;
+      const box = document.createElement("div");
+      box.className = "bg-white border border-gray-200 rounded shadow-sm p-4 w-full sm:w-1/2 lg:w-1/3 xl:w-1/4";
+
+      const boxTitle = document.createElement("h4");
+      boxTitle.className = "font-semibold mb-2 text-sm text-gray-800";
+      boxTitle.innerText = sub;
 
       const ul = document.createElement("ul");
-      ul.className = "space-y-1";
+      ul.className = "space-y-1 text-sm";
 
       tools.forEach(t => {
         const li = document.createElement("li");
@@ -72,23 +76,25 @@ function renderRack(resources) {
             ${t.title}
           </a>
           ${hasTooltip ? `
-            <span class="ml-1 text-gray-500 text-sm hidden sm:inline-block" title="${t.tooltip}">ⓘ</span>
+            <span class="ml-1 text-gray-500 text-xs hidden sm:inline-block" title="${t.tooltip}">ⓘ</span>
             <button class="ml-1 text-gray-400 text-xs sm:hidden" onclick="alert('${t.tooltip.replace(/'/g, "\'")}')">ⓘ</button>
           ` : ""}
         `;
         ul.appendChild(li);
       });
 
-      subWrapper.appendChild(subTitle);
-      subWrapper.appendChild(ul);
+      box.appendChild(boxTitle);
+      box.appendChild(ul);
+      flexWrap.appendChild(box);
     });
 
-    header.addEventListener("click", () => {
-      subWrapper.classList.toggle("hidden");
-    });
-
-    wrapper.appendChild(header);
-    wrapper.appendChild(subWrapper);
-    accContainer.appendChild(wrapper);
+    groupWrapper.appendChild(flexWrap);
+    accContainer.appendChild(groupWrapper);
   });
+}
+
+function decodeHTMLEntities(str) {
+  const txt = document.createElement('textarea');
+  txt.innerHTML = str;
+  return txt.value;
 }
