@@ -1,6 +1,6 @@
 // rack.js — frontend OSINT Rack renderer
 
-const DATA_URL = "https://raw.githubusercontent.com/mariosantella/osint-resources/main/data/resources.json";
+const DATA_URL = "https://raw.githubusercontent.com/mariosantella/osint-resources/main/data/resources.json?nocache=" + Date.now();
 
 fetch(DATA_URL)
   .then(res => res.json())
