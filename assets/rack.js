@@ -1,4 +1,4 @@
-// rack.js — frontend OSINT Rack renderer
+// rack.js — frontend OSINT Rack renderer (inline category layout)
 
 const DATA_URL = "https://raw.githubusercontent.com/mariosantella/osint-resources/main/data/resources.json?nocache=" + Date.now();
 
@@ -30,7 +30,7 @@ function renderRack(resources) {
     deadContainer.appendChild(li);
   });
 
-  // Accordion (render as inline boxes)
+  // Inline Category Grid Rendering
   const grouped = {};
   resources.forEach(r => {
     if (r.categories.length === 0) return;
@@ -46,26 +46,26 @@ function renderRack(resources) {
   const accContainer = document.getElementById("accordion-container");
   Object.entries(grouped).forEach(([group, subs]) => {
     const groupWrapper = document.createElement("div");
-    groupWrapper.className = "mb-6";
+    groupWrapper.className = "mb-10";
 
     const groupTitle = document.createElement("h3");
-    groupTitle.className = "text-xl font-bold mb-2";
+    groupTitle.className = "text-xl font-bold mb-4 text-gray-800";
     groupTitle.innerText = group;
     groupWrapper.appendChild(groupTitle);
 
-    const flexWrap = document.createElement("div");
-    flexWrap.className = "flex flex-wrap gap-4";
+    const grid = document.createElement("div");
+    grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4";
 
     Object.entries(subs).forEach(([sub, tools]) => {
-      const box = document.createElement("div");
-      box.className = "bg-white border border-gray-200 rounded shadow-sm p-4 w-full sm:w-1/2 lg:w-1/3 xl:w-1/4";
+      const card = document.createElement("div");
+      card.className = "bg-white border border-gray-200 rounded-lg shadow-sm p-4 flex flex-col";
 
-      const boxTitle = document.createElement("h4");
-      boxTitle.className = "font-semibold mb-2 text-sm text-gray-800";
-      boxTitle.innerText = sub;
+      const cardTitle = document.createElement("h4");
+      cardTitle.className = "font-semibold text-sm mb-2 text-gray-900";
+      cardTitle.innerText = sub;
 
       const ul = document.createElement("ul");
-      ul.className = "space-y-1 text-sm";
+      ul.className = "space-y-1 text-sm text-gray-700";
 
       tools.forEach(t => {
         const li = document.createElement("li");
@@ -83,12 +83,12 @@ function renderRack(resources) {
         ul.appendChild(li);
       });
 
-      box.appendChild(boxTitle);
-      box.appendChild(ul);
-      flexWrap.appendChild(box);
+      card.appendChild(cardTitle);
+      card.appendChild(ul);
+      grid.appendChild(card);
     });
 
-    groupWrapper.appendChild(flexWrap);
+    groupWrapper.appendChild(grid);
     accContainer.appendChild(groupWrapper);
   });
 }
