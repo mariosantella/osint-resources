@@ -1,6 +1,6 @@
-// rack.js — frontend OSINT Rack renderer (inline category layout)
+// rack.js — new generation of the OSINT Rack frontend
 
-const DATA_URL = "https://raw.githubusercontent.com/mariosantella/osint-resources/main/data/resources.json?nocache=" + Date.now();
+const DATA_URL = "https://raw.githubusercontent.com/mariosantella/osint-resources/main/data/resources.json?v=" + Date.now();
 
 fetch(DATA_URL)
   .then(res => res.json())
@@ -26,14 +26,14 @@ function renderRack(resources) {
   const deadContainer = document.getElementById("dead-tools");
   dead.forEach(r => {
     const li = document.createElement("li");
-    li.innerText = r.title;
+    li.textContent = r.title;
     deadContainer.appendChild(li);
   });
 
-  // Inline Category Grid Rendering
+  // Categories
   const grouped = {};
   resources.forEach(r => {
-    if (r.categories.length === 0) return;
+    if (!r.categories || r.categories.length === 0) return;
     const group = decodeHTMLEntities(r.categories[0]);
     const subgroup = decodeHTMLEntities(r.categories[1] || "Misc");
 
@@ -44,28 +44,24 @@ function renderRack(resources) {
   });
 
   const accContainer = document.getElementById("accordion-container");
+
   Object.entries(grouped).forEach(([group, subs]) => {
-    const groupWrapper = document.createElement("div");
-    groupWrapper.className = "mb-10";
+    const section = document.createElement("section");
+    section.className = "bg-gray-100 rounded-lg p-4 mb-4 break-inside-avoid";
 
-    const groupTitle = document.createElement("h3");
-    groupTitle.className = "text-xl font-bold mb-4 text-gray-800";
-    groupTitle.innerText = group;
-    groupWrapper.appendChild(groupTitle);
-
-    const grid = document.createElement("div");
-    grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4";
+    const header = document.createElement("h3");
+    header.className = "text-lg font-bold mb-2 text-gray-700";
+    header.textContent = group;
+    section.appendChild(header);
 
     Object.entries(subs).forEach(([sub, tools]) => {
-      const card = document.createElement("div");
-      card.className = "bg-white border border-gray-200 rounded-lg shadow-sm p-4 flex flex-col";
-
-      const cardTitle = document.createElement("h4");
-      cardTitle.className = "font-semibold text-sm mb-2 text-gray-900";
-      cardTitle.innerText = sub;
+      const subTitle = document.createElement("h4");
+      subTitle.className = "font-semibold text-sm mb-1 mt-2 text-gray-600";
+      subTitle.textContent = sub;
+      section.appendChild(subTitle);
 
       const ul = document.createElement("ul");
-      ul.className = "space-y-1 text-sm text-gray-700";
+      ul.className = "mb-2 space-y-1";
 
       tools.forEach(t => {
         const li = document.createElement("li");
@@ -78,18 +74,30 @@ function renderRack(resources) {
           ${hasTooltip ? `
             <span class="ml-1 text-gray-500 text-xs hidden sm:inline-block" title="${t.tooltip}">ⓘ</span>
             <button class="ml-1 text-gray-400 text-xs sm:hidden" onclick="alert('${t.tooltip.replace(/'/g, "\'")}')">ⓘ</button>
-          ` : ""}
-        `;
+          ` : ""}`;
+
         ul.appendChild(li);
       });
 
-      card.appendChild(cardTitle);
-      card.appendChild(ul);
-      grid.appendChild(card);
+      section.appendChild(ul);
     });
 
-    groupWrapper.appendChild(grid);
-    accContainer.appendChild(groupWrapper);
+    accContainer.appendChild(section);
+  });
+
+  Macy({
+    container: '#accordion-container',
+    columns: 1,
+    breakAt: {
+      640: 1,
+      768: 2,
+      1024: 3,
+      1280: 4,
+    },
+    margin: {
+      x: 24,
+      y: 24
+    }
   });
 }
 
