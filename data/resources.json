@@ -1,5 +1,40 @@
 [
   {
+    "slug": "badoo-wayback",
+    "title": "Badoo Wayback",
+    "url": "https://web.archive.org/collection-search/badoo.com",
+    "tooltip": "Wayback Machine \u2013 Badoo Collection: Browse archived snapshots of badoo.com for historical analysis. Useful in OSINT to investigate profile formats, feature changes, or legacy content. https://web.archive.org/collection-search/badoo.com #OSINT #WaybackMachine #ArchiveAnalysis",
+    "categories": [
+      "SOCMINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-15"
+  },
+  {
+    "slug": "minervaosint",
+    "title": "minervaosint",
+    "url": "https://minervaosint.com/",
+    "tooltip": "Minerva: Find traces of any email across the internet\u2014accounts, metadata, and exposed info. A focused tool for mapping digital identities starting from a single email. https://minervaosint.com/ #OSINT #EmailIntel #Cybersecurity #Reconnaissance",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-15"
+  },
+  {
+    "slug": "faceseek-online",
+    "title": "faceseek online",
+    "url": "https://faceseek.online/",
+    "tooltip": "An AI-powered face search engine to track where your photos appear online. Upload an image to find matches across the web. https://faceseek.online/ #OSINT #FacialRecognition #ImageSearch",
+    "categories": [
+      "IMAGEINT",
+      "Reverse Image Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-15"
+  },
+  {
     "slug": "tikface",
     "title": "TikFace",
     "url": "https://tikface.com/",
