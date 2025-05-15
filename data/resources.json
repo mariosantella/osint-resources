@@ -335,8 +335,8 @@
   {
     "slug": "instatracker",
     "title": "InstaTracker",
-    "url": "https://lnkd.in/dKyRDfv4",
-    "tooltip": "InstaTracker is a Python-based tool that logs any changes to an Instagram account, including followers, following, posts, and bio updates. Ideal for OSINT professionals and social media analysts, it provides real-time tracking to monitor account activity effectively. https://lnkd.in/dKyRDfv4 #osint #infosec #socmint #instagram",
+    "url": "https://github.com/ibnaleem/instatracker",
+    "tooltip": "InstaTracker is a Python-based tool that logs any changes to an Instagram account, including followers, following, posts, and bio updates. Ideal for OSINT professionals and social media analysts, it provides real-time tracking to monitor account activity effectively. https://github.com/ibnaleem/instatracker #osint #infosec #socmint #instagram",
     "categories": [
       "SOCMINT",
       "Instagram"
@@ -715,8 +715,8 @@
   {
     "slug": "onionlinkhub-excavator",
     "title": "OnionLinkHub Excavator",
-    "url": "https://lnkd.in/draqAgRM",
-    "tooltip": "OnionLinkHub Excavator is a dark web search tool that simplifies finding .onion links, providing valuable insights for OSINT researchers and analysts exploring the dark web. https://lnkd.in/draqAgRM #OSINT #DarkWeb #Cybersecurity",
+    "url": "https://www.onionlinkhub.com/links/excavator/",
+    "tooltip": "OnionLinkHub Excavator is a dark web search tool that simplifies finding .onion links, providing valuable insights for OSINT researchers and analysts exploring the dark web. https://www.onionlinkhub.com/links/excavator/ #OSINT #DarkWeb #Cybersecurity",
     "categories": [
       "DARK WEB",
       "Search Engines"
@@ -1249,8 +1249,8 @@
   {
     "slug": "grayhatwarfare-buckets-search",
     "title": "GrayHatWarfare Buckets  Search",
-    "url": "https://lnkd.in/dEv49gnN",
-    "tooltip": "Buckets GrayHatWarfare maintains a searchable database of open Amazon S3 buckets, filtering out non-relevant files while indexing millions of exposed documents, updated daily. https://lnkd.in/dEv49gnN #OSINT #CloudSecurity #Cybersecurity #Reconnaissance",
+    "url": "https://buckets.grayhatwarfare.com/",
+    "tooltip": "Buckets GrayHatWarfare maintains a searchable database of open Amazon S3 buckets, filtering out non-relevant files while indexing millions of exposed documents, updated daily. https://buckets.grayhatwarfare.com/ #OSINT #CloudSecurity #Cybersecurity #Reconnaissance",
     "categories": [
       "Bucket Search",
       "CRAWLING - SCRAPING"
