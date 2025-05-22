@@ -1,5 +1,88 @@
 [
   {
+    "slug": "leakbase",
+    "title": "LeakBase",
+    "url": "https://leakbase.la/",
+    "tooltip": "Forum that shares large-scale data breaches, valuable for threat intelligence and identifying compromised data. https://leakbase.la/",
+    "categories": [
+      "BREACH DATA",
+      "Credential Leaks"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-22"
+  },
+  {
+    "slug": "firecrawl",
+    "title": "Firecrawl",
+    "url": "https://www.firecrawl.dev/",
+    "tooltip": "Turn any webpage into structured markdown with Firecrawl\u2014built for LLM pipelines, but great for extracting clean page content for investigations. https://www.firecrawl.dev/",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-22"
+  },
+  {
+    "slug": "google-maps-scraper",
+    "title": "Google Maps Scraper",
+    "url": "https://github.com/gosom/google-maps-scraper",
+    "tooltip": "Scrape business data from Google Maps: name, phone, location, website, and more\u2014directly from search results using a keyword. A solid base for OSINT targeting and infrastructure mapping. https://github.com/gosom/google-maps-scraper",
+    "categories": [
+      "GEOINT",
+      "Google Maps"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-22"
+  },
+  {
+    "slug": "aadinternals",
+    "title": "AADInternals",
+    "url": "https://aadinternals.com/osint/",
+    "tooltip": "AADInternals OSINT Enumerate Microsoft 365 tenants via Microsoft Graph API\u2014see domain types, authentication settings, and more without logging in. https://aadinternals.com/osint/",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-22"
+  },
+  {
+    "slug": "instaclip",
+    "title": "InstaClip",
+    "url": "https://instaclip.app/",
+    "tooltip": "InstaClip Download public Instagram reels, posts, and videos\u2014quickly archive or analyze target content without an account. https://instaclip.app/",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-22"
+  },
+  {
+    "slug": "stalkiana",
+    "title": "Stalkiana",
+    "url": "https://github.com/RuiBorgesDev/Stalkiana",
+    "tooltip": "A C# command-line tool for tracking Instagram accounts. It retrieves followers/followings, detects count changes, and downloads profile pictures. https://github.com/RuiBorgesDev/Stalkiana #OSINT #Instagram #Reconnaissance #Cybersecurity",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-22"
+  },
+  {
+    "slug": "telegraphite",
+    "title": "TeleGraphite",
+    "url": "https://github.com/hamodywe/telegram-scraper-TeleGraphite",
+    "tooltip": "A fast and reliable Telegram channel scraper that fetches posts and exports them to JSON. Supports media download, deduplication, and scheduled scraping. https://github.com/hamodywe/telegram-scraper-TeleGraphite #OSINT #Telegram #DataExtraction #Cybersecurity",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-22"
+  },
+  {
     "slug": "badoo-wayback",
     "title": "Badoo Wayback",
     "url": "https://web.archive.org/collection-search/badoo.com",
