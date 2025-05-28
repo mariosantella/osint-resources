@@ -1,5 +1,88 @@
 [
   {
+    "slug": "instrack-app",
+    "title": "InsTrack.app",
+    "url": "https://instrack.app/",
+    "tooltip": "A tool for tracking social media activity and identifying fake accounts, valuable for social media investigations and digital forensics. https://instrack.app/",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-28"
+  },
+  {
+    "slug": "groupda",
+    "title": "GroupDa",
+    "url": "https://groupda.com/telegram/group/find",
+    "tooltip": "A search engine for finding Telegram groups, useful for gathering intelligence from public and private communities within Telegram. https://groupda.com/telegram/group/find",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-28"
+  },
+  {
+    "slug": "profiler-me",
+    "title": "Profiler.me",
+    "url": "https://search.profiler.me/",
+    "tooltip": "A tool for profiling individuals by aggregating their online presence, useful for OSINT investigations to understand digital footprints. https://search.profiler.me/",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-28"
+  },
+  {
+    "slug": "ghintel-secrets-ninja",
+    "title": "GHIntel.secrets.ninja",
+    "url": "https://ghintel.secrets.ninja/",
+    "tooltip": "A tool for finding email addresses linked to GitHub commits, useful for identifying contact information in open-source projects. https://ghintel.secrets.ninja/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-28"
+  },
+  {
+    "slug": "osintportal",
+    "title": "OSINTPortal",
+    "url": "https://osintportal.com/",
+    "tooltip": "A comprehensive OSINT tool for various digital investigations, providing access to multiple data sources and analysis tools. https://osintportal.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-28"
+  },
+  {
+    "slug": "scrapegraphapi",
+    "title": "ScrapeGraphAPI",
+    "url": "https://scrapegraphai.com/",
+    "tooltip": "A powerful API for web scraping and graph data extraction, designed for OSINT researchers looking to collect structured data from websites. https://scrapegraphai.com/",
+    "categories": [
+      "CRAWLING - SCRAPING",
+      "Web Scrapers"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-28"
+  },
+  {
+    "slug": "wpscan",
+    "title": "Wpscan",
+    "url": "https://wpscan.com/",
+    "tooltip": "A security scanner for WordPress sites, detecting vulnerabilities, users, and exposing potential entry points for malicious activity. Homepage",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2025-05-28"
+  },
+  {
     "slug": "leakbase",
     "title": "LeakBase",
     "url": "https://leakbase.la/",
