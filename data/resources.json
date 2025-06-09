@@ -1,5 +1,85 @@
 [
   {
+    "slug": "onionland-io",
+    "title": "OnionLand.io",
+    "url": "https://onionland.io/",
+    "tooltip": "A super-easy search engine for navigating the dark web, simplifying access to onion sites for deep web investigations. https://onionland.io/",
+    "categories": [
+      "DARK WEB",
+      "Search Engines"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-09"
+  },
+  {
+    "slug": "blockscan-com",
+    "title": "Blockscan.com",
+    "url": "https://blockscan.com/",
+    "tooltip": "A multichain block scanner for cryptocurrency transactions, invaluable for blockchain investigations and tracing crypto activity. https://blockscan.com/",
+    "categories": [
+      "CRYPTOCURRENCIES"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-09"
+  },
+  {
+    "slug": "whocalld-com",
+    "title": "WhoCallD.com",
+    "url": "https://whocalld.com/",
+    "tooltip": "A user-contributed phone number lookup tool, allowing easy identification of phone numbers worldwide with a no-nonsense approach. https://whocalld.com/",
+    "categories": [
+      "PHONEINT",
+      "Phone Number Lookup"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-09"
+  },
+  {
+    "slug": "data-occrp-org",
+    "title": "Data.Occrp.org",
+    "url": "https://data.occrp.org/",
+    "tooltip": "The global archive of research material for investigative reporting, offering a comprehensive resource for data-driven investigations. https://data.occrp.org/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-09"
+  },
+  {
+    "slug": "psbdmp-ws-api",
+    "title": "Psbdmp-ws-api",
+    "url": "https://psbdmp.ws/api/search/test",
+    "tooltip": "A search engine across pastebin and data dumps, useful for finding leaked data in cyber threat intelligence investigations. https://psbdmp.ws/api/search/test",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-09"
+  },
+  {
+    "slug": "haveibeensquatted",
+    "title": "HaveIBeenSquatted",
+    "url": "https://haveibeensquatted.com/",
+    "tooltip": "A tool for CTI, conducting extensive checks to identify squatted domain names based on a given keyword, helping monitor brand security. https://haveibeensquatted.com/",
+    "categories": [
+      "DOMAININT"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-09"
+  },
+  {
+    "slug": "youtube-tools-comments",
+    "title": "youtube-tools-comments",
+    "url": "https://youtube-tools.lolarchiver.com/",
+    "tooltip": "YouTube-Tools.LolArchiver.com: A paid tool for extracting comments from YouTube handles, useful for in-depth social media and content analysis. https://youtube-tools.lolarchiver.com/",
+    "categories": [
+      "SOCMINT",
+      "YouTube"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-09"
+  },
+  {
     "slug": "instrack-app",
     "title": "InsTrack.app",
     "url": "https://instrack.app/",
