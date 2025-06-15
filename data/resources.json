@@ -1,5 +1,63 @@
 [
   {
+    "slug": "wayback-google-analytics",
+    "title": "Wayback-Google-Analytics",
+    "url": "https://github.com/bellingcat/wayback-google-analytics",
+    "tooltip": "A GitHub tool for scraping Google Analytics data from the Wayback Machine, useful for gathering historical website analytics data in OSINT investigations. https://github.com/bellingcat/wayback-google-analytics",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-15"
+  },
+  {
+    "slug": "waybacklister",
+    "title": "wayBackLister",
+    "url": "https://github.com/anmolksachan/wayBackLister",
+    "tooltip": "WaybackLister is a reconnaissance tool that taps into the Wayback Machine to fetch historical URLs for a domain, parses unique paths, and checks if any of those paths currently expose directory listings. https://github.com/anmolksachan/wayBackLister",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-15"
+  },
+  {
+    "slug": "dumpor-io",
+    "title": "Dumpor.io",
+    "url": "https://dumpor.io",
+    "tooltip": "A free, no-login Instagram viewer that allows easy access to public profiles and posts, valuable for social media investigations. https://dumpor.io",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-15"
+  },
+  {
+    "slug": "sotwe-com",
+    "title": "Sotwe.com",
+    "url": "https://www.sotwe.com",
+    "tooltip": "A free, no-login Twitter/X viewer that lets you explore public Twitter profiles and tweets, useful for tracking social media activity in OSINT. https://www.sotwe.com",
+    "categories": [
+      "SOCMINT",
+      "Twitter / X"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-15"
+  },
+  {
+    "slug": "pentester-com",
+    "title": "Pentester.com",
+    "url": "https://pentester.com",
+    "tooltip": "Similar to Have I Been Pwned (HIBP), this service offers extensive data on compromised accounts, useful for threat intelligence and breach detection. https://pentester.com",
+    "categories": [
+      "BREACH DATA",
+      "Credential Leaks"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-15"
+  },
+  {
     "slug": "onionland-io",
     "title": "OnionLand.io",
     "url": "https://onionland.io/",
