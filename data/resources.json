@@ -1,5 +1,122 @@
 [
   {
+    "slug": "telerecon",
+    "title": "Telerecon",
+    "url": "https://github.com/sockysec/Telerecon",
+    "tooltip": "An OSINT reconnaissance framework for researching and investigating Telegram, enabling users to gather detailed information such as usernames, bios, online status, and profile pictures. It also supports scraping messages, media, and URLs from channels, constructing user interaction networks, and extracting GPS data from media files. https://github.com/sockysec/Telerecon",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
+    "slug": "vk-watch",
+    "title": "VK.watch",
+    "url": "https://vk.watch/",
+    "tooltip": "An OSINT tool for finding detailed information about people on VKontakte, offering access to the largest archive of historical data, including user comments, photos, friend lists, and profile changes. Now includes facial recognition for locating people by their photos, similar to the closed FindFace. https://vk.watch/",
+    "categories": [
+      "PEOPLE SEARCH",
+      "Face Recognition Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
+    "slug": "rhino-profile-user-checker",
+    "title": "Rhino Profile User Checker",
+    "url": "https://usercheck.oscarzulu.org/",
+    "tooltip": "A free, browser-based tool that emulates a command-line interface to search for usernames across multiple social media platforms, aiding in digital footprint analysis. https://usercheck.oscarzulu.org/",
+    "categories": [
+      "PEOPLE SEARCH",
+      "Username Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
+    "slug": "whiteintel-io",
+    "title": "WhiteIntel.io",
+    "url": "https://whiteintel.io/",
+    "tooltip": "A platform that continuously monitors the dark web to safeguard your information from data breaches before it&#8217;s exploited by hackers. https://whiteintel.io/",
+    "categories": [
+      "DARK WEB"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
+    "slug": "gitsearchai-com",
+    "title": "GitSearchAI.com",
+    "url": "https://www.gitsearchai.com/",
+    "tooltip": "An AI-powered search engine for GitHub repositories, facilitating the discovery of code snippets and projects related to specific keywords or technologies. https://www.gitsearchai.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
+    "slug": "pagecached-com",
+    "title": "PageCached.com",
+    "url": "https://pagecached.com/",
+    "tooltip": "A free tool that checks if a URL has been cached by major search engines and web archives, aiding in retrieving older versions of web pages. https://pagecached.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
+    "slug": "skymem-info",
+    "title": "SkyMem.info",
+    "url": "https://www.skymem.info/",
+    "tooltip": "A service that helps find and verify email addresses associated with companies and individuals, useful for contact discovery and lead generation. https://www.skymem.info/",
+    "categories": [
+      "EMAILINT",
+      "Email Info"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
+    "slug": "digitalfootprintcheck-com",
+    "title": "DigitalFootprintCheck.com",
+    "url": "https://www.digitalfootprintcheck.com/",
+    "tooltip": "A platform offering tools to explore where your online profile is registered, track data breaches, and assess your digital footprint. https://www.digitalfootprintcheck.com/",
+    "categories": [
+      "PEOPLE SEARCH",
+      "Username Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
+    "slug": "aeroleads-com",
+    "title": "AeroLeads.com",
+    "url": "https://aeroleads.com/",
+    "tooltip": "A lead generation and prospecting tool that helps find business emails and contact details from LinkedIn and other platforms. https://aeroleads.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
+    "slug": "spoonbill-io",
+    "title": "Spoonbill.io",
+    "url": "https://spoonbill.io/",
+    "tooltip": "A service that tracks updates to social media profiles, notifying you of changes in bios, names, and links, keeping you informed about your network. https://spoonbill.io/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-06-29"
+  },
+  {
     "slug": "wayback-google-analytics",
     "title": "Wayback-Google-Analytics",
     "url": "https://github.com/bellingcat/wayback-google-analytics",
