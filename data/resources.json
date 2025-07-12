@@ -1,5 +1,156 @@
 [
   {
+    "slug": "vormweb",
+    "title": "Vormweb",
+    "url": "https://vormweb.de/en/",
+    "tooltip": "Darknet search engine focused on indexing legitimate and quality services, such as news, email, and forums, while avoiding scams and spam. https://vormweb.de/en/",
+    "categories": [
+      "DARK WEB",
+      "Search Engines"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "instagram-monitor",
+    "title": "Instagram Monitor",
+    "url": "https://github.com/misiektoja/instagram_monitor",
+    "tooltip": "Real-time monitoring of Instagram users&#8217; activities and profile changes, including new posts, stories, and follower updates. https://github.com/misiektoja/instagram_monitor",
+    "categories": [
+      "SOCMINT",
+      "Instagram",
+      "Uncategorized"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "github-monitor",
+    "title": "Github Monitor",
+    "url": "https://github.com/misiektoja/github_monitor",
+    "tooltip": "Real-time tracking of GitHub users&#8217; activities, including profile and repository changes, such as new commits, pull requests, and followers. https://github.com/misiektoja/github_monitor",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "linkedindumper",
+    "title": "LinkedInDumper",
+    "url": "https://github.com/l4rm4nd/LinkedInDumper",
+    "tooltip": "Python script to extract employee data from LinkedIn company pages, including names, positions, and locations, useful for building organizational profiles. https://github.com/l4rm4nd/LinkedInDumper",
+    "categories": [
+      "SOCMINT",
+      "LinkedIn"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "youtube-history-analyze",
+    "title": "YouTube History Analyze",
+    "url": "https://youtubestats.forgetimer.com/",
+    "tooltip": "web application that allows users to visualize and analyze their YouTube watch history, providing insights into viewing patterns and trends. https://youtubestats.forgetimer.com/",
+    "categories": [
+      "SOCMINT",
+      "YouTube"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "talkwalker-osint-tool",
+    "title": "Talkwalker OSINT Tool",
+    "url": "https://www.talkwalker.com/osint-tool",
+    "tooltip": "An AI-powered platform for monitoring threats, analyzing public data, and making informed decisions by tracking millions of online sources. https://www.talkwalker.com/osint-tool",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "maps-video",
+    "title": "Maps.Video",
+    "url": "https://maps.video",
+    "tooltip": "user generated private street view video libraries using action cameras. https://maps.video",
+    "categories": [
+      "GEOINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "google-trends",
+    "title": "Google Trends",
+    "url": "https://trends.google.com/trends/",
+    "tooltip": "Analyze search interest over time for any topic, providing insights into public interest and potential trends for digital investigations. https://trends.google.com/trends/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "tracefind-info",
+    "title": "TraceFind.info",
+    "url": "https://tracefind.info",
+    "tooltip": "OSINT tool for deep email investigation, uncovering linked social media profiles, data breaches, and public records across over 190 sites, aiding in identity verification and threat analysis. https://tracefind.info",
+    "categories": [
+      "EMAILINT",
+      "Email Info"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "eyedex-org",
+    "title": "EyeDex.org",
+    "url": "https://www.eyedex.org",
+    "tooltip": "A search engine for exploring open directories across the internet, allowing retrieval of audio, video, documents, and other files from numerous servers, useful for data discovery and analysis. https://www.eyedex.org",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "dorkgenius",
+    "title": "DorkGenius",
+    "url": "https://dorkgenius.com",
+    "tooltip": "A tool for generating custom Google, Bing, and DuckDuckGo search dorks, facilitating advanced searches to uncover sensitive information and enhance digital investigations. https://dorkgenius.com",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "favihunter",
+    "title": "Favihunter",
+    "url": "https://github.com/eremit4/favihunter",
+    "tooltip": "An OSINT tool that discovers and monitors internet assets by analyzing favicon hashes across multiple search engines, aiding in identifying and tracking online assets. https://github.com/eremit4/favihunter",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
+    "slug": "detectdee",
+    "title": "DetectDee",
+    "url": "https://github.com/piaolin/DetectDee",
+    "tooltip": "A tool for hunting down social media accounts by username, email, or phone number across various social networks, assisting in digital footprint analysis and identity verification. https://github.com/piaolin/DetectDee",
+    "categories": [
+      "PEOPLE SEARCH",
+      "Username Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-12"
+  },
+  {
     "slug": "telerecon",
     "title": "Telerecon",
     "url": "https://github.com/sockysec/Telerecon",
