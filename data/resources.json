@@ -1,5 +1,119 @@
 [
   {
+    "slug": "find-osint-tool-com",
+    "title": "Find.OSINT-Tool.com",
+    "url": "https://find.osint-tool.com/",
+    "tooltip": "A search engine designed to help OSINT researchers find useful resources and tools across the internet, providing a curated selection of publicly available data sources for investigative purposes. https://find.osint-tool.com/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
+    "slug": "infostealers-info",
+    "title": "Infostealers.info",
+    "url": "https://infostealers.info/en/info",
+    "tooltip": "Unmatched Access to Global Infostealer Data &#8211; 50+ Million Infected Devices, Hourly Updates, Pay-As-You-Go https://infostealers.info/en/info",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
+    "slug": "yorba",
+    "title": "Yorba",
+    "url": "https://yorba.co/",
+    "tooltip": "Yorba: find and delete old accounts, canceling unwanted subscriptions, and unsubscribing from emails you never open. https://yorba.co/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
+    "slug": "tor-link",
+    "title": "Tor.link",
+    "url": "https://tor.link/",
+    "tooltip": "famous darknet search engine; links to various services like markets, forums, and more, accessible via Tor Browser. https://tor.link/",
+    "categories": [
+      "DARK WEB",
+      "Search Engines"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
+    "slug": "scatteredsecrets-com",
+    "title": "ScatteredSecrets.com",
+    "url": "https://scatteredsecrets.com/",
+    "tooltip": "Data leaks and stealer logs, extracts and cracks passwords. https://scatteredsecrets.com/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
+    "slug": "urlebird-com",
+    "title": "Urlebird.com",
+    "url": "https://urlebird.com",
+    "tooltip": "Browse and download TikTok videos anonymously without the need for an app or account, providing a privacy-focused viewing experience. https://urlebird.com",
+    "categories": [
+      "SOCMINT",
+      "TikTok"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
+    "slug": "instantusername-com",
+    "title": "InstantUsername.com",
+    "url": "https://instantusername.com/",
+    "tooltip": "Instantly check username availability across more than 100 social media platforms. https://instantusername.com/",
+    "categories": [
+      "PEOPLE SEARCH",
+      "Username Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
+    "slug": "amibreached-com",
+    "title": "Amibreached.com",
+    "url": "https://amibreached.com",
+    "tooltip": "monitor and protect data by checking exposure in data breaches https://amibreached.com",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
+    "slug": "dotdb-com",
+    "title": "DotDB.com",
+    "url": "https://dotdb.com/",
+    "tooltip": "Explore all registered domain names, analyze keyword trends, and discover hidden branding opportunities, useful for investigations and marketing purposes. https://dotdb.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
+    "slug": "leaked-domains",
+    "title": "Leaked.Domains",
+    "url": "https://leaked.domains/",
+    "tooltip": "A vast database of leaked data, including credentials, stealer logs, and more, to discover hidden threats and broaden investigative scope. https://leaked.domains/",
+    "categories": [
+      "BREACH DATA",
+      "Credential Leaks"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-21"
+  },
+  {
     "slug": "vormweb",
     "title": "Vormweb",
     "url": "https://vormweb.de/en/",
