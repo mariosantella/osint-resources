@@ -1,5 +1,120 @@
 [
   {
+    "slug": "telegram-finder",
+    "title": "telegram-finder",
+    "url": "https://www.telegram-finder.io",
+    "tooltip": "Identifies Telegram usernames from phone numbers, emails, or LinkedIn profiles, providing enriched metadata such as display names, profile photos, and account restrictions. Useful for cybersecurity, investigative research, and sales automation. https://www.telegram-finder.io",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
+    "slug": "pentest-tools-com",
+    "title": "Pentest-Tools.com",
+    "url": "https://pentest-tools.com/information-gathering/google-hacking",
+    "tooltip": "Online penetration testing platform offering a suite of tools for vulnerability scanning, exploitation, and reporting, designed to streamline security assessments for professionals. https://pentest-tools.com/information-gathering/google-hacking",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
+    "slug": "slideshare",
+    "title": "SlideShare",
+    "url": "https://www.slideshare.net/search?searchfrom=header&#038;q=yourcompany",
+    "tooltip": "Discover presentations, documents, infographics, useful for gathering insights about people and companies. https://www.slideshare.net/search?searchfrom=header&#038;q=yourcompany",
+    "categories": [
+      "DOCUMENTINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
+    "slug": "offshore-leaks-database",
+    "title": "Offshore Leaks Database",
+    "url": "https://offshoreleaks.icij.org/",
+    "tooltip": "A searchable database by the ICIJ containing information on over 810,000 offshore entities from investigations like the Panama Papers and Pandora Papers, aiding in financial transparency and investigative research. https://offshoreleaks.icij.org/",
+    "categories": [
+      "DOCUMENTINT",
+      "Document Leak Databases"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
+    "slug": "impersonal-me",
+    "title": "impersonal.me",
+    "url": "https://impersonal.me/",
+    "tooltip": "Perform Google searches as if they were in different countries or using different languages, providing localized search results without changing their actual location. https://impersonal.me/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
+    "slug": "indownloader-instagram-profile-viewer",
+    "title": "InDownloader Instagram Profile Viewer",
+    "url": "https://indownloader.app/instagram-profile-viewer",
+    "tooltip": "View and download Instagram profile pictures without the need for an Instagram account. Simply enter the username to access the profile image. https://indownloader.app/instagram-profile-viewer",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
+    "slug": "analyst-research-tools",
+    "title": "Analyst Research Tools",
+    "url": "https://analystresearchtools.com/",
+    "tooltip": "A comprehensive suite of OSINT utilities designed for investigative research, including tools for social media, email, phone number, and domain searches, as well as username and email permutation. https://analystresearchtools.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
+    "slug": "disboard",
+    "title": "Disboard",
+    "url": "https://disboard.org/",
+    "tooltip": "Discover and join Discord communities across various topics, including gaming, art, and technology. Server owners can list and promote their servers, while users can browse and filter servers based on tags and categories. https://disboard.org/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
+    "slug": "filepursuit",
+    "title": "FilePursuit",
+    "url": "https://filepursuit.com/",
+    "tooltip": "File search engine that indexes millions of files across the web, allowing users to find specific files such as videos, audios, eBooks, and software. It provides direct download links and supports advanced search filters. https://filepursuit.com/",
+    "categories": [
+      "DOCUMENTINT",
+      "Document Leak Databases"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
+    "slug": "reversely-ai",
+    "title": "Reversely.ai",
+    "url": "https://www.reversely.ai/",
+    "tooltip": "AI-powered reverse image search tool that specializes in facial recognition, enabling users to find similar images, track image usage, and verify authenticity across the web. https://www.reversely.ai/",
+    "categories": [
+      "IMAGEINT",
+      "Reverse Image Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-07-28"
+  },
+  {
     "slug": "find-osint-tool-com",
     "title": "Find.OSINT-Tool.com",
     "url": "https://find.osint-tool.com/",
