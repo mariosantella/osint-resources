@@ -1,5 +1,17 @@
 [
   {
+    "slug": "sherlockeye",
+    "title": "Sherlockeye",
+    "url": "https://www.sherlockeye.io",
+    "tooltip": "AI-powered OSINT platform that enables rapid investigations across multiple open sources, providing actionable insights from emails, phone numbers, usernames, domains, and more. Ideal for cybersecurity, digital forensics, and threat analysis. https://www.sherlockeye.io",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-04"
+  },
+  {
     "slug": "telegram-finder",
     "title": "telegram-finder",
     "url": "https://www.telegram-finder.io",
