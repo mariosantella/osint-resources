@@ -2362,5 +2362,17 @@
     ],
     "attributes": [],
     "date_added": "2025-05-13"
-  }
+  },
+  {
+  "slug": "rostral-io",
+  "title": "Rostral.io",
+  "url": "https://rostral.io",
+  "tooltip": "Rostral.io is a self-hosted semantic monitoring platform for public documents. It enables deep inspection of PDF/HTML sources using YAML-based configuration and integrates with local LLMs for high-precision insight extraction. Suitable for tracking grants, legal updates, and regulatory reports.",
+  "categories": [
+    "PUBLIC DATA"
+  ],
+  "attributes": [],
+  "date_added": "2025-08-06"
+}
+
 ]
