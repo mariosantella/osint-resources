@@ -1,5 +1,154 @@
 [
   {
+    "slug": "sitechecker-similar-websites",
+    "title": "Sitechecker Similar Websites",
+    "url": "https://sitechecker.pro/similar-websites/",
+    "tooltip": "Identifies websites similar to any given domain, aiding in competitive analysis and market research. Similar Website Finder | A Must for Market Research \u1408",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "reeltime-ai",
+    "title": "ReelTime AI",
+    "url": "https://reeltime-ai.com/",
+    "tooltip": "AI-powered YouTube timestamp navigator that finds matching phrases, streamlines video navigation, and shows full transcript context around your search term. https://reeltime-ai.com/",
+    "categories": [
+      "SOCMINT",
+      "YouTube"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "venacus",
+    "title": "Venacus",
+    "url": "https://venacus.com/",
+    "tooltip": "Data breach search engine that allows you to search for your data breaches and get notified when your data is compromised, helping protect your data and organization. https://venacus.com/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "postman-public-api",
+    "title": "Postman Public API",
+    "url": "https://www.postman.com/explore/collections",
+    "tooltip": "Discover, explore, and share APIs, offering a vast collection of public API requests and collections for various services. https://www.postman.com/explore/collections",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "ooni-explorer",
+    "title": "OONI Explorer",
+    "url": "https://explorer.ooni.org/",
+    "tooltip": "Open data resource on internet censorship around the world, consisting of over a billion measurements on network interference, aiding in transparency and research. https://explorer.ooni.org/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "instagramprivsniffer",
+    "title": "InstagramPrivSniffer",
+    "url": "https://github.com/obitouka/InstagramPrivSniffer",
+    "tooltip": "View media from private Instagram accounts without login, utilizing the platform&#8217;s collaboration feature to access shared content. https://github.com/obitouka/InstagramPrivSniffer",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "2chat-whatsapp-checker",
+    "title": "2Chat WhatsApp Checker",
+    "url": "https://2chat.co/tools/whatsapp-checker",
+    "tooltip": "Determines if a phone number is registered on WhatsApp, providing insights into the number&#8217;s validity, region, carrier and user info. https://2chat.co/tools/whatsapp-checker",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Whatsapp"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "lambda-black-osint-investigation-assistant",
+    "title": "Lambda.black OSINT Investigation Assistant",
+    "url": "https://lambda.black/osint.html",
+    "tooltip": "Interactive searchable tool list that facilitates OSINT searches. https://lambda.black/osint.html",
+    "categories": [
+      "GENERAL OSINT",
+      "Bookmark Collections"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "carnet-ai",
+    "title": "CarNet.AI",
+    "url": "https://carnet.ai/",
+    "tooltip": "An AI-powered API that accurately identifies car make, model, generation, color, and angle from images, supporting over 3,100 models and offering 97%+ accuracy. https://carnet.ai/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "cyber-detective-osint-tools-map",
+    "title": "Cyber Detective OSINT Tools Map",
+    "url": "https://cybdetective.com/osintmap/",
+    "tooltip": "Worldwide map aggregating over 700 public data sources, including phonebooks, cadastral maps, business registries, court records, and more. Organized by country, region, and service type, it serves as a comprehensive resource for OSINT professionals. https://cybdetective.com/osintmap/",
+    "categories": [
+      "GENERAL OSINT",
+      "Bookmark Collections"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "odcrawler",
+    "title": "ODCrawler",
+    "url": "https://odcrawler.xyz",
+    "tooltip": "Open directories and publicly accessible files across the internet. https://odcrawler.xyz",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "meawfy",
+    "title": "Meawfy",
+    "url": "https://meawfy.com/",
+    "tooltip": "Advanced search engine for Mega.nz, offering access to over 9 million indexed files, including educational materials, software, movies, and more. It employs intelligent crawling and categorization for efficient discovery. https://meawfy.com/",
+    "categories": [
+      "CRAWLING - SCRAPING",
+      "Bucket Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "rostral-io",
+    "title": "Rostral.io",
+    "url": "https://rostral.io",
+    "tooltip": "Rostral.io is a self-hosted semantic monitoring platform for public documents. It enables deep inspection of PDF/HTML sources using YAML-based configuration and integrates with local LLMs for high-precision insight extraction. Suitable for tracking grants, legal updates, and regulatory reports.",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-06"
+  },
+  {
     "slug": "sherlockeye",
     "title": "Sherlockeye",
     "url": "https://www.sherlockeye.io",
@@ -2362,17 +2511,5 @@
     ],
     "attributes": [],
     "date_added": "2025-05-13"
-  },
-  {
-  "slug": "rostral-io",
-  "title": "Rostral.io",
-  "url": "https://rostral.io",
-  "tooltip": "Rostral.io is a self-hosted semantic monitoring platform for public documents. It enables deep inspection of PDF/HTML sources using YAML-based configuration and integrates with local LLMs for high-precision insight extraction. Suitable for tracking grants, legal updates, and regulatory reports.",
-  "categories": [
-    "PUBLIC DATA"
-  ],
-  "attributes": [],
-  "date_added": "2025-08-06"
-}
-
+  }
 ]
