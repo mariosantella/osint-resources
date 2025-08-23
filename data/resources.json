@@ -1,5 +1,98 @@
 [
   {
+    "slug": "ai-image-detector",
+    "title": "AI Image Detector",
+    "url": "https://aiimagedetector.org/",
+    "tooltip": "Detect AI-generated images to spot fake profiles and verify authenticity. Useful for OSINT investigations and online verification. https://aiimagedetector.org/",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-23"
+  },
+  {
+    "slug": "answerthepublic",
+    "title": "AnswerThePublic",
+    "url": "https://answerthepublic.com/",
+    "tooltip": "Visualize the questions, queries, and phrases people use on search engines around any topic. Great for content research, SEO, and understanding public interest. https://answerthepublic.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-23"
+  },
+  {
+    "slug": "gptzero",
+    "title": "GPTZero",
+    "url": "https://gptzero.me/",
+    "tooltip": "Detect AI-generated text and spot potential fake news content, supporting journalists, educators, and researchers in verifying authenticity. https://gptzero.me/",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-23"
+  },
+  {
+    "slug": "big-ass-data-broker-opt-out-list",
+    "title": "Big-Ass Data Broker Opt-Out List",
+    "url": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
+    "tooltip": "A comprehensive list of data brokers and their opt-out procedures, helping protect personal privacy online. https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-23"
+  },
+  {
+    "slug": "atsame-ip",
+    "title": "AtSame IP",
+    "url": "https://atsameip.intercode.ca/",
+    "tooltip": "Track shared IP addresses to identify connections between online accounts or digital footprints. https://atsameip.intercode.ca/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-23"
+  },
+  {
+    "slug": "fotoforensics",
+    "title": "FotoForensics",
+    "url": "https://fotoforensics.com/",
+    "tooltip": "Advanced image forensics platform for detecting image manipulation and validating visual content. https://fotoforensics.com/",
+    "categories": [
+      "IMAGEINT",
+      "Metadata Analysis"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-23"
+  },
+  {
+    "slug": "uk-osint-reverse-image-searching",
+    "title": "UK OSINT Reverse Image Searching",
+    "url": "https://www.uk-osint.net/reverseimagesearching.html",
+    "tooltip": "Resource hub for conducting reverse image searches to trace online visuals and media. https://www.uk-osint.net/reverseimagesearching.html",
+    "categories": [
+      "IMAGEINT",
+      "Reverse Image Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-23"
+  },
+  {
+    "slug": "facesearch-arrests-org",
+    "title": "FaceSearch Arrests.org",
+    "url": "https://facesearch.arrests.org/",
+    "tooltip": "Search for individuals by facial recognition using publicly available mugshots and arrest records. https://facesearch.arrests.org/",
+    "categories": [
+      "IMAGEINT",
+      "Reverse Image Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-08-23"
+  },
+  {
     "slug": "sitechecker-similar-websites",
     "title": "Sitechecker Similar Websites",
     "url": "https://sitechecker.pro/similar-websites/",
