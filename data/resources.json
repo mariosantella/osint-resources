@@ -1,5 +1,99 @@
 [
   {
+    "slug": "i-know-what-you-download",
+    "title": "I Know What You Download",
+    "url": "https://iknowwhatyoudownload.com/",
+    "tooltip": "Monitors and visualizes Torrent activity by IP and some other stats https://iknowwhatyoudownload.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-01"
+  },
+  {
+    "slug": "channelcrawler",
+    "title": "ChannelCrawler",
+    "url": "https://channelcrawler.com/",
+    "tooltip": "Search and discover YouTube channels by keywords, location, or category. https://channelcrawler.com/",
+    "categories": [
+      "SOCMINT",
+      "YouTube"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-01"
+  },
+  {
+    "slug": "cybernews-leak-check",
+    "title": "CyberNews Leak Check",
+    "url": "https://cybernews.com/personal-data-leak-check/",
+    "tooltip": "Check if your personal data has been exposed in leaks or breaches. https://cybernews.com/personal-data-leak-check/",
+    "categories": [
+      "BREACH DATA",
+      "Credential Leaks"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-01"
+  },
+  {
+    "slug": "dolphinradar-instagram-viewer",
+    "title": "DolphinRadar Instagram Viewer",
+    "url": "https://www.dolphinradar.com/web-viewer-for-instagram",
+    "tooltip": "View Instagram profiles and content directly via web without logging in. https://www.dolphinradar.com/web-viewer-for-instagram",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-01"
+  },
+  {
+    "slug": "dargle",
+    "title": "Dargle",
+    "url": "https://www.dargle.net/search",
+    "tooltip": "Search and explore the Dark Web, no bs. https://www.dargle.net/search",
+    "categories": [
+      "DARK WEB",
+      "Search Engines"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-01"
+  },
+  {
+    "slug": "tokinsights",
+    "title": "TokInsights",
+    "url": "https://tokinsights.com",
+    "tooltip": "TokInsights provides analytics and insights for TikTok, helping marketers, researchers, and brands track trends, engagement, and audience behavior to optimize social media strategies. https://tokinsights.com",
+    "categories": [
+      "SOCMINT",
+      "TikTok"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-01"
+  },
+  {
+    "slug": "espysys-irbis",
+    "title": "EspySys \u2013 IRBIS",
+    "url": "https://irbis.espysys.com",
+    "tooltip": "IRBIS by EspySys offers real-time data discovery and reverse lookup capabilities, empowering investigators and businesses to proactively prevent fraud. Ideal for online marketplaces, financial services, and investigative teams, IRBIS provides actionable insights and enhances risk prevention strategies. https://irbis.espysys.com",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-01"
+  },
+  {
+    "slug": "sockpuppets-io",
+    "title": "Sockpuppet.io",
+    "url": "https://www.sockpuppet.io/",
+    "tooltip": "Deliver secure, on-demand digital identities for online investigations. Ideal for OSINT professionals, threat intelligence teams, and law enforcement, combining virtual desktops, mobile devices, OTP-capable numbers, and real connectivity with built-in forensic capture. Home",
+    "categories": [
+      "SOCMINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-01"
+  },
+  {
     "slug": "ai-image-detector",
     "title": "AI Image Detector",
     "url": "https://aiimagedetector.org/",
