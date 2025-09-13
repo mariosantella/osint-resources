@@ -1,5 +1,146 @@
 [
   {
+    "slug": "xeuledoc",
+    "title": "xeuledoc",
+    "url": "https://github.com/Malfrats/xeuledoc",
+    "tooltip": "Fetch information about any public Google document. https://github.com/Malfrats/xeuledoc",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "mw-geofind",
+    "title": "MW Geofind",
+    "url": "https://mattw.io/youtube-geofind/location",
+    "tooltip": "Search YouTube by location for geotagged videos. Find videos near you or anywhere in the world. https://mattw.io/youtube-geofind/location",
+    "categories": [
+      "SOCMINT",
+      "YouTube"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "youtube-video-finder",
+    "title": "YouTube Video Finder",
+    "url": "https://findyoutubevideo.thetechrobo.ca",
+    "tooltip": "Search several resources for archived YouTube video and metadata. https://findyoutubevideo.thetechrobo.ca",
+    "categories": [
+      "SOCMINT",
+      "YouTube"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "torry",
+    "title": "Torry",
+    "url": "https://www.torry.io/search/",
+    "tooltip": "Another Darkweb engine https://www.torry.io/search/",
+    "categories": [
+      "DARK WEB",
+      "Search Engines"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "whatbreach",
+    "title": "WhatBreach",
+    "url": "https://github.com/Ekultek/WhatBreach",
+    "tooltip": "OSINT tool to find breached emails, databases, pastes, and relevant information. https://github.com/Ekultek/WhatBreach",
+    "categories": [
+      "BREACH DATA",
+      "Credential Leaks"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "usersearch-org",
+    "title": "UserSearch.org",
+    "url": "https://usersearch.org/",
+    "tooltip": "Reverse username search engine that finds full account information across social networks, dating sites, forums, and other platforms. Discover real names, fake names, emails, phone numbers, hidden profiles, pictures, online activity, and more. https://usersearch.org/",
+    "categories": [
+      "PEOPLE SEARCH",
+      "Username Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "social-media-index",
+    "title": "Social Media Index",
+    "url": "https://app.fanpagekarma.com/social-media-index",
+    "tooltip": "Shows daily reach, engagement, post frequency, and growth trends of top Facebook Pages, providing insights across multiple countries. https://app.fanpagekarma.com/social-media-index",
+    "categories": [
+      "SOCMINT",
+      "Facebook"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "surveillancewatch-io",
+    "title": "SurveillanceWatch.io",
+    "url": "https://surveillancewatch.io/",
+    "tooltip": "Interactive map revealing connections between surveillance companies, their funding sources, and affiliations. https://surveillancewatch.io/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "nova-osint-navigator",
+    "title": "Nova OSINT Navigator",
+    "url": "https://osint.nova-saas.com/",
+    "tooltip": "Aggregator platform with advanced tools and AI-powered recommendations. Analyze IPs, domains, URLs, hashes, or emails and get suggested tools for your research. https://osint.nova-saas.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "facebook-catalogue",
+    "title": "Facebook Catalogue",
+    "url": "https://app.fanpagekarma.com/facebook-catalogue",
+    "tooltip": "Browse and analyze top Facebook pages by country and category to see who\u2019s the most followed person, page, or brand. https://app.fanpagekarma.com/facebook-catalogue",
+    "categories": [
+      "SOCMINT",
+      "Facebook"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "map-to-censys",
+    "title": "Map to Censys",
+    "url": "https://workshop.censys.io/map-to-censys/",
+    "tooltip": "A tool to query Censys data by geolocation. https://workshop.censys.io/map-to-censys/",
+    "categories": [
+      "GEOINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
+    "slug": "waybacktweets",
+    "title": "WaybackTweets",
+    "url": "https://waybacktweets.streamlit.app/",
+    "tooltip": "Archives and visualizes deleted or historical tweets from Twitter accounts. https://waybacktweets.streamlit.app/",
+    "categories": [
+      "SOCMINT",
+      "Twitter / X"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-13"
+  },
+  {
     "slug": "i-know-what-you-download",
     "title": "I Know What You Download",
     "url": "https://iknowwhatyoudownload.com/",
