@@ -1,5 +1,62 @@
 [
   {
+    "slug": "hetty",
+    "title": "Hetty",
+    "url": "https://github.com/dstotijn/hetty",
+    "tooltip": "Open-source HTTP toolkit for security research. Designed as an alternative to Burp Suite Pro, it\u2019s useful for infosec, bug bounty, and even large-scale web scraping in OSINT workflows. https://github.com/dstotijn/hetty",
+    "categories": [
+      "CRAWLING - SCRAPING",
+      "Web Scrapers"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-21"
+  },
+  {
+    "slug": "builtwith",
+    "title": "BuiltWith",
+    "url": "https://builtwith.com/",
+    "tooltip": "Website profiler that reveals the tech stack behind any domain. Identify CMS, analytics, hosting, frameworks, and more \u2014 useful for OSINT, pentesting prep, and market intelligence. https://builtwith.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-21"
+  },
+  {
+    "slug": "whois-history-by-whoisxml",
+    "title": "WHOIS History by WhoisXML",
+    "url": "https://whois-history.whoisxmlapi.com/",
+    "tooltip": "Tool to check domain ownership history. Access WHOIS records across 25B+ entries via lookup, API, or database download \u2014 useful for investigations, attribution, and threat research. https://whois-history.whoisxmlapi.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-21"
+  },
+  {
+    "slug": "infotrail",
+    "title": "InfoTrail",
+    "url": "https://infotrail.io/",
+    "tooltip": "Web tool to trace digital footprints. Search across domains, emails, phone numbers, IPs, and crypto addresses to map connections and investigate online identities. https://infotrail.io/",
+    "categories": [
+      "GENERAL OSINT",
+      "Metasearch"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-21"
+  },
+  {
+    "slug": "nfominer",
+    "title": "NFOMINER",
+    "url": "https://github.com/techenthusiast167/NFOMINER",
+    "tooltip": "Tool for extracting hidden metadata from online documents (PDF, Word, Excel, Images) https://github.com/techenthusiast167/NFOMINER",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-09-21"
+  },
+  {
     "slug": "xeuledoc",
     "title": "xeuledoc",
     "url": "https://github.com/Malfrats/xeuledoc",
