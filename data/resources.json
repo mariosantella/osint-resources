@@ -1,5 +1,76 @@
 [
   {
+    "slug": "tikspyder",
+    "title": "TikSpyder",
+    "url": "https://github.com/estebanpdl/tik-spyder",
+    "tooltip": "Open-source tool to collect and analyze TikTok data. Supports keyword, user, and hashtag searches via SerpAPI &#038; Apify, with video downloads, CSV export, and a Streamlit web interface. Useful for OSINT, trend monitoring, and social media investigations. https://github.com/estebanpdl/tik-spyder",
+    "categories": [
+      "SOCMINT",
+      "TikTok"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-03"
+  },
+  {
+    "slug": "big-mastodon-hashtag-search",
+    "title": "Big Mastodon Hashtag Search",
+    "url": "https://mastogizmos.com/bmhs.html",
+    "tooltip": "Search Mastodon posts across multiple servers by hashtag. Helps OSINT investigators and researchers track discussions and trends in the Fediverse. https://mastogizmos.com/bmhs.html",
+    "categories": [
+      "SOCMINT",
+      "Mastodon"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-03"
+  },
+  {
+    "slug": "danaxscully-onion-links",
+    "title": "DanaXScully Onion Links",
+    "url": "https://gitlab.com/DanaXScully/onion_links",
+    "tooltip": "Curated list of Tor hidden services (.onion). Useful for dark web OSINT, monitoring underground sites, and investigating hidden services. https://gitlab.com/DanaXScully/onion_links",
+    "categories": [
+      "DARK WEB",
+      "Onion Directories"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-03"
+  },
+  {
+    "slug": "tirexdel",
+    "title": "Tirexdel",
+    "url": "https://tirexdel.github.io",
+    "tooltip": "OSINT security tool for automated IoC analysis. It queries 9 major vendors (VirusTotal, AbuseIPDB, OTX, X-Force, etc.) to analyze IPs, domains, URLs, file hashes, and even suspicious emails. Time saver in cyber threat investigations. https://tirexdel.github.io",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-03"
+  },
+  {
+    "slug": "megagladys",
+    "title": "MegaGladys",
+    "url": "https://megagladys.com/",
+    "tooltip": "Suite of research tools powered by Wikipedia &#038; Wikidata for investigating public figures. Includes biography data, timeline analysis, affiliations, and relationship mapping \u2014 useful for journalists and OSINT practitioners. https://megagladys.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "Search Engines"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-03"
+  },
+  {
+    "slug": "nerdydata",
+    "title": "NerdyData",
+    "url": "https://www.nerdydata.com/",
+    "tooltip": "Search which websites use specific SaaS technologies or HTML/JS snippets \u2014 ideal for tech footprinting, competitor intel, and large-scale site discovery (Shopify, HubSpot, Stripe, etc.). https://www.nerdydata.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-03"
+  },
+  {
     "slug": "hetty",
     "title": "Hetty",
     "url": "https://github.com/dstotijn/hetty",
