@@ -1,5 +1,130 @@
 [
   {
+    "slug": "port-scanner-online",
+    "title": "Port Scanner Online",
+    "url": "https://portscanner.online/",
+    "tooltip": "Web-based utility to quickly scan a target host, detect open and unusual ports, and check running services. Utilizes tools like Nmap and Unicornscan to provide detailed results for vulnerability and security testing, accessible from any device. https://portscanner.online/",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "torbot",
+    "title": "TorBot",
+    "url": "https://github.com/DedSecInside/TorBot",
+    "tooltip": "An Open Source Intelligence Tool for the Dark Web. TorBot features an Onion Crawler that returns page titles and addresses for .onion sites, checks link status, and supports SOCKS5 proxy configurations for anonymous dark web investigations. https://github.com/DedSecInside/TorBot",
+    "categories": [
+      "DARK WEB"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "danex",
+    "title": "DANEX",
+    "url": "https://danex.io/",
+    "tooltip": "DarkNet Explorer Search Engine designed to guide users through the hidden web by indexing .onion links on the Tor network. https://danex.io/",
+    "categories": [
+      "DARK WEB",
+      "Search Engines"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "search-engine-dorks-generator",
+    "title": "Search Engine Dorks Generator",
+    "url": "https://kriztalz.sh/search-dorks/",
+    "tooltip": "A free online OSINT tool that leverages AI to help researchers and analysts create effective search queries (dorks) for specialized engines. It converts natural language intent into dork syntax for Shodan, Censys, Google, FOFA, and ZoomEye. https://kriztalz.sh/search-dorks/",
+    "categories": [
+      "GENERAL OSINT",
+      "Dork Tools"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "snapchat-username-checker",
+    "title": "Snapchat Username Checker",
+    "url": "https://github.com/RAJGAMERZ001/Snapchat-Username-Checker",
+    "tooltip": "Go-based Snapchat username checker utilizing the app&#8217;s private gRPC API. This blazing fast OSINT tool includes proxy support and an SSL pinning bypass, making it an essential and reliable solution for quickly securing desired usernames. https://github.com/RAJGAMERZ001/Snapchat-Username-Checker",
+    "categories": [
+      "SOCMINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "nikto-online-scanner",
+    "title": "Nikto Online Scanner",
+    "url": "https://nikto.online/",
+    "tooltip": "Famous Online vulnerability scanner designed to swiftly assess the security of web servers. It identifies potential vulnerabilities, misconfigurations, and outdated software, all from an intuitive, web-based interface. https://nikto.online/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "doxcord",
+    "title": "Doxcord",
+    "url": "https://github.com/boringthegod/doxcord",
+    "tooltip": "Scan Discord servers for social media links containing tracking parameters. The tool can identify Instagram, TikTok, and Facebook links that include tracking identifiers, and organize them by user and server. https://github.com/boringthegod/doxcord",
+    "categories": [
+      "SOCMINT",
+      "Discord"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "osint-handbook",
+    "title": "OSINT Handbook",
+    "url": "https://www.osinthandbook.com/",
+    "tooltip": "An index of essential OSINT tools and resources curated by the team at i-Intelligence GmbH. A must-have guide for analysts and researchers. https://www.osinthandbook.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "cerast-intelligence",
+    "title": "Cerast Intelligence",
+    "url": "https://cerast-intelligence.com/",
+    "tooltip": "Security Intelligence Platform A powerful tool to discover security vulnerabilities, exposed credentials, configuration files, and database backups before attackers do. Uses pay-per-search pricing and advanced regex patterns for precise vulnerability discovery. https://cerast-intelligence.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "socialfinder",
+    "title": "SocialFinder",
+    "url": "https://lovedy.org/",
+    "tooltip": "OSINT web application built with Flask and powered by Sherlock. It allows you to search for a username across hundreds of social networks and get structured results in a modern web interface. https://lovedy.org/",
+    "categories": [
+      "PEOPLE SEARCH"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
+    "slug": "youtube_data_extractor",
+    "title": "youtube_data_extractor",
+    "url": "https://github.com/Illusion6984/youtube_data_extractor",
+    "tooltip": "Simple metadata extractor for YouTube videos; useful for OSINT investigations and data recollection. Originally inspired by the now defunct YouTube Data Viewer published by Amnesty International. https://github.com/Illusion6984/youtube_data_extractor",
+    "categories": [
+      "SOCMINT",
+      "YouTube"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-12"
+  },
+  {
     "slug": "tikspyder",
     "title": "TikSpyder",
     "url": "https://github.com/estebanpdl/tik-spyder",
