@@ -1,5 +1,189 @@
 [
   {
+    "slug": "vehicle-ai",
+    "title": "Vehicle AI",
+    "url": "https://vehicle-ai.vercel.app",
+    "tooltip": "AI tool designed to identify vehicles from images. Upload a photo of any car, truck, or motorcycle, and the system instantly recognizes its make, model, year, and other details. https://vehicle-ai.vercel.app",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "web-cleaner",
+    "title": "Web Cleaner",
+    "url": "https://www.webcleaner.com",
+    "tooltip": "Meta-search engine designed for efficiency. Query simultaneously the top Internet search engines from a single interface. https://www.webcleaner.com",
+    "categories": [
+      "GENERAL OSINT",
+      "Search Engines"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "yupgr-subdomain-finder",
+    "title": "YUPGR Subdomain Finder",
+    "url": "https://yup.gr/tools/subdomain-finder",
+    "tooltip": "Online tool for reconnaissance and attack surface mapping. Quickly enter any domain to discover its associated subdomains https://yup.gr/tools/subdomain-finder",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "theirstack",
+    "title": "TheirStack",
+    "url": "https://theirstack.com?aff=8O93h0BuhumD",
+    "tooltip": "A powerful Business Intelligence platform for technology lookup over a company. It identifies companies based on the specific technologies (tech stack) for intelligence purpose. https://theirstack.com?aff=8O93h0BuhumD",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "antipublic",
+    "title": "AntiPublic",
+    "url": "https://antipublic.net",
+    "tooltip": "HUGE database and lookup tool containing billions of records of leaked credentials (email/password pairs) gathered from various public data breaches and compromised sources. Highly utilized for checking the legitimacy of compromised data and security analysis. https://antipublic.net",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "dataseal",
+    "title": "DataSeal",
+    "url": "https://dataseal.io",
+    "tooltip": "Remove your personal information (PII) from data broker sites and the broader internet. It automatically identifies, deletes, and continuously monitors for exposed data to protect against identity theft and spam. https://dataseal.io",
+    "categories": [
+      "PRIVACY TOOLS"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "censysgpt-beta",
+    "title": "CensysGPT Beta",
+    "url": "https://gpt.censys.io",
+    "tooltip": "AI-powered tool (via OpenAI GPT) that simplifies Internet-wide reconnaissance by translating natural language descriptions into effective Censys search queries. https://gpt.censys.io",
+    "categories": [
+      "GENERAL OSINT",
+      "Dork Tools"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "whats-that-whatsapp-analyzer",
+    "title": "Whats That Whatsapp analyzer",
+    "url": "https://github.com/markrai/whatsthat",
+    "tooltip": "WhatsApp Web analyzer (Chrome extension). It quietly monitors group chat dynamics, analyzing reactions and replies to uncover social gravity, influence, favoritism, and marginalization patterns between members. https://github.com/markrai/whatsthat",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Whatsapp"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "darkcrawler-by-paranoid",
+    "title": "DarkCrawler by Paranoid",
+    "url": "https://github.com/paranoidsec/paranoid-darkcrawler",
+    "tooltip": "Python crawler designed for authorized security research and monitoring of darkweb content via the Tor network. Extracts metadata, links, and email-like strings from .onion domains with configurable depth and rate limits. https://github.com/paranoidsec/paranoid-darkcrawler",
+    "categories": [
+      "DARK WEB"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "bf-search",
+    "title": "BF Search",
+    "url": "https://bf.based.re",
+    "tooltip": "Search tool for accessing and analyzing historical BreachForums user data. Quickly find and investigate metadata associated with user nicknames from the leaked database for valuable OSINT and security research. https://bf.based.re",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "github-dorks-collection",
+    "title": "GitHub Dorks Collection",
+    "url": "https://github.com/techgaun/github-dorks",
+    "tooltip": "Collection of GitHub dorks and an accompanying Python tool to automate searching for leaked secrets, credentials, API keys, and private configuration files across public repositories. Essential for security audits and penetration testing. https://github.com/techgaun/github-dorks",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "exolyt",
+    "title": "Exolyt",
+    "url": "https://exolyt.com",
+    "tooltip": "TikTok Social Intelligence Platform. Get deep TikTok analytics and insights for social listening, trend analysis, competitor tracking, and monitoring influencer campaigns. Leverage real-time data and AI-backed insights to understand the TikTok ecosystem. https://exolyt.com",
+    "categories": [
+      "SOCMINT",
+      "TikTok"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "metabeta",
+    "title": "MetaBeta",
+    "url": "https://meta.narka.io",
+    "tooltip": "Web analysis tool for OSINT. Enter any URL to get a deep-dive analysis, revealing vital information such as HTTP headers, SSL certificate details, meta tags, tracking codes, external resources, and website location. https://meta.narka.io",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "geoinfer",
+    "title": "GeoInfer",
+    "url": "https://app.geoinfer.com",
+    "tooltip": "AI-powered image location finder built for professionals. It geolocates images by analyzing visual cues\u2014like architecture, terrain, and landmarks\u2014without requiring EXIF or GPS metadata, making it ideal for digital forensics and intelligence analysis. https://app.geoinfer.com",
+    "categories": [
+      "GEOINT",
+      "Geolocalization"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "ycf-youtube-comment-finder",
+    "title": "YCF &#8211; Youtube Comment Finder",
+    "url": "https://ytcomment.kmcat.uk/",
+    "tooltip": "A simple yet powerful tool to search for specific comments on YouTube videos, channels, or by VideoID. Quickly locate comments using keywords to analyze discussions or find user interactions. https://ytcomment.kmcat.uk/",
+    "categories": [
+      "SOCMINT",
+      "YouTube"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
+    "slug": "stalkface",
+    "title": "StalkFace",
+    "url": "https://stalkface.com/en/",
+    "tooltip": "Facebook Stalking &#038; Scanner tool. Easily uncover content you have access to on any Facebook profile using powerful filters for time, type (photos, interests, places), and more, without violating privacy settings. https://stalkface.com/en/",
+    "categories": [
+      "SOCMINT",
+      "Facebook"
+    ],
+    "attributes": [],
+    "date_added": "2025-10-31"
+  },
+  {
     "slug": "port-scanner-online",
     "title": "Port Scanner Online",
     "url": "https://portscanner.online/",
