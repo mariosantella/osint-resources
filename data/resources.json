@@ -1,5 +1,106 @@
 [
   {
+    "slug": "email-extractor",
+    "title": "Email Extractor",
+    "url": "https://github.com/rix4uni/emailextractor",
+    "tooltip": "Open-source tool for concurrent crawling of websites and their internal links to collect email addresses. https://github.com/rix4uni/emailextractor",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-12"
+  },
+  {
+    "slug": "spottr",
+    "title": "Spottr",
+    "url": "https://usespottr.com",
+    "tooltip": "CTRL+F for Videos with AI. Searching for anything inside video content, treating footage like text. It can identify objects https://usespottr.com",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-12"
+  },
+  {
+    "slug": "onion-lookup",
+    "title": "onion-lookup",
+    "url": "https://onion.ail-project.org",
+    "tooltip": "Check the existence and retrieve metadata of Tor hidden services. A critical resource for dark web reconnaissance and monitoring. https://onion.ail-project.org",
+    "categories": [
+      "DARK WEB"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-12"
+  },
+  {
+    "slug": "tosint",
+    "title": "Tosint",
+    "url": "https://github.com/drego85/tosint",
+    "tooltip": "Python tool designed for Telegram OSINT. It extracts valuable, detailed metadata from Telegram bots and channels, including user counts, admin roles, invite links, and user IDs. https://github.com/drego85/tosint",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-12"
+  },
+  {
+    "slug": "cold-relation",
+    "title": "Cold Relation",
+    "url": "https://coldrelation.com/",
+    "tooltip": "A free to use (currently in Alpha) platform with dedicated tools for in-depth analysis of channels and posts across Telegram, VK, TikTok, and X (Twitter), alongside a dedicated China Suite (Weibo, QQ, Tieba). https://coldrelation.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-12"
+  },
+  {
+    "slug": "flowsint",
+    "title": "Flowsint",
+    "url": "https://www.flowsint.io",
+    "tooltip": "A modern platform for visual, flexible, and extensible graph-based investigations. Flowsint connects, enriches, and visualizes complex data relationships, utilizing a Neo4j backend and native integration with n8n for building sophisticated OSINT automation workflows. https://www.flowsint.io",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-12"
+  },
+  {
+    "slug": "malfors",
+    "title": "Malfors",
+    "url": "https://malfors.com/",
+    "tooltip": "Investigation platform built for analysts, featuring intuitive graph mapping, real-time team collaboration, and integrated entity enrichment from various data sources. https://malfors.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-12"
+  },
+  {
+    "slug": "darknetsearch",
+    "title": "DarknetSearch",
+    "url": "https://darknetsearch.com",
+    "tooltip": "Dark Web Monitoring and Cyber Threat Intelligence solution. It continuously tracks exposed assets, compromised credentials (PII, credit cards), and sensitive data across dark web forums, Telegram, Discord, and I2P networks for proactive threat detection. https://darknetsearch.com",
+    "categories": [
+      "DARK WEB"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-12"
+  },
+  {
+    "slug": "ail-project",
+    "title": "AIL Project",
+    "url": "https://ail-project.org",
+    "tooltip": "DDW Open-source framework designed for collecting, crawling, digging, and analyzing unstructured data, particularly effective for finding information leaks and intelligence. Tor hidden services and integrates with data feeders like Twitter, Discord, and Telegram. https://ail-project.org",
+    "categories": [
+      "DARK WEB"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-12"
+  },
+  {
     "slug": "vehicle-ai",
     "title": "Vehicle AI",
     "url": "https://vehicle-ai.vercel.app",
