@@ -1,5 +1,120 @@
 [
   {
+    "slug": "hostagram",
+    "title": "Hostagram",
+    "url": "https://github.com/banaxou/hostagram",
+    "tooltip": "Instagram OSINT tool designed to extract and monitor maximum information from any public account. Features include gathering detailed user data, bio details, public email/phone lookups, and tracking key metadata. https://github.com/banaxou/hostagram",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
+    "slug": "pano-date-resolver",
+    "title": "Pano Date Resolver",
+    "url": "https://pano-date.emily.bz/",
+    "tooltip": "Online OSINT tool to determine the exact time and date a Google Street View panorama was captured, often with an accuracy of up to 2 seconds. Input the full panorama URL to uncover crucial temporal data for geo-location analysis and verification. https://pano-date.emily.bz/",
+    "categories": [
+      "GEOINT",
+      "Map Analysis"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
+    "slug": "arkham-intel-platform",
+    "title": "Arkham Intel Platform",
+    "url": "https://intel.arkm.com/",
+    "tooltip": "A powerful blockchain and crypto intelligence platform. Track real-time exchange flows, token metrics, and transfers across CEX and DEX markets. https://intel.arkm.com/",
+    "categories": [
+      "CRYPTOCURRENCIES"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
+    "slug": "predicta-search",
+    "title": "Predicta Search",
+    "url": "https://www.predictasearch.com/",
+    "tooltip": "Reverse Lookup platform that allows investigators to uncover an individual&#8217;s entire digital footprint starting from a single identifier: email, phone number, username, or name. It instantly scans over 100 networks and websites (from social media to specific platforms), providing detailed, real-time reports. https://www.predictasearch.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
+    "slug": "analyzeid",
+    "title": "AnalyzeID",
+    "url": "https://analyzeid.com/",
+    "tooltip": "Reverse IP lookup to reveal an individual&#8217;s full online presence. It analyzes hidden connections by leveraging shared Google Analytics, AdSense, Amazon affiliate, and email IDs to map all websites owned by the same person\u2014even if they are hosted on different servers. https://analyzeid.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
+    "slug": "f5bot",
+    "title": "F5Bot",
+    "url": "https://f5bot.com/",
+    "tooltip": "Free monitoring service that emails users when their chosen keywords are mentioned on popular developer-centric communities like Reddit, Hacker News, and Lobsters. https://f5bot.com/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
+    "slug": "where-is-this-photo",
+    "title": "Where Is This Photo",
+    "url": "https://www.whereisthisphoto.com/",
+    "tooltip": "Free AI Photo Locator and Image Location Finder that uses advanced machine learning and reverse image geolocation to analyze visual elements (landmarks, architecture, vegetation) and determine where any photo was taken, even without GPS metadata. https://www.whereisthisphoto.com/",
+    "categories": [
+      "GEOINT",
+      "Geolocalization"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
+    "slug": "geointel",
+    "title": "GeoIntel",
+    "url": "https://github.com/atiilla/GeoIntel",
+    "tooltip": "Python-based AI tool that leverages Google&#8217;s Gemini API to perform advanced geo-location analysis on images. It accurately uncovers the location where photos were taken by analyzing visual cues, generating coordinates, confidence levels, and direct Google Maps links. https://github.com/atiilla/GeoIntel",
+    "categories": [
+      "GEOINT",
+      "Geolocalization"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
+    "slug": "the-org",
+    "title": "The Org",
+    "url": "https://theorg.com/",
+    "tooltip": "Website collecting public organizational charts. It provides unparalleled transparency into company structures, team hierarchies, and employee roles. https://theorg.com/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
+    "slug": "rix4uni-email-extractor",
+    "title": "rix4uni Email Extractor",
+    "url": "https://github.com/rix4uni/emailextractor",
+    "tooltip": "Go-based scraper that performs concurrent crawling of websites and their internal links to collect email addresses. https://github.com/rix4uni/emailextractor",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-11-18"
+  },
+  {
     "slug": "email-extractor",
     "title": "Email Extractor",
     "url": "https://github.com/rix4uni/emailextractor",
