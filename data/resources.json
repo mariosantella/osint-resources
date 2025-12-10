@@ -1,5 +1,153 @@
 [
   {
+    "slug": "gitdb",
+    "title": "GitDB",
+    "url": "https://gitdb.net/",
+    "tooltip": "A GitHub discovery and analytics platform that helps developers and security researchers find active, production-ready open-source projects\u2014tracking stars, maintainer activity, and growth signals across languages and topics. https://gitdb.net/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "docufinderjs",
+    "title": "DocuFinderJS",
+    "url": "https://github.com/ndr-repo/DocuFinderJS",
+    "tooltip": "A lightweight JavaScript bookmarklet for External Attack Surface Monitoring (EASM) that automates OSINT to uncover publicly exposed documents (PDFs, spreadsheets, configs) across a target domain\u2014ideal for pentesters, bug bounty hunters, and defenders. https://github.com/ndr-repo/DocuFinderJS",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "tomba-domain-search",
+    "title": "Tomba Domain Search",
+    "url": "https://tomba.io/domain-search",
+    "tooltip": "Extracts professional email addresses directly from any company domain or website\u2014ideal for OSINT, threat intel, sales prospecting, or investigative research. https://tomba.io/domain-search",
+    "categories": [
+      "EMAILINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "credenshow",
+    "title": "CredenShow",
+    "url": "https://credenshow.ru/home",
+    "tooltip": "A deep web breach search engine that lets you check if your email or credentials have been exposed in data leaks\u2014showing full cleartext passwords, supporting real-time monitoring, and offering enterprise APIs for proactive account takeover defense. https://credenshow.ru/home",
+    "categories": [
+      "BREACH DATA",
+      "Credential Leaks"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "search4faces",
+    "title": "Search4Faces",
+    "url": "https://search4faces.com/",
+    "tooltip": "A reverse face search engine that leverages neural networks to find individuals across Russian and global social platforms\u2014including VK, OK.ru, TikTok, and Clubhouse\u2014using only a photo. https://search4faces.com/",
+    "categories": [
+      "IMAGEINT",
+      "Reverse Image Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "surfface",
+    "title": "Surfface",
+    "url": "https://surfface.com/",
+    "tooltip": "An AI-powered reverse face search and OSINT platform that helps verify identities, reconnect with people, or investigate digital footprints\u2014using only publicly available data and non-biometric facial analysis. https://surfface.com/",
+    "categories": [
+      "IMAGEINT",
+      "Reverse Image Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "cerulean",
+    "title": "Cerulean",
+    "url": "https://cerulean.skytruth.org/",
+    "tooltip": "A powerful satellite-powered platform by SkyTruth that detects and tracks ocean pollution, including oil spills and bilge dumping, using AI and remote sensing. https://cerulean.skytruth.org/",
+    "categories": [
+      "GEOINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "iplocation-io",
+    "title": "IPLocation.io",
+    "url": "https://iplocation.io/",
+    "tooltip": "Free IP Address Lookup tool that checks the location of any public IP using multiple Geo IP data providers (IP2Location, DB IP, IPInfo, Criminal IP) https://iplocation.io/",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "mxface-face-comparison",
+    "title": "Mxface: Face Comparison",
+    "url": "https://mxface.ai/face-comparing",
+    "tooltip": "AI API service that focuses on Face Comparison, checking subtle facial details between two images to determine if they belong to the same person with trust score. https://mxface.ai/face-comparing",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "osint-wayback-collector-url-checker",
+    "title": "OSINT Wayback Collector &#038; URL Checker",
+    "url": "https://github.com/Frib1t/osint-wayback-collector",
+    "tooltip": "A Python toolkit for massive historical URL collection from the Wayback Machine and multithreaded URL checking and detection of suspicious parameters https://github.com/Frib1t/osint-wayback-collector",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "wayback-url-finder",
+    "title": "Wayback URL Finder",
+    "url": "https://github.com/coffinxp/wayback-url-finder",
+    "tooltip": "Chrome extension that instantly fetches archived URLs from the Wayback Machine https://github.com/coffinxp/wayback-url-finder",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "cloudrip",
+    "title": "CloudRip",
+    "url": "https://github.com/staxsum/CloudRip",
+    "tooltip": "Discover real IP addresses of servers hidden behind Cloudflare protection. quickly scanning subdomains and filtering out Cloudflare IPs, https://github.com/staxsum/CloudRip",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
+    "slug": "shademap",
+    "title": "ShadeMap",
+    "url": "https://shademap.app",
+    "tooltip": "Geospatial tool that simulates sun shadows for any time and place on Earth; determine the time a photo or video was taken by matching observed shadows with simulation data. https://shademap.app",
+    "categories": [
+      "GEOINT",
+      "Geolocalization"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-10"
+  },
+  {
     "slug": "hostagram",
     "title": "Hostagram",
     "url": "https://github.com/banaxou/hostagram",
