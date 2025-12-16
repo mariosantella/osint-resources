@@ -1,5 +1,204 @@
 [
   {
+    "slug": "lenso-ai",
+    "title": "Lenso.AI",
+    "url": "https://lenso.ai/",
+    "tooltip": "An AI-powered reverse image search platform that finds people, places, duplicates, and visually similar images across the web. Supports facial recognition, copyright tracing, and API integration\u2014ideal for investigators, creators, and privacy-conscious users. https://lenso.ai/",
+    "categories": [
+      "IMAGEINT",
+      "Reverse Image Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "thebigbrother",
+    "title": "TheBigBrother",
+    "url": "https://github.com/chadi0x/TheBigBrother",
+    "tooltip": "The Big Brother is a next-generation OSINT reconnaissance platform combining username enumeration across 473+ platforms with advanced **quad-vector visual intelligence** capabilities https://github.com/chadi0x/TheBigBrother",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "osint-investigators-toolkit",
+    "title": "OSINT Investigator\u2019s Toolkit",
+    "url": "https://osint.intelligenceonchain.com/",
+    "tooltip": "A curated, no-fluff collection of open-source intelligence tools purpose-built for cryptocurrency forensics, digital investigations, and proactive threat hunting\u2014clean, fast, and field-ready. https://osint.intelligenceonchain.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "snapchat-explore",
+    "title": "Snapchat Explore",
+    "url": "https://www.snapchat.com/explore/",
+    "tooltip": "Explore publicly shared Stories, Spotlight content, and creator profiles\u2014enabling simple keyword searches, location-based browsing, and passive reconnaissance of user-generated content without logging in. https://www.snapchat.com/explore/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "ihunt",
+    "title": "iHUNT",
+    "url": "https://nitinpandey.in/ihunt/",
+    "tooltip": "A curated OSINT framework by Nitin Pandey that aggregates free and open-source tools across OSINT, SOCMINT, GEOINT, and HUMINT. https://nitinpandey.in/ihunt/",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "god-eye",
+    "title": "God-Eye",
+    "url": "https://github.com/Vyntral/god-eye",
+    "tooltip": "AI-powered subdomain enumeration tool with local LLM analysis via Ollama &#8211; 100% private, zero API costs https://github.com/Vyntral/god-eye",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "bosint",
+    "title": "BOSINT",
+    "url": "https://app.bosint.gg/",
+    "tooltip": "An all-in-one OSINT platform offering 20+ investigative modules\u2014including IP, domain, email, phone, Discord, Steam, and dark web lookups, plus username searches across 50+ platforms, Google Dorks generation, image metadata analysis, and breach checks\u2014all through a clean, intuitive web interface. https://app.bosint.gg/",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "satellite-map-wayback-arcgis-living-atlas",
+    "title": "Satellite map Wayback \u2013 ArcGIS Living Atlas",
+    "url": "https://livingatlas.arcgis.com/wayback",
+    "tooltip": "The satellite time machine: Satellite and map time machine from Esri that lets you explore historical imagery and geographic changes across decades. https://livingatlas.arcgis.com/wayback",
+    "categories": [
+      "GEOINT",
+      "Map Analysis"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "waybien-ads-telegram-group-search",
+    "title": "Waybien Ads Telegram group search",
+    "url": "https://waybien.com/en/search",
+    "tooltip": "Search groups on Telegram. https://waybien.com/en/search",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "soxoj-spoiler-telegram",
+    "title": "soxoj spoiler telegram",
+    "url": "https://spoiler.soxoj.com/",
+    "tooltip": "An OSINT tool that decodes Telegram spoiler messages hidden as pseudo-braille in screenshots\u2014allowing investigators to recover redacted text without relying on the original sender. https://spoiler.soxoj.com/",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "metagoofil",
+    "title": "Metagoofil",
+    "url": "https://github.com/laramies/metagoofil",
+    "tooltip": "OSINT tool that harvests metadata from public documents (PDF, DOC, XLS, PPT, etc.) found on target websites via Google searches. Extracts usernames, email addresses, server paths, and internal naming conventions\u2014ideal for pre-engagement reconnaissance and password spray list generation. https://github.com/laramies/metagoofil",
+    "categories": [
+      "CRAWLING - SCRAPING",
+      "Web Scrapers"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "creationdatebot",
+    "title": "CreationDateBot",
+    "url": "https://t.me/creationdatebot",
+    "tooltip": "Telegram bot that reveals the approximate account creation date of any Telegram user\u2014useful for verifying account age, spotting potential sockpuppets, or assessing profile legitimacy during OSINT investigations. https://t.me/creationdatebot",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "leakscope",
+    "title": "LeakScope",
+    "url": "https://github.com/GainSec/LeakScope",
+    "tooltip": "An all-in-one Shodan &#038; ZoomEye supported tool to search, browse, preview and dump data leakage across 20+ services. Pulls real exposure straight from the sources instead of guessing. Drop it into your workflow and watch it surface leaks you won&#8217;t find anywhere else. https://github.com/GainSec/LeakScope",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "tiktrackbot",
+    "title": "TikTrackBot",
+    "url": "https://t.me/TikTrackBot",
+    "tooltip": "A Telegram OSINT bot that retrieves public TikTok profile details\u2014including country, language, and activity timeline\u2014using just a username. Ideal for verifying accounts, tracking digital footprints, or investigating suspicious profiles. https://t.me/TikTrackBot",
+    "categories": [
+      "SOCMINT",
+      "TikTok"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "haveibeenransom",
+    "title": "HaveIBeenRansom",
+    "url": "https://haveibeenransom.com/",
+    "tooltip": "A free OSINT service that alerts users if their email or personal data appears in infostealer logs\u2014malware-collected credentials and browser artifacts often dumped on underground forums or ransomware leak sites. https://haveibeenransom.com/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "kaifcodec-user-scanner",
+    "title": "KaifCodec User-Scanner",
+    "url": "https://github.com/kaifcodec/user-scanner",
+    "tooltip": "Command-line OSINT tool that checks username availability across social, developer, creator, gaming, and community platforms\u2014including GitHub, Twitter/X, Reddit, Instagram, and more\u2014in a single query. https://github.com/kaifcodec/user-scanner",
+    "categories": [
+      "PEOPLE SEARCH",
+      "Username Search"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
+    "slug": "mever-forensics-image-verification",
+    "title": "Mever Forensics Image Verification",
+    "url": "https://mever.iti.gr/forensics/",
+    "tooltip": "Verify the authenticity of online images by showcasing real-world examples of digital forgeries\u2014complete with forensic annotations and side-by-side comparisons of manipulated vs. original content. https://mever.iti.gr/forensics/",
+    "categories": [
+      "IMAGEINT",
+      "Deepfake Detection"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-16"
+  },
+  {
     "slug": "gitdb",
     "title": "GitDB",
     "url": "https://gitdb.net/",
