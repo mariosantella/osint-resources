@@ -1,5 +1,53 @@
 [
   {
+    "slug": "geointelligence-app",
+    "title": "GeoIntelligence App",
+    "url": "https://geointelligence.vercel.app",
+    "tooltip": "AI-powered geolocation OSINT tool that analyzes uploaded images to identify potential real-world locations. Uses Gemini API to find visually similar imagery, extract geographic clues, and support open-source verification workflows. https://geointelligence.vercel.app",
+    "categories": [
+      "GEOINT",
+      "Geolocalization"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-30"
+  },
+  {
+    "slug": "clis-credential-leak-indexing-system",
+    "title": "CLIS \u2013 Credential Leak Indexing System",
+    "url": "https://c-leaks.com/",
+    "tooltip": "A breach lookup service indexing over 1 billion records from 671+ leaked datasets, allowing users to check if an email appears in known credential dumps\u2014fast, minimal, and focused on raw leak data. https://c-leaks.com/",
+    "categories": [
+      "BREACH DATA",
+      "Credential Leaks"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-30"
+  },
+  {
+    "slug": "think-pol",
+    "title": "Think-Pol",
+    "url": "https://think-pol.com",
+    "tooltip": "AI-powered OSINT engine exclusively for Reddit data\u2014profile any user, export full comment histories, map subreddit networks, and search billions of public posts with advanced filters. No login required; all data derived from public historical records. https://think-pol.com",
+    "categories": [
+      "SOCMINT",
+      "Reddit"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-30"
+  },
+  {
+    "slug": "dorkwright",
+    "title": "DorkWright",
+    "url": "https://github.com/san-tus/dorkwright/",
+    "tooltip": "CLI-based Google Dorking tool that automates OSINT reconnaissance by crafting and executing targeted search queries to uncover exposed files, directories, and sensitive data across public websites. https://github.com/san-tus/dorkwright/",
+    "categories": [
+      "GENERAL OSINT",
+      "Dork Tools"
+    ],
+    "attributes": [],
+    "date_added": "2025-12-30"
+  },
+  {
     "slug": "lenso-ai",
     "title": "Lenso.AI",
     "url": "https://lenso.ai/",
