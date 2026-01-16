@@ -1,5 +1,74 @@
 [
   {
+    "slug": "device-activity-tracker",
+    "title": "Device Activity Tracker",
+    "url": "https://github.com/gommzystudio/device-activity-tracker",
+    "tooltip": "Proof-of-concept (PoC) tool that exploits WhatsApp and Signal delivery receipts to infer device status\u2014active, standby, or offline\u2014by analyzing Round-Trip Time (RTT) of silent acknowledgments. Reveals usage patterns, network changes, and potential surveillance vulnerabilities. https://github.com/gommzystudio/device-activity-tracker",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Whatsapp"
+    ],
+    "attributes": [],
+    "date_added": "2026-01-14"
+  },
+  {
+    "slug": "archivarix",
+    "title": "Archivarix",
+    "url": "https://archivarix.com/en/",
+    "tooltip": "Wayback Machine downloader that restores fully functional copies of archived websites from the Internet Archive (other sources) with CMS-like features. Lets you rebuild sites with optimized HTML, cleaned trackers, and internal link normalization, ideal for OSINT, evidence preservation, or site recovery. https://archivarix.com/en/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-01-14"
+  },
+  {
+    "slug": "osinton",
+    "title": "Osinton",
+    "url": "https://github.com/elvonferen/Osinton",
+    "tooltip": "Fresh from the oven OSINT tool for structured investigations on individuals: search and correlate names, usernames, emails, and phone numbers using Google-powered queries via SerpAPI, with optional local AI (Ollama) for smarter query generation. https://github.com/elvonferen/Osinton",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-01-14"
+  },
+  {
+    "slug": "instasploit",
+    "title": "Instasploit",
+    "url": "https://gitlab.com/anezatra-katedram/instasploit",
+    "tooltip": "Instasploit performs deep analysis on any Instagram user. For example, you can list the users that any user follows, collect the email and phone numbers of the target user&#8217;s followers or those who follow the target user, list the photos that the target user likes, or easily find out which users the target user comments on. https://gitlab.com/anezatra-katedram/instasploit",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "attributes": [],
+    "date_added": "2026-01-14"
+  },
+  {
+    "slug": "js-key-hunter",
+    "title": "JS-Key-Hunter",
+    "url": "https://github.com/SHDWWasTaken/js-key-hunter",
+    "tooltip": "Discover and extract AWS, Azure, Stripe, Firebase, JWT, and high-entropy keys from any app in just 10 seconds with this one-click bookmarklet. https://github.com/SHDWWasTaken/js-key-hunter",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-01-14"
+  },
+  {
+    "slug": "arkhammirror",
+    "title": "ArkhamMirror",
+    "url": "https://github.com/mantisfury/ArkhamMirror",
+    "tooltip": "Offline investigative assistant that uses local AI to turn the chaos of documents and files into connection graphs, timelines, and structured data. It is the perfect tool for analyzing sensitive evidence and uncovering hidden links, guaranteeing that no data ever leaves your PC https://github.com/mantisfury/ArkhamMirror",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "attributes": [],
+    "date_added": "2026-01-14"
+  },
+  {
     "slug": "geointelligence-app",
     "title": "GeoIntelligence App",
     "url": "https://geointelligence.vercel.app",
