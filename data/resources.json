@@ -1,5 +1,256 @@
 [
   {
+    "slug": "evilgpt",
+    "title": "EvilGPT",
+    "url": "https://evilgpt.in/",
+    "tooltip": "No censorship. No restrictions. No judgments. Just pure, unfiltered AI intelligence at your fingertips. https://evilgpt.in/",
+    "categories": [
+      "PRIVACY TOOLS"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "bluehood",
+    "title": "Bluehood",
+    "url": "https://github.com/dannymcc/bluehood",
+    "tooltip": "Passively scans for nearby BLE and Classic Bluetooth devices, classifies them (phones, wearables, vehicles, etc.), and visualizes presence patterns over time. Features real-time dashboards, device correlation analysis, RSSI-based proximity zones, and optional push alerts, designed to highlight the surprising amount of personal metadata leaked by everyday Bluetooth devices. https://github.com/dannymcc/bluehood",
+    "categories": [
+      "SIGINT",
+      "General resources"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "forensix",
+    "title": "Forensix",
+    "url": "https://github.com/ChmaraX/forensix",
+    "tooltip": "Google Chrome forensic tool to process, analyze and visualize browsing artifacts for investigation purposes. https://github.com/ChmaraX/forensix",
+    "categories": [
+      "GENERAL OSINT",
+      "Forensic tools"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "geovista",
+    "title": "GeoVista",
+    "url": "https://ekonwang.github.io/geo-vista/",
+    "tooltip": "Agentic AI model for visual geolocation that combines image analysis with live web search to pinpoint where a photo was taken. It uses an image-zoom tool to inspect details and a web-search tool to validate hypotheses trained on GeoBench, a new benchmark of global photos, panoramas, and satellite imagery. Outperforms open-source models and rivals GPT-5/Gemini in accuracy. https://ekonwang.github.io/geo-vista/",
+    "categories": [
+      "GEOINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "vulnx",
+    "title": "VulnX",
+    "url": "https://github.com/anouarbensaad/vulnx",
+    "tooltip": "Automated CMS vulnerability scanner and exploit tool that detects content management systems (WordPress, Joomla, Drupal, etc.), gathers target intelligence (subdomains, IP, DNS, WHOIS). Features dork-based URL discovery, multi-threading, and interactive mode; mainly designed for penetration testers and red teams. https://github.com/anouarbensaad/vulnx",
+    "categories": [
+      "CRAWLING - SCRAPING",
+      "Web Scrapers"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "betameta-temporal-osint",
+    "title": "BetaMeta &#8211; Temporal OSINT",
+    "url": "https://meta.narka.io/time",
+    "tooltip": "A temporal analysis engine that extracts and visualizes timestamps from any URL, revealing creation dates, last-modified headers, hidden metadata, and historical snapshots. Useful for verifying content age, detecting edits, or supporting digital investigations with time-based context. https://meta.narka.io/time",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "steam-osint",
+    "title": "steam-osint",
+    "url": "https://github.com/matiash26/steam-osint",
+    "tooltip": "Steam OSINT is an open source intelligence (OSINT) tool for Steam designed to analyze mutual friends, map relationship patterns, and identify potential connections outside the Steam platform. https://github.com/matiash26/steam-osint",
+    "categories": [
+      "SOCMINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "atsameip",
+    "title": "AtSameIP",
+    "url": "https://atsameip.com",
+    "tooltip": "A free OSINT tool that reveals all websites hosted on the same IP address as a given domain\u2014useful for uncovering shared infrastructure, hidden assets, or phishing sites co-located with legitimate services. Also shows nearby IPs for broader network reconnaissance. https://atsameip.com",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "whatsapp-osint-2",
+    "title": "WhatsApp-OSINT",
+    "url": "https://github.com/kinghacker0/WhatsApp-OSINT",
+    "tooltip": "OSINT tool for WhatsApp that allows you to obtain profile pictures, verify Business accounts, check status and user information, analyze linked devices, review privacy settings, and access complete data using the RapidAPI WhatsApp OSINT API. Supports 6 endpoints. https://github.com/kinghacker0/WhatsApp-OSINT",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Whatsapp"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "domains-project",
+    "title": "Domains Project",
+    "url": "https://domainsproject.org",
+    "tooltip": "The world\u2019s largest public dataset of active internet domains\u2014over 1.7 billion freely available as sorted, deduplicated text files. Updated monthly. Includes tools for classification (LLMC), phishing monitoring, DNS checking, and crawling https://domainsproject.org",
+    "categories": [
+      "DOMAININT"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "darkfox",
+    "title": "darkfox",
+    "url": "https://github.com/aryanguenthner/darkfox",
+    "tooltip": "CTI Cyber Threat Intelligence OSINT Dark Web Deep Web Research. Ransomware gang information gathering tool. https://github.com/aryanguenthner/darkfox",
+    "categories": [
+      "DARK WEB",
+      "Search Engines"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "ghostarchive-org",
+    "title": "GhostArchive.org",
+    "url": "https://ghostarchive.org/",
+    "tooltip": "Web archiving service that captures and stores snapshots of web pages: for journalists, researchers, and OSINT investigators to preserve evidence, track changes, or recover deleted content without relying solely on the Wayback Machine. https://ghostarchive.org/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "intelligencesecurity-io",
+    "title": "IntelligenceSecurity.io",
+    "url": "https://intelligencesecurity.io/",
+    "tooltip": "OSINT and breach intelligence platform that scans 500+ billion leaked records to check if emails, domains, IPs, or phone numbers appear in data breaches, stealer logs, or dark web dumps. Offers five core tools: Breach Intel, Live Data, Credentials, Sessions, and Domain Recon. https://intelligencesecurity.io/",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "geosentinel",
+    "title": "GeoSentinel",
+    "url": "https://github.com/h9zdev/GeoSentinel/",
+    "tooltip": "A geospatial monitoring platform that tracks global movement in real time. It aggregates ship and flight routes, live coordinates, and geodata into a unified system, providing clear geographic and geopolitical awareness for analysis, visualization, and decision-making. https://github.com/h9zdev/GeoSentinel/",
+    "categories": [
+      "GEOINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "whapa",
+    "title": "Whapa",
+    "url": "https://github.com/B16f00t/whapa",
+    "tooltip": "A forensic toolkit for WhatsApp analysis on Android (and partially iOS) devices. Includes tools to parse SQLite databases (whapa), decrypt/encrypt backups (whacipher), extract data from Google Drive (whagodri) or iCloud (whacloud), merge chat databases (whamerge), and generate interactive HTML reports from exported chats (whachat). Designed for digital forensics, incident response, and OSINT investigations. https://github.com/B16f00t/whapa",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Whatsapp"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "what-you-reveal",
+    "title": "What You Reveal",
+    "url": "https://what-you-reveal.vercel.app/",
+    "tooltip": "A privacy-aware browser fingerprinting tool that shows what information your browser leaks\u2014such as IP, user agent, screen size, installed fonts, WebGL/renderer details, and more\u2014helping users understand their digital footprint and improve online anonymity. https://what-you-reveal.vercel.app/",
+    "categories": [
+      "PRIVACY TOOLS"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "bevigil-asset-explorer",
+    "title": "BeVigil Asset Explorer",
+    "url": "https://bishopi.io/",
+    "tooltip": "Search over millions of digital assets (Domains, Subdomains, IPs, Mobile Apps, S3 Buckets) to find valuable insights. https://bishopi.io/",
+    "categories": [
+      "DOMAININT"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "picdetective",
+    "title": "PicDetective",
+    "url": "https://picdetective.com/",
+    "tooltip": "A privacy-focused reverse image search engine that scans over 146 billion images to find exact or visually similar matches\u2014ideal for verifying social media profiles, tracking meme origins, detecting counterfeit visuals, or identifying unknown objects and locations. Images are auto-deleted after the search. https://picdetective.com/",
+    "categories": [
+      "IMAGEINT",
+      "Reverse Image Search"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "cyberfind",
+    "title": "CyberFind",
+    "url": "https://github.com/VAZlabs/cyber-find",
+    "tooltip": "An OSINT tool that scans 200+ platforms\u2014including social media, programming hubs, gaming communities, and regional sites\u2014to detect user accounts in seconds. Features async scanning, metadata extraction, multiple output formats (JSON, CSV, HTML, SQLite), and configurable modes (Stealth, Aggressive, Deep). https://github.com/VAZlabs/cyber-find",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "camxploit",
+    "title": "CamXploit",
+    "url": "https://github.com/spyboy-productions/CamXploit",
+    "tooltip": "A reconnaissance tool that detects exposed CCTV cameras and DVR/NVR systems by scanning common ports, identifying brands (e.g., Hikvision, Dahua), checking for default credentials, and validating live video streams (RTSP/HTTP/RTMP). Includes geolocation, Shodan/Censys links, and ONVIF support\u2014useful for physical security assessments and IoT threat hunting. https://github.com/spyboy-productions/CamXploit",
+    "categories": [
+      "CRAWLING - SCRAPING",
+      "IoT Scraping"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "robin",
+    "title": "Robin",
+    "url": "https://github.com/apurvsinghgautam/robin",
+    "tooltip": "AI-powered OSINT tool for dark web investigations\u2014uses LLMs (OpenAI, Claude, Gemini, or local Ollama models) to refine queries, scrape dark web search engines via Tor, and generate structured intelligence summaries. CLI-first, Docker-ready, and built for terminal-based workflows. https://github.com/apurvsinghgautam/robin",
+    "categories": [
+      "DARK WEB"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
+    "slug": "ragecheck",
+    "title": "RageCheck",
+    "url": "https://ragecheck.com",
+    "tooltip": "AI-powered media literacy tool that analyzes articles, social posts, and memes to expose persuasive manipulation tactics\u2014such as fear appeals, tribal framing, urgency triggers, and moral outrage\u2014helping users recognize emotionally charged disinformation designed to provoke anger or division. https://ragecheck.com",
+    "categories": [
+      "DOCUMENTINT"
+    ],
+    "attributes": [],
+    "date_added": "2026-02-05"
+  },
+  {
     "slug": "tesari-ai",
     "title": "Tesari AI",
     "url": "https://tesari.ai/",
