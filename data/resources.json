@@ -3225,9 +3225,9 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "type": "tool",
-    "pricing": "free",
-    "featured": false,
+    "type": "platform",
+    "pricing": "freemium",
+    "featured": true,
     "date_added": "2026-02-13"
   },
   {
