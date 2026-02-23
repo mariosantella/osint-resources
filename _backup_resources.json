@@ -1,17 +1,5 @@
 [
   {
-    "slug": "analyst-research-tools",
-    "title": "Analyst Research Tools",
-    "url": "https://www.analystresearch.tools/",
-    "tooltip": "A comprehensive, well-organized directory of open-source investigation resources\u2014categorized by People Search, Social Media, Company Research, Transportation, Country-Specific OSINT, and more. Maintained as a practical reference for analysts, journalists, and investigators. https://www.analystresearch.tools/",
-    "categories": [
-      "GENERAL OSINT",
-      "Bookmark Collections"
-    ],
-    "attributes": [],
-    "date_added": "2026-02-09"
-  },
-  {
     "slug": "evilgpt",
     "title": "EvilGPT",
     "url": "https://evilgpt.in/",
@@ -19,8 +7,10 @@
     "categories": [
       "PRIVACY TOOLS"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "bluehood",
@@ -31,8 +21,10 @@
       "SIGINT",
       "General resources"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "forensix",
@@ -43,8 +35,10 @@
       "GENERAL OSINT",
       "Forensic tools"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "geovista",
@@ -54,8 +48,10 @@
     "categories": [
       "GEOINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "vulnx",
@@ -66,8 +62,10 @@
       "CRAWLING - SCRAPING",
       "Web Scrapers"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "betameta-temporal-osint",
@@ -77,8 +75,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "steam-osint",
@@ -88,8 +88,10 @@
     "categories": [
       "SOCMINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "atsameip",
@@ -99,8 +101,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "whatsapp-osint-2",
@@ -111,8 +115,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Whatsapp"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "domains-project",
@@ -122,8 +128,10 @@
     "categories": [
       "DOMAININT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "darkfox",
@@ -134,8 +142,10 @@
       "DARK WEB",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "ghostarchive-org",
@@ -145,8 +155,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "intelligencesecurity-io",
@@ -157,8 +169,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "geosentinel",
@@ -168,8 +182,10 @@
     "categories": [
       "GEOINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "whapa",
@@ -180,8 +196,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Whatsapp"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "what-you-reveal",
@@ -191,8 +209,10 @@
     "categories": [
       "PRIVACY TOOLS"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "picdetective",
@@ -203,8 +223,10 @@
       "IMAGEINT",
       "Reverse Image Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "cyberfind",
@@ -214,8 +236,10 @@
     "categories": [
       "CRAWLING - SCRAPING"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "camxploit",
@@ -226,8 +250,10 @@
       "CRAWLING - SCRAPING",
       "IoT Scraping"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "robin",
@@ -237,8 +263,10 @@
     "categories": [
       "DARK WEB"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "ragecheck",
@@ -248,8 +276,10 @@
     "categories": [
       "DOCUMENTINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-02-04"
   },
   {
     "slug": "tesari-ai",
@@ -260,8 +290,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "platform",
+    "pricing": "free",
+    "featured": true,
+    "date_added": "2026-01-24"
   },
   {
     "slug": "osintanonymous",
@@ -272,8 +304,10 @@
       "GENERAL OSINT",
       "Bookmark Collections"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "snaptik",
@@ -284,8 +318,10 @@
       "SOCMINT",
       "TikTok"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "time-travel-for-web",
@@ -295,8 +331,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "reverse-whois-lookup-by-whoisfreaks",
@@ -307,8 +345,10 @@
       "DOMAININT",
       "Whois"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "corptrace",
@@ -318,8 +358,10 @@
     "categories": [
       "DOMAININT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "jiraffe",
@@ -330,8 +372,10 @@
       "CRAWLING - SCRAPING",
       "Web Scrapers"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "ismalicious",
@@ -342,8 +386,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "facebooktoolkit",
@@ -354,8 +400,10 @@
       "SOCMINT",
       "Facebook"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "leaker",
@@ -366,8 +414,10 @@
       "BREACH DATA",
       "Credential Leaks"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "siteprice-org",
@@ -377,8 +427,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "tg-me-com",
@@ -389,8 +441,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "telephasma",
@@ -401,8 +455,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "webvetted",
@@ -413,8 +469,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "pixnoy",
@@ -425,8 +483,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "tgspyder",
@@ -437,8 +497,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "whatcms-org",
@@ -448,8 +510,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "findthatspot",
@@ -459,8 +523,10 @@
     "categories": [
       "GEOINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-19"
   },
   {
     "slug": "device-activity-tracker",
@@ -471,8 +537,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Whatsapp"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-05"
   },
   {
     "slug": "archivarix",
@@ -482,8 +550,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-05"
   },
   {
     "slug": "osinton",
@@ -493,8 +563,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-05"
   },
   {
     "slug": "instasploit",
@@ -505,8 +577,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-05"
   },
   {
     "slug": "arkhammirror",
@@ -517,8 +591,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2026-01-05"
   },
   {
     "slug": "geointelligence-app",
@@ -529,8 +605,10 @@
       "GEOINT",
       "Geolocalization"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-22"
   },
   {
     "slug": "clis-credential-leak-indexing-system",
@@ -541,8 +619,10 @@
       "BREACH DATA",
       "Credential Leaks"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-22"
   },
   {
     "slug": "think-pol",
@@ -553,8 +633,10 @@
       "SOCMINT",
       "Reddit"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-22"
   },
   {
     "slug": "dorkwright",
@@ -565,8 +647,10 @@
       "GENERAL OSINT",
       "Dork Tools"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-22"
   },
   {
     "slug": "lenso-ai",
@@ -577,8 +661,10 @@
       "IMAGEINT",
       "Reverse Image Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "platform",
+    "pricing": "freemium",
+    "featured": true,
+    "date_added": "2025-12-16"
   },
   {
     "slug": "thebigbrother",
@@ -588,8 +674,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-15"
   },
   {
     "slug": "osint-investigators-toolkit",
@@ -600,8 +688,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-15"
   },
   {
     "slug": "snapchat-explore",
@@ -611,8 +701,10 @@
     "categories": [
       "SOCMINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-15"
   },
   {
     "slug": "ihunt",
@@ -623,8 +715,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-15"
   },
   {
     "slug": "god-eye",
@@ -634,8 +728,10 @@
     "categories": [
       "CRAWLING - SCRAPING"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-15"
   },
   {
     "slug": "bosint",
@@ -646,8 +742,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-12"
   },
   {
     "slug": "satellite-map-wayback-arcgis-living-atlas",
@@ -658,8 +756,10 @@
       "GEOINT",
       "Map Analysis"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-12"
   },
   {
     "slug": "waybien-ads-telegram-group-search",
@@ -670,8 +770,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-12"
   },
   {
     "slug": "soxoj-spoiler-telegram",
@@ -682,8 +784,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-12"
   },
   {
     "slug": "metagoofil",
@@ -694,8 +798,10 @@
       "CRAWLING - SCRAPING",
       "Web Scrapers"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-12"
   },
   {
     "slug": "creationdatebot",
@@ -706,8 +812,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-12"
   },
   {
     "slug": "leakscope",
@@ -717,8 +825,10 @@
     "categories": [
       "CRAWLING - SCRAPING"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-12"
   },
   {
     "slug": "tiktrackbot",
@@ -729,8 +839,10 @@
       "SOCMINT",
       "TikTok"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-10"
   },
   {
     "slug": "haveibeenransom",
@@ -740,8 +852,10 @@
     "categories": [
       "BREACH DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-10"
   },
   {
     "slug": "kaifcodec-user-scanner",
@@ -752,8 +866,10 @@
       "PEOPLE SEARCH",
       "Username Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-10"
   },
   {
     "slug": "mever-forensics-image-verification",
@@ -764,8 +880,10 @@
       "IMAGEINT",
       "Deepfake Detection"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-10"
   },
   {
     "slug": "gitdb",
@@ -775,8 +893,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-05"
   },
   {
     "slug": "docufinderjs",
@@ -786,8 +906,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-05"
   },
   {
     "slug": "search4faces",
@@ -798,8 +920,10 @@
       "IMAGEINT",
       "Reverse Image Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-05"
   },
   {
     "slug": "surfface",
@@ -810,8 +934,10 @@
       "IMAGEINT",
       "Reverse Image Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-05"
   },
   {
     "slug": "cerulean",
@@ -821,8 +947,10 @@
     "categories": [
       "GEOINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-12-05"
   },
   {
     "slug": "iplocation-io",
@@ -833,8 +961,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-28"
   },
   {
     "slug": "osint-wayback-collector-url-checker",
@@ -844,8 +974,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-28"
   },
   {
     "slug": "wayback-url-finder",
@@ -855,8 +987,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-28"
   },
   {
     "slug": "cloudrip",
@@ -866,8 +1000,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-28"
   },
   {
     "slug": "shademap",
@@ -878,8 +1014,10 @@
       "GEOINT",
       "Geolocalization"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-28"
   },
   {
     "slug": "hostagram",
@@ -890,8 +1028,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-17"
   },
   {
     "slug": "pano-date-resolver",
@@ -902,8 +1042,10 @@
       "GEOINT",
       "Map Analysis"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-17"
   },
   {
     "slug": "predicta-search",
@@ -914,8 +1056,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-17"
   },
   {
     "slug": "analyzeid",
@@ -925,8 +1069,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-17"
   },
   {
     "slug": "f5bot",
@@ -936,8 +1082,10 @@
     "categories": [
       "SOCMINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-17"
   },
   {
     "slug": "where-is-this-photo",
@@ -948,8 +1096,10 @@
       "GEOINT",
       "Geolocalization"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-17"
   },
   {
     "slug": "geointel",
@@ -960,8 +1110,10 @@
       "GEOINT",
       "Geolocalization"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-17"
   },
   {
     "slug": "rix4uni-email-extractor",
@@ -971,8 +1123,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-17"
   },
   {
     "slug": "email-extractor",
@@ -982,8 +1136,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-09"
   },
   {
     "slug": "spottr",
@@ -993,8 +1149,10 @@
     "categories": [
       "IMAGEINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-09"
   },
   {
     "slug": "onion-lookup",
@@ -1004,8 +1162,10 @@
     "categories": [
       "DARK WEB"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-09"
   },
   {
     "slug": "tosint",
@@ -1016,8 +1176,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-09"
   },
   {
     "slug": "cold-relation",
@@ -1028,8 +1190,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-09"
   },
   {
     "slug": "flowsint",
@@ -1039,8 +1203,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-09"
   },
   {
     "slug": "malfors",
@@ -1050,8 +1216,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-09"
   },
   {
     "slug": "ail-project",
@@ -1061,8 +1229,10 @@
     "categories": [
       "DARK WEB"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-11-09"
   },
   {
     "slug": "vehicle-ai",
@@ -1072,8 +1242,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-31"
   },
   {
     "slug": "web-cleaner",
@@ -1084,8 +1256,10 @@
       "GENERAL OSINT",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-31"
   },
   {
     "slug": "yupgr-subdomain-finder",
@@ -1095,8 +1269,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-31"
   },
   {
     "slug": "theirstack",
@@ -1107,8 +1283,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "antipublic",
@@ -1118,8 +1296,10 @@
     "categories": [
       "BREACH DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "dataseal",
@@ -1129,8 +1309,10 @@
     "categories": [
       "PRIVACY TOOLS"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "censysgpt-beta",
@@ -1141,8 +1323,10 @@
       "GENERAL OSINT",
       "Dork Tools"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "whats-that-whatsapp-analyzer",
@@ -1153,8 +1337,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Whatsapp"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "darkcrawler-by-paranoid",
@@ -1164,8 +1350,10 @@
     "categories": [
       "DARK WEB"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "bf-search",
@@ -1175,8 +1363,10 @@
     "categories": [
       "BREACH DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "github-dorks-collection",
@@ -1186,8 +1376,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "metabeta",
@@ -1197,8 +1389,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "geoinfer",
@@ -1209,8 +1403,10 @@
       "GEOINT",
       "Geolocalization"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "ycf-youtube-comment-finder",
@@ -1221,8 +1417,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "stalkface",
@@ -1233,8 +1431,10 @@
       "SOCMINT",
       "Facebook"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-20"
   },
   {
     "slug": "torbot",
@@ -1244,8 +1444,10 @@
     "categories": [
       "DARK WEB"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-04"
   },
   {
     "slug": "danex",
@@ -1256,8 +1458,10 @@
       "DARK WEB",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-04"
   },
   {
     "slug": "search-engine-dorks-generator",
@@ -1268,8 +1472,10 @@
       "GENERAL OSINT",
       "Dork Tools"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-04"
   },
   {
     "slug": "doxcord",
@@ -1280,8 +1486,10 @@
       "SOCMINT",
       "Discord"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-04"
   },
   {
     "slug": "osint-handbook",
@@ -1291,8 +1499,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-04"
   },
   {
     "slug": "cerast-intelligence",
@@ -1302,8 +1512,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-04"
   },
   {
     "slug": "youtube_data_extractor",
@@ -1314,8 +1526,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-10-04"
   },
   {
     "slug": "tikspyder",
@@ -1326,8 +1540,10 @@
       "SOCMINT",
       "TikTok"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-27"
   },
   {
     "slug": "big-mastodon-hashtag-search",
@@ -1338,8 +1554,10 @@
       "SOCMINT",
       "Mastodon"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-27"
   },
   {
     "slug": "danaxscully-onion-links",
@@ -1350,8 +1568,10 @@
       "DARK WEB",
       "Onion Directories"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-27"
   },
   {
     "slug": "tirexdel",
@@ -1362,8 +1582,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-27"
   },
   {
     "slug": "megagladys",
@@ -1374,8 +1596,10 @@
       "GENERAL OSINT",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-27"
   },
   {
     "slug": "nerdydata",
@@ -1385,8 +1609,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-27"
   },
   {
     "slug": "hetty",
@@ -1397,8 +1623,10 @@
       "CRAWLING - SCRAPING",
       "Web Scrapers"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-16"
   },
   {
     "slug": "builtwith",
@@ -1408,8 +1636,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-16"
   },
   {
     "slug": "nfominer",
@@ -1419,8 +1649,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-13"
   },
   {
     "slug": "xeuledoc",
@@ -1430,8 +1662,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-08"
   },
   {
     "slug": "mw-geofind",
@@ -1442,8 +1676,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-08"
   },
   {
     "slug": "youtube-video-finder",
@@ -1454,8 +1690,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-08"
   },
   {
     "slug": "torry",
@@ -1466,8 +1704,10 @@
       "DARK WEB",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-08"
   },
   {
     "slug": "whatbreach",
@@ -1478,8 +1718,10 @@
       "BREACH DATA",
       "Credential Leaks"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-08"
   },
   {
     "slug": "social-media-index",
@@ -1490,8 +1732,10 @@
       "SOCMINT",
       "Facebook"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-01"
   },
   {
     "slug": "surveillancewatch-io",
@@ -1501,8 +1745,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-01"
   },
   {
     "slug": "nova-osint-navigator",
@@ -1513,8 +1759,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-01"
   },
   {
     "slug": "facebook-catalogue",
@@ -1525,8 +1773,10 @@
       "SOCMINT",
       "Facebook"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-01"
   },
   {
     "slug": "map-to-censys",
@@ -1536,8 +1786,10 @@
     "categories": [
       "GEOINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-01"
   },
   {
     "slug": "waybacktweets",
@@ -1548,8 +1800,10 @@
       "SOCMINT",
       "Twitter / X"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-09-01"
   },
   {
     "slug": "i-know-what-you-download",
@@ -1559,8 +1813,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-30"
   },
   {
     "slug": "channelcrawler",
@@ -1571,8 +1827,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-30"
   },
   {
     "slug": "cybernews-leak-check",
@@ -1583,8 +1841,10 @@
       "BREACH DATA",
       "Credential Leaks"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-30"
   },
   {
     "slug": "dolphinradar-instagram-viewer",
@@ -1595,8 +1855,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-28"
   },
   {
     "slug": "dargle",
@@ -1607,8 +1869,10 @@
       "DARK WEB",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-28"
   },
   {
     "slug": "espysys-irbis",
@@ -1619,8 +1883,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-24"
   },
   {
     "slug": "ai-image-detector",
@@ -1630,8 +1896,10 @@
     "categories": [
       "IMAGEINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-23"
   },
   {
     "slug": "gptzero",
@@ -1642,8 +1910,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-14"
   },
   {
     "slug": "big-ass-data-broker-opt-out-list",
@@ -1654,8 +1924,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-14"
   },
   {
     "slug": "fotoforensics",
@@ -1666,8 +1938,10 @@
       "IMAGEINT",
       "Metadata Analysis"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-14"
   },
   {
     "slug": "uk-osint-reverse-image-searching",
@@ -1678,8 +1952,10 @@
       "IMAGEINT",
       "Reverse Image Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-14"
   },
   {
     "slug": "facesearch-arrests-org",
@@ -1690,8 +1966,10 @@
       "IMAGEINT",
       "Reverse Image Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-14"
   },
   {
     "slug": "venacus",
@@ -1701,8 +1979,10 @@
     "categories": [
       "BREACH DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-10"
   },
   {
     "slug": "postman-public-api",
@@ -1712,8 +1992,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-10"
   },
   {
     "slug": "ooni-explorer",
@@ -1723,8 +2005,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-10"
   },
   {
     "slug": "instagramprivsniffer",
@@ -1735,8 +2019,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-10"
   },
   {
     "slug": "lambda-black-osint-investigation-assistant",
@@ -1747,8 +2033,10 @@
       "GENERAL OSINT",
       "Bookmark Collections"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-05"
   },
   {
     "slug": "carnet-ai",
@@ -1758,8 +2046,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-05"
   },
   {
     "slug": "cyber-detective-osint-tools-map",
@@ -1770,8 +2060,10 @@
       "GENERAL OSINT",
       "Bookmark Collections"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-05"
   },
   {
     "slug": "odcrawler",
@@ -1781,8 +2073,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-05"
   },
   {
     "slug": "meawfy",
@@ -1793,8 +2087,10 @@
       "CRAWLING - SCRAPING",
       "Bucket Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-04"
   },
   {
     "slug": "sherlockeye",
@@ -1805,8 +2101,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-08-01"
   },
   {
     "slug": "telegram-finder",
@@ -1817,8 +2115,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-28"
   },
   {
     "slug": "pentest-tools-com",
@@ -1828,8 +2128,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-28"
   },
   {
     "slug": "slideshare",
@@ -1839,8 +2141,10 @@
     "categories": [
       "DOCUMENTINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-28"
   },
   {
     "slug": "offshore-leaks-database",
@@ -1851,8 +2155,10 @@
       "DOCUMENTINT",
       "Document Leak Databases"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-28"
   },
   {
     "slug": "impersonal-me",
@@ -1862,8 +2168,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-28"
   },
   {
     "slug": "indownloader-instagram-profile-viewer",
@@ -1874,8 +2182,23 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-26"
+  },
+  {
+    "slug": "analyst-research-tools",
+    "title": "Analyst Research Tools",
+    "url": "https://analystresearchtools.com/",
+    "tooltip": "A comprehensive suite of OSINT utilities designed for investigative research, including tools for social media, email, phone number, and domain searches, as well as username and email permutation. https://analystresearchtools.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-24"
   },
   {
     "slug": "disboard",
@@ -1885,8 +2208,10 @@
     "categories": [
       "SOCMINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-24"
   },
   {
     "slug": "find-osint-tool-com",
@@ -1896,8 +2221,10 @@
     "categories": [
       "BREACH DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-21"
   },
   {
     "slug": "tor-link",
@@ -1908,8 +2235,10 @@
       "DARK WEB",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-12"
   },
   {
     "slug": "scatteredsecrets-com",
@@ -1919,8 +2248,10 @@
     "categories": [
       "BREACH DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-12"
   },
   {
     "slug": "urlebird-com",
@@ -1931,8 +2262,10 @@
       "SOCMINT",
       "TikTok"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-12"
   },
   {
     "slug": "instantusername-com",
@@ -1943,8 +2276,10 @@
       "PEOPLE SEARCH",
       "Username Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-12"
   },
   {
     "slug": "dotdb-com",
@@ -1954,8 +2289,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-12"
   },
   {
     "slug": "leaked-domains",
@@ -1966,8 +2303,10 @@
       "BREACH DATA",
       "Credential Leaks"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-12"
   },
   {
     "slug": "vormweb",
@@ -1978,8 +2317,10 @@
       "DARK WEB",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-07"
   },
   {
     "slug": "instagram-monitor",
@@ -1991,8 +2332,10 @@
       "Instagram",
       "Uncategorized"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-07"
   },
   {
     "slug": "github-monitor",
@@ -2002,8 +2345,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-07"
   },
   {
     "slug": "linkedindumper",
@@ -2014,8 +2359,10 @@
       "SOCMINT",
       "LinkedIn"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-07"
   },
   {
     "slug": "youtube-history-analyze",
@@ -2026,8 +2373,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-07"
   },
   {
     "slug": "maps-video",
@@ -2037,8 +2386,10 @@
     "categories": [
       "GEOINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-05"
   },
   {
     "slug": "google-trends",
@@ -2048,8 +2399,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-01"
   },
   {
     "slug": "eyedex-org",
@@ -2059,8 +2412,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-01"
   },
   {
     "slug": "dorkgenius",
@@ -2070,8 +2425,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-07-01"
   },
   {
     "slug": "favihunter",
@@ -2081,8 +2438,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-29"
   },
   {
     "slug": "detectdee",
@@ -2093,8 +2452,10 @@
       "PEOPLE SEARCH",
       "Username Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-29"
   },
   {
     "slug": "telerecon",
@@ -2105,8 +2466,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-29"
   },
   {
     "slug": "vk-watch",
@@ -2114,11 +2477,13 @@
     "url": "https://vk.watch/",
     "tooltip": "An OSINT tool for finding detailed information about people on VKontakte, offering access to the largest archive of historical data, including user comments, photos, friend lists, and profile changes. Now includes facial recognition for locating people by their photos, similar to the closed FindFace. https://vk.watch/",
     "categories": [
-      "PEOPLE SEARCH",
-      "Face Recognition Search"
+      "SOCMINT",
+      "VK"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-27"
   },
   {
     "slug": "osintisnotacrime-user-checker",
@@ -2129,8 +2494,10 @@
       "PEOPLE SEARCH",
       "Username Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-27"
   },
   {
     "slug": "gitsearchai-com",
@@ -2141,8 +2508,10 @@
       "GENERAL OSINT",
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-22"
   },
   {
     "slug": "pagecached-com",
@@ -2152,8 +2521,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-18"
   },
   {
     "slug": "skymem-info",
@@ -2164,8 +2535,10 @@
       "EMAILINT",
       "Email Info"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-17"
   },
   {
     "slug": "spoonbill-io",
@@ -2175,8 +2548,10 @@
     "categories": [
       "SOCMINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-15"
   },
   {
     "slug": "wayback-google-analytics",
@@ -2186,8 +2561,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-09"
   },
   {
     "slug": "waybacklister",
@@ -2197,8 +2574,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-09"
   },
   {
     "slug": "dumpor-io",
@@ -2209,8 +2588,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-09"
   },
   {
     "slug": "sotwe-com",
@@ -2221,8 +2602,10 @@
       "SOCMINT",
       "Twitter / X"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-09"
   },
   {
     "slug": "onionland-io",
@@ -2233,8 +2616,10 @@
       "DARK WEB",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-03"
   },
   {
     "slug": "blockscan-com",
@@ -2244,8 +2629,10 @@
     "categories": [
       "CRYPTOCURRENCIES"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-03"
   },
   {
     "slug": "whocalld-com",
@@ -2256,8 +2643,10 @@
       "PHONEINT",
       "Phone Number Lookup"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-03"
   },
   {
     "slug": "data-occrp-org",
@@ -2267,8 +2656,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-03"
   },
   {
     "slug": "haveibeensquatted",
@@ -2278,8 +2669,10 @@
     "categories": [
       "DOMAININT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-06-03"
   },
   {
     "slug": "instrack-app",
@@ -2290,8 +2683,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-28"
   },
   {
     "slug": "groupda",
@@ -2302,8 +2697,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-28"
   },
   {
     "slug": "ghintel-secrets-ninja",
@@ -2313,8 +2710,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-27"
   },
   {
     "slug": "wpscan",
@@ -2325,8 +2724,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-26"
   },
   {
     "slug": "firecrawl",
@@ -2336,8 +2737,10 @@
     "categories": [
       "CRAWLING - SCRAPING"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-21"
   },
   {
     "slug": "google-maps-scraper",
@@ -2348,8 +2751,10 @@
       "GEOINT",
       "Google Maps"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-21"
   },
   {
     "slug": "aadinternals",
@@ -2360,8 +2765,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-20"
   },
   {
     "slug": "instaclip",
@@ -2372,8 +2779,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-20"
   },
   {
     "slug": "stalkiana",
@@ -2384,8 +2793,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-16"
   },
   {
     "slug": "telegraphite",
@@ -2396,8 +2807,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-16"
   },
   {
     "slug": "badoo-wayback",
@@ -2407,8 +2820,10 @@
     "categories": [
       "SOCMINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-15"
   },
   {
     "slug": "faceseek-online",
@@ -2419,8 +2834,10 @@
       "IMAGEINT",
       "Reverse Image Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-05-15"
   },
   {
     "slug": "tikface",
@@ -2431,8 +2848,10 @@
       "SOCMINT",
       "TikTok"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-30"
   },
   {
     "slug": "subdosec",
@@ -2443,8 +2862,10 @@
       "DOMAININT",
       "Subdomain Enumeration"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-30"
   },
   {
     "slug": "investigate-domains-for-security-purposes",
@@ -2455,8 +2876,10 @@
       "DOMAININT",
       "DNS Lookup"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "uncomment-security-comment-extractor",
@@ -2466,8 +2889,10 @@
     "categories": [
       "CRAWLING - SCRAPING"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "osint-rocks",
@@ -2478,8 +2903,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "hashmob-crack-hashes-online",
@@ -2490,8 +2917,10 @@
       "BREACH DATA",
       "Credential Leaks"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "instagram-viewer",
@@ -2502,8 +2931,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "whatsapp-checkleaked",
@@ -2514,8 +2945,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Whatsapp"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "apkurlgrep",
@@ -2525,8 +2958,10 @@
     "categories": [
       "MOBILE OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "postleaks-exposed-postman-data",
@@ -2536,8 +2971,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "geoguessr-gpt",
@@ -2547,8 +2984,10 @@
     "categories": [
       "GEOINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "information-laundromat",
@@ -2558,8 +2997,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "web-check-xyz",
@@ -2569,8 +3010,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "sourcegraph",
@@ -2580,8 +3023,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "the-time-machine",
@@ -2591,8 +3036,10 @@
     "categories": [
       "CRAWLING - SCRAPING"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "duolingosint",
@@ -2602,8 +3049,10 @@
     "categories": [
       "SOCMINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "emailfinder",
@@ -2613,8 +3062,10 @@
     "categories": [
       "EMAILINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "email-crawler-lead-generator",
@@ -2624,8 +3075,10 @@
     "categories": [
       "EMAILINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "mantis",
@@ -2635,8 +3088,10 @@
     "categories": [
       "CRAWLING - SCRAPING"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "whatsapp-osint",
@@ -2647,8 +3102,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Whatsapp"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "ransom-privtools",
@@ -2658,8 +3115,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "firebaseexploiter",
@@ -2669,8 +3128,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "argus",
@@ -2681,8 +3142,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "tgstat",
@@ -2693,8 +3156,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "tweetfeed-security-feed",
@@ -2705,8 +3170,10 @@
       "SOCMINT",
       "Twitter / X"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "subdomainradar",
@@ -2717,8 +3184,10 @@
       "DOMAININT",
       "Subdomain Enumeration"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "onion-search-engine",
@@ -2729,8 +3198,10 @@
       "DARK WEB",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "instatracker",
@@ -2741,8 +3212,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "criminal-ip",
@@ -2752,8 +3225,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "platform",
+    "pricing": "freemium",
+    "featured": true,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "proxynova-comb-search",
@@ -2764,8 +3239,10 @@
       "BREACH DATA",
       "Credential Leaks"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "meta_scan",
@@ -2776,8 +3253,10 @@
       "SOCMINT",
       "Facebook"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "maigret-osint-bot",
@@ -2788,8 +3267,10 @@
       "PEOPLE SEARCH",
       "Username Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "cupidcr4wl",
@@ -2800,8 +3281,10 @@
       "PEOPLE SEARCH",
       "Username Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "seo-spyglass",
@@ -2812,8 +3295,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "website-informer",
@@ -2824,8 +3309,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "numlookup",
@@ -2836,8 +3323,10 @@
       "PHONEINT",
       "Phone Number Lookup"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "snoosnoop",
@@ -2848,8 +3337,10 @@
       "SOCMINT",
       "Reddit"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "ip2location",
@@ -2860,8 +3351,10 @@
       "GEOINT",
       "Geolocalization"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "leakpeek",
@@ -2872,8 +3365,10 @@
       "BREACH DATA",
       "Credential Leaks"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "jsninja-uncover-secrets",
@@ -2883,8 +3378,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "favicorn",
@@ -2894,8 +3391,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "exportgram",
@@ -2906,8 +3405,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "instagram-network-analysis-tool",
@@ -2918,8 +3419,10 @@
       "SOCMINT",
       "Instagram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "007-thebond",
@@ -2930,8 +3433,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "carbon14",
@@ -2941,8 +3446,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "depix",
@@ -2953,8 +3460,10 @@
       "IMAGEINT",
       "Image Enanchement"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "crosslinked",
@@ -2965,8 +3474,10 @@
       "SOCMINT",
       "LinkedIn"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "have-i-been-zuckered",
@@ -2977,8 +3488,10 @@
       "SOCMINT",
       "Facebook"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "telegago",
@@ -2989,8 +3502,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "watchwithout-watch-tiktoks-without-account",
@@ -3001,8 +3516,10 @@
       "SOCMINT",
       "TikTok"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "youtube-comment-finder",
@@ -3013,8 +3530,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "tlgrm-channels",
@@ -3025,8 +3544,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "omar-thing-tiktok-tool",
@@ -3037,8 +3558,10 @@
       "SOCMINT",
       "TikTok"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "onionlinkhub-excavator",
@@ -3049,8 +3572,10 @@
       "DARK WEB",
       "Search Engines"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "subdomain-finder-c99",
@@ -3061,8 +3586,10 @@
       "DOMAININT",
       "Subdomain Enumeration"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "upscale-media-enhance-image-resolution",
@@ -3073,8 +3600,10 @@
       "IMAGEINT",
       "Image Enanchement"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "instant-street-view",
@@ -3085,8 +3614,10 @@
       "GEOINT",
       "Google Maps"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "favihash",
@@ -3096,8 +3627,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "shodan-spider",
@@ -3108,8 +3641,10 @@
       "CRAWLING - SCRAPING",
       "IoT Scraping"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "robofinder",
@@ -3119,8 +3654,10 @@
     "categories": [
       "PEOPLE SEARCH"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "searchpeoplefree",
@@ -3130,8 +3667,10 @@
     "categories": [
       "PEOPLE SEARCH"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "truecaller-z-bot",
@@ -3142,8 +3681,10 @@
       "PHONEINT",
       "Phone Number Lookup"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "socialblade",
@@ -3153,8 +3694,10 @@
     "categories": [
       "SOCMINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "twstalker-watch-twitter-users-without-account",
@@ -3165,8 +3708,10 @@
       "SOCMINT",
       "Twitter / X"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "ripgrep",
@@ -3176,8 +3721,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "phone2skype",
@@ -3188,8 +3735,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Skype"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "faceonlive-reverse-image-search-for-faces",
@@ -3200,8 +3749,10 @@
       "PEOPLE SEARCH",
       "Face Recognition Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "leaked-password",
@@ -3212,8 +3763,10 @@
       "BREACH DATA",
       "Credential Leaks"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "pastebin-finder",
@@ -3223,8 +3776,10 @@
     "categories": [
       "BREACH DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "email2phonenumber",
@@ -3234,8 +3789,10 @@
     "categories": [
       "EMAILINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "huntintel",
@@ -3246,8 +3803,10 @@
       "SOCMINT",
       "GEO Tracking"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "keyword-discovery",
@@ -3257,8 +3816,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "pugrecon",
@@ -3269,8 +3830,10 @@
       "DOMAININT",
       "Subdomain Enumeration"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "youtube-subscription-history",
@@ -3281,8 +3844,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "exiftool-web",
@@ -3293,8 +3858,10 @@
       "IMAGEINT",
       "Metadata Analysis"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "chronos-wayback-machine",
@@ -3304,8 +3871,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "bigdomaindata",
@@ -3315,8 +3884,10 @@
     "categories": [
       "DOMAININT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "linkdtime",
@@ -3327,8 +3898,10 @@
       "SOCMINT",
       "LinkedIn"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "emailguesser",
@@ -3338,8 +3911,10 @@
     "categories": [
       "EMAILINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "user-searcher",
@@ -3350,8 +3925,10 @@
       "PEOPLE SEARCH",
       "Username Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "namint",
@@ -3362,8 +3939,10 @@
       "PEOPLE SEARCH",
       "Namint"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "oh365userfinder",
@@ -3373,8 +3952,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "investigator",
@@ -3384,8 +3965,10 @@
     "categories": [
       "WEB OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "wikistalk",
@@ -3395,8 +3978,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "ghunt-online-instance",
@@ -3407,8 +3992,10 @@
       "EMAILINT",
       "Email Info"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "reveddit",
@@ -3419,8 +4006,10 @@
       "SOCMINT",
       "Reddit"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "redditmetis",
@@ -3431,8 +4020,10 @@
       "SOCMINT",
       "Reddit"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "youtube-handles-fuzz",
@@ -3443,8 +4034,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "dark-web-daily",
@@ -3455,8 +4048,10 @@
       "DARK WEB",
       "Onion Directories"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "osintracker",
@@ -3466,8 +4061,10 @@
     "categories": [
       "GENERAL OSINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "metadetective",
@@ -3478,8 +4075,10 @@
       "GENERAL OSINT",
       "Metasearch"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "osint-sh-buckets-search",
@@ -3490,8 +4089,10 @@
       "CRAWLING - SCRAPING",
       "Bucket Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "twitter-trending-archive",
@@ -3502,8 +4103,10 @@
       "SOCMINT",
       "Twitter / X"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "deep-dork-web",
@@ -3514,8 +4117,10 @@
       "GENERAL OSINT",
       "Dork Tools"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "grayhatwarfare-buckets-search",
@@ -3526,8 +4131,10 @@
       "CRAWLING - SCRAPING",
       "Bucket Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "hashtray",
@@ -3538,8 +4145,10 @@
       "EMAILINT",
       "Email Info"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "sn0int",
@@ -3550,8 +4159,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "octosuite",
@@ -3561,8 +4172,10 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "whatsanalyze",
@@ -3573,8 +4186,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Whatsapp"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "grep-backurls",
@@ -3584,8 +4199,10 @@
     "categories": [
       "CRAWLING - SCRAPING"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "domainiq-investigations",
@@ -3595,8 +4212,10 @@
     "categories": [
       "DOMAININT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "maxun",
@@ -3606,8 +4225,10 @@
     "categories": [
       "CRAWLING - SCRAPING"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "exportcomments",
@@ -3617,8 +4238,10 @@
     "categories": [
       "SOCMINT"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "analyzeid-username-search",
@@ -3629,8 +4252,10 @@
       "PEOPLE SEARCH",
       "Username Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "filephish",
@@ -3641,8 +4266,10 @@
       "GENERAL OSINT",
       "Dork Tools"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "deepfind-me-tools",
@@ -3653,8 +4280,10 @@
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "leak-lookup",
@@ -3664,8 +4293,10 @@
     "categories": [
       "BREACH DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "handlehawk",
@@ -3676,8 +4307,10 @@
       "PEOPLE SEARCH",
       "Username Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "silvertgosint",
@@ -3688,8 +4321,10 @@
       "DIGITAL COMMUNICATION INTELLIGENCE",
       "Telegram"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "profileimageintel",
@@ -3700,8 +4335,10 @@
       "PEOPLE SEARCH",
       "Face Recognition Search"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "osinttube",
@@ -3712,8 +4349,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "filmot",
@@ -3724,8 +4363,10 @@
       "SOCMINT",
       "YouTube"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "sticktock",
@@ -3736,8 +4377,10 @@
       "SOCMINT",
       "TikTok"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "findpiclocation",
@@ -3748,8 +4391,10 @@
       "GEOINT",
       "Geolocalization"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "gmail_permutator",
@@ -3760,8 +4405,10 @@
       "EMAILINT",
       "Email Verification"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "spotify_profile_monitor",
@@ -3772,8 +4419,10 @@
       "GENERAL OSINT",
       "Data Intelligence"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   },
   {
     "slug": "cyber-url-scanner",
@@ -3783,7 +4432,9 @@
     "categories": [
       "PUBLIC DATA"
     ],
-    "attributes": [],
-    "date_added": "2026-02-09"
+    "type": "tool",
+    "pricing": "free",
+    "featured": false,
+    "date_added": "2025-04-28"
   }
 ]
