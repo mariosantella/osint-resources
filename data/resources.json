@@ -1,5 +1,390 @@
 [
   {
+    "slug": "probiv43bot-telegram-user-data",
+    "title": "probiv43bot Telegram user data bot",
+    "url": "https://t.me/Probiv43bot_bot",
+    "tooltip": "Perform varoius OSINT researchs &#8211; get phone number from telegram username or handle. https://t.me/Probiv43bot_bot",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram",
+      "Uncategorized"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-03-03"
+  },
+  {
+    "slug": "wqfqokg-telegram-user-data-bot",
+    "title": "wqfqokg Telegram user data bot",
+    "url": "https://t.me/fwqfgq_bot",
+    "tooltip": "Perform varoius OSINT researchs &#8211; get phone number from telegram username or handle. https://t.me/fwqfgq_bot",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-03-03"
+  },
+  {
+    "slug": "social-media-leaks-telegram-bot",
+    "title": "Social Media Leaks Telegram BOT",
+    "url": "https://t.me/SocialMediaLeaksBOT",
+    "tooltip": "Search user phone number and ids directly on telegram https://t.me/SocialMediaLeaksBOT",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "brutal-osint-bot",
+    "title": "Brutal OSINT Bot",
+    "url": "https://t.me/BrutalOsintBot",
+    "tooltip": "All in one OSINT search tool for telegram https://t.me/BrutalOsintBot",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Telegram"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "vecert-forum-list",
+    "title": "Vecert forum list",
+    "url": "https://analyzer.vecert.io/forums",
+    "tooltip": "A real-time monitoring hub for data breaches, defacements, and underground forum leaks. Tracks exposures like employee directories, national ID databases, stealer logs, combo lists, and financial records\u2014often with direct download links and actor attribution. https://analyzer.vecert.io/forums",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Data-Source",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "caracal",
+    "title": "Caracal",
+    "url": "https://huggingface.co/spaces/wjbmattingly/caracal",
+    "tooltip": "HTR free tool hand written recognizing with AI https://huggingface.co/spaces/wjbmattingly/caracal",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "deepkrak3n",
+    "title": "deepkrak3n",
+    "url": "https://github.com/guilhermelimait/deepkrak3n",
+    "tooltip": "deepkrak3n is a fully local, modern OSINT platform for scanning and analysing public profiles across 200+ platforms by username or email. It provides more than just a list: it builds relationships between accounts, leverages AI for summary and risk analysis, and gives you a clean, fast, and private user experience. https://github.com/guilhermelimait/deepkrak3n",
+    "categories": [
+      "GENERAL OSINT",
+      "Multi-tool Platforms"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "dnsdumpster-com",
+    "title": "DNSDumpster.com",
+    "url": "https://dnsdumpster.com/",
+    "tooltip": "FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process. https://dnsdumpster.com/",
+    "categories": [
+      "DOMAININT",
+      "Subdomain Enumeration"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "namechk",
+    "title": "Namechk",
+    "url": "https://namechk.com/",
+    "tooltip": "With Namechk, you can check the availability of a username or domain name within seconds. https://namechk.com/",
+    "categories": [
+      "PEOPLE SEARCH",
+      "Username Search"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "bing-visual-search",
+    "title": "Bing Visual Search",
+    "url": "https://www.microsoft.com/en-us/bing/visual-search/",
+    "tooltip": "Visual Image Search from Bing https://www.microsoft.com/en-us/bing/visual-search/",
+    "categories": [
+      "IMAGEINT",
+      "Reverse Image Search"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "blockchain-com-explorer",
+    "title": "Blockchain.com explorer",
+    "url": "https://www.blockchain.com/explorer",
+    "tooltip": "The most popular and trusted Bitcoin block explorer and crypto transaction search engine. https://www.blockchain.com/explorer",
+    "categories": [
+      "CRYPTOCURRENCIES"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "spidersuite",
+    "title": "SpiderSuite",
+    "url": "https://spidersuite.io/",
+    "tooltip": "An advanced web crawler for security professionals. Powerful crawling, interception, and analysis tools for comprehensive security testing. https://spidersuite.io/",
+    "categories": [
+      "CRAWLING - SCRAPING",
+      "Web Scrapers"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "geomastr",
+    "title": "Geomastr",
+    "url": "https://geomastr.com/",
+    "tooltip": "Geomastr is your dedicated GeoGuessr training hub for visual country clues: bollards, license plates, road signs, road markings, poles, alphabets and more. https://geomastr.com/",
+    "categories": [
+      "GEOINT",
+      "Map Analysis"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "monitor-the-situation",
+    "title": "Monitor the situation",
+    "url": "https://monitor-the-situation.com/",
+    "tooltip": "Real-time global event tracker. Live OSINT from X/Twitter, 40+ news feeds, military aircraft and ship tracking, prediction markets, world leader tracking, weather radar, and 50+ live TV feeds \u2014 all on one interactive map with automated analysis. https://monitor-the-situation.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "osint-checklist-generator",
+    "title": "OSINT checklist generator",
+    "url": "https://shadowdragon.io/blog/checklist-generator/",
+    "tooltip": "Generate crisp, printable OSINT pivot lists for different targets (location people, companies) Checklist Generator",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "cloudflare-radar",
+    "title": "Cloudflare Radar",
+    "url": "https://radar.cloudflare.com/",
+    "tooltip": "A global internet statistic collection organized in a dashboard for consultation. https://radar.cloudflare.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "wiretapper",
+    "title": "WireTapper",
+    "url": "https://github.com/h9zdev/WireTapper",
+    "tooltip": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence https://github.com/h9zdev/WireTapper",
+    "categories": [
+      "SIGINT",
+      "General resources"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "google-fact-check-tool",
+    "title": "Google Fact Check Tool",
+    "url": "https://toolbox.google.com/factcheck/",
+    "tooltip": "Super simple fact check tool by google (global coverage of news). https://toolbox.google.com/factcheck/",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "sightline-maps",
+    "title": "Sightline Maps",
+    "url": "https://sightline-maps.vercel.app/",
+    "tooltip": "An OSINT search engine for mapping real-world infrastructure from OpenStreetMap data. https://sightline-maps.vercel.app/",
+    "categories": [
+      "GEOINT",
+      "OpenStreetMap"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "hackbrowserdata",
+    "title": "HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "tooltip": "Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux). https://github.com/moonD4rk/HackBrowserData",
+    "categories": [
+      "GENERAL OSINT",
+      "Forensic tools"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "darknet-clearnet-search-engine-list",
+    "title": "Darknet Clearnet Search Engine list",
+    "url": "https://www.osint.al/osint-darknet/directories-of-search-engines",
+    "tooltip": "100+ darkweb (also clearnet) updated links aggregator. https://www.osint.al/osint-darknet/directories-of-search-engines",
+    "categories": [
+      "GENERAL OSINT",
+      "Bookmark Collections"
+    ],
+    "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "watcher-aintivirus",
+    "title": "Watcher Aintivirus",
+    "url": "https://watcher.aintivirus.ai/",
+    "tooltip": "A real-time browser fingerprinting demonstration that reveals exactly what advertisers, trackers, and fraud detection systems can infer about you \u2014 just from your browser\u2019s configuration and behavior. Shows live RTB auctions, mouse/typing patterns, device fingerprints, and inferred demographics \u2014 all processed locally, with no data sent to servers. https://watcher.aintivirus.ai/",
+    "categories": [
+      "PRIVACY TOOLS"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-02-23"
+  },
+  {
+    "slug": "whats-reader",
+    "title": "Whats-Reader",
+    "url": "https://rodrigogs.github.io/whats-reader/",
+    "tooltip": "Browse WhatsApp chat exports offline with AI-powered voice transcription. Privacy-first desktop/web app with bookmarks, search, and statistics. Built with SvelteKit and Electron. https://rodrigogs.github.io/whats-reader/",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE",
+      "Whatsapp"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-02-23"
+  },
+  {
+    "slug": "reconftw",
+    "title": "reconftw",
+    "url": "https://github.com/six2dez/reconftw",
+    "tooltip": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities https://github.com/six2dez/reconftw",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-02-23"
+  },
+  {
+    "slug": "telespotter",
+    "title": "Telespotter",
+    "url": "https://github.com/thumpersecure/Telespotter",
+    "tooltip": "A blazingly fast OSINT tool for US phone number reconnaissance\u2014searches across major people lookup sites (Whitepages, TruePeopleSearch, FastPeopleSearch, ThatsThem, USPhoneBook) and search engines to extract names, locations, emails, usernames, and social profiles. Auto-integrates with Sherlock, Blackbird, and email2phonenumber for deeper investigation. Supports multiple phone formats, rotating user agents, and configurable rate limiting. https://github.com/thumpersecure/Telespotter",
+    "categories": [
+      "PHONEINT",
+      "Phone Number Lookup"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-02-23"
+  },
+  {
+    "slug": "cyber-scraper-2077",
+    "title": "Cyber Scraper 2077",
+    "url": "https://github.com/itsOwen/CyberScraper-2077",
+    "tooltip": "A Powerful web scraper powered by LLM OpenAI, Gemini &#038; Ollama supporting a lot of features like: AI-Powered Extraction, Sleek Streamlit Interface, Multi-Format Support, Tor Network Support, Stealth Mode, Ollama Support, Async Operations, Smart Parsing, Caching, Upload to Google Sheets, Bypass Captcha, Current Browser, Navigate through the Pages (BETA) https://github.com/itsOwen/CyberScraper-2077",
+    "categories": [
+      "CRAWLING - SCRAPING",
+      "Web Scrapers"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-02-23"
+  },
+  {
+    "slug": "world-monitor",
+    "title": "World Monitor",
+    "url": "https://worldmonitor.app/",
+    "tooltip": "Real-Time Global Intelligence and Situation Awareness with tracking of: global intelligence, geopolitical dashboard, world news, market data, military bases, nuclear facilities, undersea cables, conflict zones, real-time monitoring, situation awareness, OSINT, flight tracking, AIS ships, earthquake monitor, protest tracker, power outages, oil prices, government spending, polymarket predictions. https://worldmonitor.app/",
+    "categories": [
+      "GENERAL OSINT",
+      "Data Intelligence"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-02-23"
+  },
+  {
+    "slug": "untidetect-tools-list",
+    "title": "Untidetect tools list",
+    "url": "https://github.com/TheGP/untidetect-tools",
+    "tooltip": "List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation. https://github.com/TheGP/untidetect-tools",
+    "categories": [
+      "PRIVACY TOOLS"
+    ],
+    "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-02-23"
+  },
+  {
     "slug": "evilgpt",
     "title": "EvilGPT",
     "url": "https://evilgpt.in/",
