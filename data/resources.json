@@ -1,5 +1,19 @@
 [
   {
+    "slug": "whiteintel",
+    "title": "WhiteIntel",
+    "url": "https://www.whiteintel.io/",
+    "tooltip": "Whiteintel is the definitive platform for Identity Protection. It tracks Telegram channels, dark web forums, and stealer logs in real-time to neutralize stolen accounts. Great for CTI and general sec intelligence. https://www.whiteintel.io/",
+    "categories": [
+      "BREACH DATA",
+      "Credential Leaks"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": true,
+    "date_added": "2026-03-16"
+  },
+  {
     "slug": "probiv43bot-telegram-user-data",
     "title": "probiv43bot Telegram user data bot",
     "url": "https://t.me/Probiv43bot_bot",
