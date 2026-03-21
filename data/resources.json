@@ -863,14 +863,14 @@
     "slug": "webvetted",
     "title": "WebVetted",
     "url": "https://webvetted.com",
-    "tooltip": "An automated OSINT service that performs 60-second background checks on individuals, sellers, or websites\u2014accepts names, e-commerce links (eBay, Amazon, AliExpress), or domains to surface scam reports, domain history, social profiles, and trust indicators. https://webvetted.com",
+    "tooltip": "WebVetted turns emails, phones, usernames and social profiles into instant OSINT investigations. Link identities, export court-ready evidence and monitor targets, without juggling scattered tools. https://webvetted.com",
     "categories": [
       "GENERAL OSINT",
       "Multi-tool Platforms"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
-    "featured": false,
+    "featured": true,
     "date_added": "2026-01-19"
   },
   {
