@@ -1,5 +1,86 @@
 [
   {
+    "slug": "breach-house",
+    "title": "Breach House",
+    "url": "https://breach.house/",
+    "tooltip": "A real-time monitoring platform for ransomware attacks and data leaks, aggregating intelligence from underground forums, leak sites, and dark web sources. Tracks exposures by sector, country, and threat actor\u2014ideal for proactive threat intel, victim notification, and exposure assessment. https://breach.house/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "haveibeenransom",
+    "title": "HaveIBeenRansom",
+    "url": "https://haveibeenransom.com/",
+    "tooltip": "A free OSINT service that alerts users if their email or personal data appears in infostealer logs\u2014malware-collected credentials and browser artifacts often dumped on underground forums or ransomware leak sites. https://haveibeenransom.com/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "imagewhisperer",
+    "title": "ImageWhisperer",
+    "url": "https://imagewhisperer.org",
+    "tooltip": "AI-powered media verification tool that analyzes images for signs of manipulation, AI generation, or contextual inconsistencies. https://imagewhisperer.org",
+    "categories": [
+      "IMAGEINT",
+      "Deepfake Detection"
+    ],
+    "type": "Tool",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "outx-linkedin-profile-viewer",
+    "title": "OutX LinkedIn Profile Viewer",
+    "url": "https://www.outx.ai/all-tools/linkedin-profile-viewer",
+    "tooltip": "Online tool to view any public LinkedIn profile anonymously\u2014no login, no account, no tracking. https://www.outx.ai/all-tools/linkedin-profile-viewer",
+    "categories": [
+      "SOCMINT",
+      "LinkedIn"
+    ],
+    "type": "Tool",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "breach-vip",
+    "title": "Breach.vip",
+    "url": "https://breach.vip",
+    "tooltip": "A searchable database of data breaches allowing queries by email, username, IP, phone, domain, Steam ID, Discord ID, and more. https://breach.vip",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "osintgram",
+    "title": "Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "tooltip": "CLI OSINT tool for Instagram reconnaissance. Extracts public profile data including followers/followings, captions, hashtags, tagged users, comments, media types, and even emails/phone numbers from follower lists (when publicly visible). Requires a valid Instagram account but cannot access private profiles (use sockpuppets). https://github.com/Datalux/Osintgram",
+    "categories": [
+      "SOCMINT",
+      "Instagram"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-26"
+  },
+  {
     "slug": "whiteintel",
     "title": "WhiteIntel",
     "url": "https://www.whiteintel.io/",
@@ -871,7 +952,7 @@
     "type": "Platform-SaaS",
     "pricing": "Freemium",
     "featured": true,
-    "date_added": "2026-03-21"
+    "date_added": "2026-01-19"
   },
   {
     "slug": "pixnoy",
@@ -1240,19 +1321,6 @@
     ],
     "type": "Telegram-Bot",
     "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-12-10"
-  },
-  {
-    "slug": "haveibeenransom",
-    "title": "HaveIBeenRansom",
-    "url": "https://haveibeenransom.com/",
-    "tooltip": "A free OSINT service that alerts users if their email or personal data appears in infostealer logs\u2014malware-collected credentials and browser artifacts often dumped on underground forums or ransomware leak sites. https://haveibeenransom.com/",
-    "categories": [
-      "BREACH DATA"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Freemium",
     "featured": false,
     "date_added": "2025-12-10"
   },
