@@ -1,12 +1,1233 @@
 [
   {
+    "slug": "fingerprint-detector",
+    "title": "Fingerprint Detector",
+    "url": "https://github.com/mr-r3b00t/fingerprintdetector",
+    "tooltip": "A Chrome extension that detects, blocks, and spoofs browser fingerprinting attempts by monitoring API calls, allowing users to analyze tracking methods and protect their privacy. https://github.com/mr-r3b00t/fingerprintdetector",
+    "categories": [
+      "PRIVACY TOOLS"
+    ],
+    "type": "Browser-Extension",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-13"
+  },
+  {
+    "slug": "intelbase",
+    "title": "IntelBase",
+    "url": "https://intelbase.is",
+    "tooltip": "OSINT platform that turns an email into actionable intelligence. Find linked accounts, breach history, infostealer logs, and activity timelines for security teams and investigators. https://intelbase.is",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-04-13"
+  },
+  {
+    "slug": "osintnova",
+    "title": "OSINTNova",
+    "url": "https://app.osintnova.com/",
+    "tooltip": "A comprehensive OSINT (Open-Source Intelligence) platform offering a suite of investigative tools for analyzing IP addresses, domains, emails, social media, and other digital data for cybersecurity and intelligence gathering purposes. https://app.osintnova.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-13"
+  },
+  {
+    "slug": "keyfinder",
+    "title": "KeyFinder",
+    "url": "https://github.com/momenbasel/keyFinder",
+    "tooltip": "A Chrome extension that passively scans web pages to detect and identify leaked API keys, tokens, and other sensitive secrets from over 80 providers, aiding in OSINT and cybersecurity reconnaissance. https://github.com/momenbasel/keyFinder",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "type": "Browser-Extension",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-13"
+  },
+  {
+    "slug": "reverseimagelocation-geoguessrai",
+    "title": "reverseimagelocation GeoguessrAI",
+    "url": "https://reverseimagelocation.com/",
+    "tooltip": "AI-powered tool that analyzes images to determine their geographic location by identifying visual clues like infrastructure, architecture, and signage, useful for OSINT and geolocation workflows. https://reverseimagelocation.com/",
+    "categories": [
+      "GEOINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-13"
+  },
+  {
+    "slug": "osint-database-search-engine",
+    "title": "OSINT Database Search Engine",
+    "url": "https://osint.lolarchiver.com/database_lookup",
+    "tooltip": "A search engine that queries over 1,343 databases containing 16+ billion records to find information related to domains, names, emails, IDs, phones, IPs, and URLs for OSINT investigations. https://osint.lolarchiver.com/database_lookup",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Aggregator",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-13"
+  },
+  {
+    "slug": "stalkie",
+    "title": "Stalkie",
+    "url": "https://github.com/ashendilantha/stalkie",
+    "tooltip": "A social media OSINT tool that performs username intelligence across 13+ platforms with confidence scoring, proxy support, and headless browser rendering. https://github.com/ashendilantha/stalkie",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-13"
+  },
+  {
+    "slug": "social-media-scraping-apis",
+    "title": "Social Media Scraping APIs",
+    "url": "https://github.com/cporter202/social-media-scraping-apis",
+    "tooltip": "A comprehensive collection of 3,268 ready-to-use APIs for extracting posts, profiles, videos, comments, and engagement metrics from Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and other social platforms. https://github.com/cporter202/social-media-scraping-apis",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-08"
+  },
+  {
+    "slug": "refloow-geo-forensics",
+    "title": "Refloow Geo Forensics",
+    "url": "https://github.com/Refloow/Refloow-Geo-Forensics",
+    "tooltip": "Free open-source tool for batch extraction of EXIF metadata from images, visualization of GPS coordinates on maps, and reconstruction of event timelines for OSINT and digital forensics investigations. https://github.com/Refloow/Refloow-Geo-Forensics",
+    "categories": [
+      "GEOINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-08"
+  },
+  {
+    "slug": "sharetrace",
+    "title": "ShareTrace",
+    "url": "https://github.com/hondling/sharetrace",
+    "tooltip": "OSINT tool that extracts user identity information from social media share links by analyzing internal identifiers and metadata from various platforms including TikTok, Instagram, Discord, and Microsoft services. https://github.com/hondling/sharetrace",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-08"
+  },
+  {
+    "slug": "cti-expert",
+    "title": "CTI Expert",
+    "url": "https://github.com/7onez/cti-expert",
+    "tooltip": "A Claude Code skill that transforms Claude into a cyber threat intelligence and OSINT analyst. It provides 67+ commands across 35 techniques for multi-vector reconnaissance and automated intelligence reporting. https://github.com/7onez/cti-expert",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-08"
+  },
+  {
+    "slug": "autoresearch-genealogy",
+    "title": "autoresearch-genealogy",
+    "url": "https://github.com/mattprusak/autoresearch-genealogy",
+    "tooltip": "A toolkit providing structured prompts, vault templates, and archive guides for AI-assisted genealogy research, enabling systematic and verifiable autonomous investigation of family history. https://github.com/mattprusak/autoresearch-genealogy",
+    "categories": [
+      "PEOPLE SEARCH"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-08"
+  },
+  {
+    "slug": "deepwiki",
+    "title": "DeepWiki",
+    "url": "https://deepwiki.com/",
+    "tooltip": "An AI tool that indexes code repositories to create interactive documentation. It allows users to 'talk to' their codebase for better understanding and analysis. https://deepwiki.com/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-07"
+  },
+  {
+    "slug": "awesome-osint-mcp-servers",
+    "title": "awesome-osint-mcp-servers",
+    "url": "https://github.com/soxoj/awesome-osint-mcp-servers",
+    "tooltip": "A curated list of MCP servers that connect OSINT tools and services to LLM systems like Claude and Cursor, enabling simplified execution of OSINT investigations through AI querying and flexible report generation. https://github.com/soxoj/awesome-osint-mcp-servers",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "sycek",
+    "title": "Sycek",
+    "url": "https://sycek.io",
+    "tooltip": "An advanced cyber intelligence and OSINT platform for threat detection and investigation. https://sycek.io",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "opengridworks",
+    "title": "OpenGridWorks",
+    "url": "https://opengridworks.com/",
+    "tooltip": "Open map of the world's electricity and power grids. https://opengridworks.com/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "tldsweep",
+    "title": "TLDSweep",
+    "url": "https://github.com/DarkWebInformer/TLDSweep",
+    "tooltip": "An OSINT domain intelligence tool that sweeps a domain across 800+ TLDs to discover registered variants, identify newly registered lookalikes, and send alerts via Telegram and Discord. https://github.com/DarkWebInformer/TLDSweep",
+    "categories": [
+      "DOMAININT"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "wind-vector",
+    "title": "Wind Vector",
+    "url": "https://windvector.app/",
+    "tooltip": "An interactive 3D wind visualization and analysis tool that uses data from The OpenSky Network to display real-time and simulated atmospheric conditions for flight planning and weather analysis. https://windvector.app/",
+    "categories": [
+      "GEOINT"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "euosint-by-scalytics",
+    "title": "EUOSINT by Scalytics",
+    "url": "https://osint.scalytics.io/",
+    "tooltip": "An open-source OSINT platform designed for monitoring, detection, and predicting conflicts. https://osint.scalytics.io/",
+    "categories": [
+      "GEOINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "l0p4map",
+    "title": "L0p4Map",
+    "url": "http://github.com/HaxL0p4/L0p4Map",
+    "tooltip": "Professional network monitoring and visualization tool that combines ARP discovery, full nmap integration, and real-time interactive network topology for security research and network analysis. http://github.com/HaxL0p4/L0p4Map",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "tor-node-archive",
+    "title": "TOR Node Archive",
+    "url": "https://tor-archive.github.io/",
+    "tooltip": "A comprehensive historical intelligence feed tracking all TOR relay IPs with metadata, providing search, analysis, and export tools for OSINT and cybersecurity research. https://tor-archive.github.io/",
+    "categories": [
+      "DARK WEB"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "infotel-osint-robot",
+    "title": "Infotel OSINT Robot",
+    "url": "https://t.me/infotelosinrobot",
+    "tooltip": "A Telegram-based bot service for OSINT (Open-Source Intelligence) and information gathering, allowing users to query and receive data directly through the messaging platform. https://t.me/infotelosinrobot",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "poispkoinfo2026-bot",
+    "title": "POISPKOInfo2026_Bot",
+    "url": "https://t.me/poispkoinfo2026_bot",
+    "tooltip": "A Telegram bot that provides OSINT information. https://t.me/poispkoinfo2026_bot",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "wechat-article-crawler",
+    "title": "WeChat Article Crawler",
+    "url": "https://github.com/gxcsoccer/wechat-article-crawler",
+    "tooltip": "A Python tool that extracts structured data and Markdown from WeChat public account articles while bypassing image hotlink protection through local downloading and User-Agent spoofing techniques. https://github.com/gxcsoccer/wechat-article-crawler",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "eyeofweb",
+    "title": "EyeOfWeb",
+    "url": "https://github.com/MehmetYukselSekeroglu/eye_of_web",
+    "tooltip": "A powerful open-source OSINT tool for facial intelligence and security analysis, serving as an alternative to commercial face search engines for web-based investigations. https://github.com/MehmetYukselSekeroglu/eye_of_web",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "searchall",
+    "title": "SearchAll",
+    "url": "https://searchall.net/",
+    "tooltip": "An AI-first multi-search aggregator platform that simultaneously queries multiple search engines, AI chatbots, and websites to provide comprehensive results for web, social media, shopping, images, and videos from a single input. https://searchall.net/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "discordgate-tools-hub",
+    "title": "DiscordGate Tools Hub",
+    "url": "https://discordgate.com/tools",
+    "tooltip": "A hub of OSINT and server management tools for Discord, offering AI-powered analytics, server/user lookup, invite checking, and configuration utilities to audit, analyze, and enhance Discord communities. https://discordgate.com/tools",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "dorkeye",
+    "title": "DorkEye",
+    "url": "https://github.com/xPloits3c/DorkEye",
+    "tooltip": "An automated OSINT reconnaissance tool that performs advanced Google dorking to discover exposed files and web resources, with integrated SQL injection testing and metadata analysis. https://github.com/xPloits3c/DorkEye",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "instastatistics",
+    "title": "Instastatistics",
+    "url": "https://instastatistics.com/",
+    "tooltip": "A live Instagram follower and analytics tracker providing real-time social media metrics for monitoring profile growth and audience statistics. https://instastatistics.com/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "world-watch-sandbox",
+    "title": "World Watch Sandbox",
+    "url": "https://worldwatch.uk/",
+    "tooltip": "An interactive OSINT globe and data visualization platform that layers real-time intelligence feeds, including conflict zones, military assets, economic data, and global events for situational awareness. https://worldwatch.uk/",
+    "categories": [
+      "GEOINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "track2pulse-intelligence-platform",
+    "title": "TRACK2PULSE Intelligence Platform",
+    "url": "https://www.track2pulse.com/",
+    "tooltip": "A cybersecurity and OSINT platform for real-time threat monitoring and event analysis, providing live tracking of critical and high-severity security events. https://www.track2pulse.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "globalcve",
+    "title": "GlobalCVE",
+    "url": "https://globalcve.xyz/",
+    "tooltip": "A unified, open-source hub for global vulnerability intelligence. Built for clarity, collaboration, and security. https://globalcve.xyz/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "whatsmyname",
+    "title": "WhatsMyName",
+    "url": "https://whatsmyname.app/",
+    "tooltip": "An OSINT tool that enumerates a username's presence across numerous websites, helping to identify active accounts and digital footprints. https://whatsmyname.app/",
+    "categories": [
+      "PEOPLE SEARCH"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "dorkgpt",
+    "title": "DorkGPT",
+    "url": "https://www.dorkgpt.com/",
+    "tooltip": "An AI-powered tool that automatically generates Google Dork queries to assist with OSINT investigations, vulnerability discovery, and cybersecurity research. https://www.dorkgpt.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "lusha",
+    "title": "Lusha",
+    "url": "https://www.lusha.com/",
+    "tooltip": "A B2B intelligence platform providing verified contact data and real-time buying signals. It enables GTM teams to enrich CRM data, automate workflows, and find prospects with tools for web browsing, sales outreach, and data analysis. https://www.lusha.com/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "better-reddit-search",
+    "title": "Better Reddit Search",
+    "url": "https://betterredditsearch.web.app/",
+    "tooltip": "A specialized search tool for performing advanced, targeted queries across Reddit posts and comments, useful for OSINT and data gathering. https://betterredditsearch.web.app/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "naminter",
+    "title": "Naminter",
+    "url": "https://github.com/3xp0rt/Naminter",
+    "tooltip": "A Python package and CLI tool for asynchronous OSINT username enumeration using the WhatsMyName dataset to check usernames across hundreds of websites with browser impersonation and customizable filtering. https://github.com/3xp0rt/Naminter",
+    "categories": [
+      "PEOPLE SEARCH"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "scraping-apis-for-developers",
+    "title": "Scraping APIs for Developers",
+    "url": "https://github.com/cporter202/scraping-apis-for-devs",
+    "tooltip": "A comprehensive collection of 2,622 ready-to-use scraping APIs for extracting data from websites, social media, e-commerce, and more to build applications and automations. https://github.com/cporter202/scraping-apis-for-devs",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "glint",
+    "title": "Glint",
+    "url": "https://glint.trade/",
+    "tooltip": "A real-time prediction market intelligence platform. It provides data analysis for forecasting events and tracking market sentiment. https://glint.trade/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "videosearchio",
+    "title": "VideoSearch.io",
+    "url": "https://videosearch.io",
+    "tooltip": "A video search engine that aggregates and searches for the latest videos across multiple platforms including social media, streaming services, and video hosting sites. https://videosearch.io",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Aggregator",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "shunyanet-sentinel",
+    "title": "ShunyaNet Sentinel",
+    "url": "https://github.com/EverythingsComputer/ShunyaNet-Sentinel",
+    "tooltip": "A lightweight OSINT monitoring tool that analyzes RSS feeds with a local LLM to generate real-time alerts and summary reports on topics of interest, delivered via GUI and Slack. https://github.com/EverythingsComputer/ShunyaNet-Sentinel",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "ig-detective",
+    "title": "IG-Detective",
+    "url": "https://github.com/shredzwho/IG-Detective",
+    "tooltip": "An advanced OSINT tool for Instagram that performs deep account analysis, geospatial mapping, and social network investigation with evasion techniques to bypass restrictions. https://github.com/shredzwho/IG-Detective",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "opsis-osint",
+    "title": "Opsis OSINT",
+    "url": "https://useopsis.com",
+    "tooltip": "Advanced open-source intelligence gathering for law enforcement, investigators, and security analysts. 150+ platforms searched, enriched, and cross-referenced in real time. Live, accurate intelligence from public data sources, in seconds. https://useopsis.com",
+    "categories": [
+      "PEOPLE SEARCH"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "cloudsint",
+    "title": "CloudSINT",
+    "url": "https://cloudsint.net/",
+    "tooltip": "A professional OSINT platform for intelligence gathering, offering search across breach databases, social platforms, and threat intelligence sources to investigate emails, usernames, domains, and IPs. https://cloudsint.net/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "ruview",
+    "title": "RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "tooltip": "WiFi sensing platform that uses radio signal disturbances to perform human pose estimation, vital sign monitoring, and presence detection through walls without cameras or wearables. https://github.com/ruvnet/RuView",
+    "categories": [
+      "SIGINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "trace-manus",
+    "title": "Trace Manus",
+    "url": "https://trace.manus.space/",
+    "tooltip": "A real-time OSINT intelligence platform for gathering and analyzing open-source data to support cybersecurity and investigative efforts. https://trace.manus.space/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "onyphe",
+    "title": "ONYPHE",
+    "url": "https://search.onyphe.io",
+    "tooltip": "A cyber defense search engine providing big data for OSINT and threat intelligence. It collects and analyzes internet-sourced data to help identify threats and vulnerabilities. https://search.onyphe.io",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "blackbird-email-search",
+    "title": "Blackbird - Email Search",
+    "url": "https://osintcabal.org/livecenter/blackbird.html",
+    "tooltip": "An OSINT tool that searches for online accounts associated with an email address across over 600 platforms to help investigators discover a target's digital footprint. https://osintcabal.org/livecenter/blackbird.html",
+    "categories": [
+      "EMAILINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "discord-id-lookup",
+    "title": "Discord ID Lookup",
+    "url": "https://gatecord.com/discord-id-lookup/",
+    "tooltip": "A tool for retrieving publicly available Discord user profile information by their unique numerical ID. It provides details such as avatar, banner, badges, and account creation date for OSINT and moderation purposes. https://gatecord.com/discord-id-lookup/",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "telegram-wayback-machine",
+    "title": "Telegram Wayback Machine",
+    "url": "https://web.archive.org/collection-search/telegram/",
+    "tooltip": "Search 3,787,236,399 Telegram web pages using an index built from anchor text, all URL parts (file names, hosts, domains), MIME Types, HTTP Status codes and the full text of the web pages. https://web.archive.org/collection-search/telegram/",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "hadzy-youtube-comment-analysis-tool",
+    "title": "Hadzy YouTube Comment Analysis Tool",
+    "url": "https://next.hadzy.com/",
+    "tooltip": "A free OSINT tool for searching, filtering, and analyzing YouTube comments from any public video to extract insights, study audience behavior, and run transparent giveaways. https://next.hadzy.com/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "api-mega-list",
+    "title": "API Mega List",
+    "url": "https://github.com/cporter202/API-mega-list",
+    "tooltip": "A comprehensive GitHub repository containing 10,498 categorized APIs for building data collection, automation, and analysis tools across various domains including social media, e-commerce, and lead generation. https://github.com/cporter202/API-mega-list",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "intelligence-x",
+    "title": "Intelligence X",
+    "url": "https://intelx.io/",
+    "tooltip": "A search engine and data archive for OSINT and cybersecurity professionals, providing access to indexed darknet, public web, and leaked data sources with advanced filtering and analysis tools. https://intelx.io/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "snoop",
+    "title": "Snoop",
+    "url": "https://github.com/snooppr/snoop",
+    "tooltip": "A powerful OSINT tool for username and nickname reconnaissance across 5400+ websites, featuring geo-IP lookup, reverse geocoding, and reporting capabilities. https://github.com/snooppr/snoop",
+    "categories": [
+      "PEOPLE SEARCH"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "map-of-reddit",
+    "title": "Map of Reddit",
+    "url": "https://anvaka.github.io/map-of-reddit/",
+    "tooltip": "An interactive data visualization tool that maps the relationships and communities within Reddit. It is used for OSINT and data analysis to understand subreddit connections and user interests. https://anvaka.github.io/map-of-reddit/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "graphtreon",
+    "title": "Graphtreon",
+    "url": "https://graphtreon.com/",
+    "tooltip": "A data analysis platform that tracks, ranks, and visualizes Patreon creator statistics including earnings, membership counts, and growth trends. https://graphtreon.com/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "reddit-user-analyser",
+    "title": "Reddit User Analyser",
+    "url": "https://reddit-user-analyser.netlify.app/",
+    "tooltip": "An OSINT tool for analyzing Reddit user accounts. It extracts and presents user data, activity patterns, and statistics for profiling and investigation. https://reddit-user-analyser.netlify.app/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "ghosint",
+    "title": "GHOSINT",
+    "url": "https://ghosint.io/",
+    "tooltip": "An OSINT platform that aggregates and searches data breaches from multiple sources like Intelligence X, LeakCheck, and Snusbase, allowing users to find compromised credentials and personal information. https://ghosint.io/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "dorksearch",
+    "title": "DorkSearch",
+    "url": "https://dorksearch.com/",
+    "tooltip": "A specialized search engine that allows users to perform Google Dork queries. It is a tool for OSINT and cybersecurity research to find specific information or vulnerabilities exposed online. https://dorksearch.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "ransomlook",
+    "title": "RansomLook",
+    "url": "https://www.ransomlook.io/",
+    "tooltip": "An open-source intelligence (OSINT) platform providing real-time monitoring and data on ransomware groups, their activities, leaks, and associated cryptocurrency transactions. https://www.ransomlook.io/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "open-source-threat-intel-feeds",
+    "title": "Open-Source-Threat-Intel-Feeds",
+    "url": "https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds",
+    "tooltip": "A curated collection of freely usable threat intelligence feeds containing IOCs like IPs, URLs, CVEs, and hashes. Includes a structured CSV catalog and KQL queries for integration into EDR and SIEM systems. https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "eu-parliament-monitor",
+    "title": "EU Parliament Monitor",
+    "url": "https://euparliamentmonitor.com/",
+    "tooltip": "A monitoring service providing news, analysis, and data on European Parliament activities, including legislative procedures, plenary votes, and committee reports. https://euparliamentmonitor.com/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "pimeyes",
+    "title": "PimEyes",
+    "url": "https://pimeyes.com",
+    "tooltip": "An advanced face recognition search engine that performs reverse image searches to find pictures of a given face across the open web. It is used for OSINT to uncover threats, protect privacy, and monitor online presence by identifying where an individual's image appears. https://pimeyes.com",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "leaksapi",
+    "title": "LeaksAPI",
+    "url": "https://leaks-api.io/",
+    "tooltip": "Provides real-time breach data and credential intelligence APIs for OSINT and cybersecurity automation, enabling search over 1100+ leaked databases and 150 million infostealer logs. https://leaks-api.io/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "yandex-images",
+    "title": "Yandex Images",
+    "url": "https://ya.ru/images/search",
+    "tooltip": "A reverse image search tool that allows users to find similar or identical images online, useful for verifying image sources, identifying locations, and investigating digital content. https://ya.ru/images/search",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "wayback-archive",
+    "title": "Wayback-Archive",
+    "url": "https://github.com/GeiserX/Wayback-Archive",
+    "tooltip": "Python tool that downloads complete archived websites from the Wayback Machine with full asset preservation and cleanup for offline OSINT analysis and cybersecurity research. https://github.com/GeiserX/Wayback-Archive",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "redective-reddit-detective",
+    "title": "Redective Reddit Detective",
+    "url": "https://www.redective.com/",
+    "tooltip": "A real-time search tool that analyzes Reddit user profiles, comments, and submissions to provide statistical data and word frequency analysis for OSINT and data gathering purposes. https://www.redective.com/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "tranco-list",
+    "title": "Tranco List",
+    "url": "https://tranco-list.eu/",
+    "tooltip": "A research-oriented, manipulation-resistant ranking of the top websites, created by aggregating multiple data sources. It provides a reliable and reproducible list of popular domains for use in OSINT, cybersecurity research, and internet measurement studies. https://tranco-list.eu/",
+    "categories": [
+      "DOMAININT"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "robtex",
+    "title": "Robtex",
+    "url": "https://robtex.com/",
+    "tooltip": "A comprehensive online investigation tool for OSINT and cybersecurity, providing data analysis on domains, IP addresses, autonomous systems, and blockchain transactions. https://robtex.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "sikkerapi",
+    "title": "SikkerAPI",
+    "url": "https://sikkerapi.com/",
+    "tooltip": "Cybersecurity platform providing IP reputation and threat intelligence sourced from a global honeypot sensor network and user reports, delivered via API, TAXII feeds, and firewall tools. https://sikkerapi.com/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Data-Source",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "3wifi-map",
+    "title": "3WiFi Map",
+    "url": "https://3wifi.dev/map.html",
+    "tooltip": "An interactive online map for visualizing and analyzing geolocated public Wi-Fi network data, used for OSINT research and wireless security analysis. https://3wifi.dev/map.html",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "whatsmyname-app",
+    "title": "WhatsMyName App",
+    "url": "https://whatsmynameapp.net/",
+    "tooltip": "Professional OSINT platform for discovering usernames across 500+ social media, gaming, and professional platforms, and performing email OSINT analysis for digital investigations. https://whatsmynameapp.net/",
+    "categories": [
+      "PEOPLE SEARCH"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "subcat",
+    "title": "SubCat",
+    "url": "https://github.com/duty1g/subcat",
+    "tooltip": "A fast, passive subdomain discovery tool for security professionals that aggregates data from multiple online sources to identify valid subdomains while complying with API usage restrictions. https://github.com/duty1g/subcat",
+    "categories": [
+      "DOMAININT"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "s3scanner",
+    "title": "S3Scanner",
+    "url": "https://github.com/sa7mon/S3Scanner",
+    "tooltip": "A tool to scan for misconfigured S3 buckets and S3-compatible cloud storage services, identifying publicly accessible data and permission issues. https://github.com/sa7mon/S3Scanner",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "imsi-catcher",
+    "title": "IMSI-catcher",
+    "url": "https://github.com/Oros42/IMSI-catcher",
+    "tooltip": "A tool that uses an SDR to detect and display IMSI numbers, along with country, brand, and operator information, from nearby cell phones by decoding GSM signals. https://github.com/Oros42/IMSI-catcher",
+    "categories": [
+      "SIGINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "xquik",
+    "title": "Xquik",
+    "url": "https://xquik.com/",
+    "tooltip": "An all-in-one X (Twitter) automation platform providing over 40 tools for extracting data, performing account actions, and integrating via API/MCP. It enables OSINT gathering, social media monitoring, and automated engagement for data analysis and cybersecurity research. https://xquik.com/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "osint-world-map",
+    "title": "OSINT World Map",
+    "url": "https://map.wddadk.com/",
+    "tooltip": "An interactive map tool for discovering and accessing OSINT (Open-Source Intelligence) resources specific to individual countries and territories. https://map.wddadk.com/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "twitter-web-viewer",
+    "title": "Twitter Web Viewer",
+    "url": "https://twitterwebviewer.com/",
+    "tooltip": "A web-based tool for viewing and analyzing Twitter content, potentially used for OSINT investigations to access profiles or tweets through a browser interface. https://twitterwebviewer.com/",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "permanet",
+    "title": "Permanet",
+    "url": "https://thepermanet.com/",
+    "tooltip": "A cryptographic web archive tool that permanently stores and verifies web content. It is used in OSINT and cybersecurity to provide immutable, timestamped evidence of data from websites. https://thepermanet.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "deaddrop-telegram-messages-archive",
+    "title": "Deaddrop Telegram Messages Archive",
+    "url": "https://deaddrop.theosintconsultants.com/dashboard",
+    "tooltip": "Search a scraped archive of over 175,000,000 Telegram messages across 2 million channels. https://deaddrop.theosintconsultants.com/dashboard",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "recox",
+    "title": "RECOX",
+    "url": "https://recox.hackerz.space/",
+    "tooltip": "A free online reconnaissance toolkit for bug bounty hunters that gathers subdomains and endpoints from multiple passive sources, providing a guided post-recon workflow and educational resources. https://recox.hackerz.space/",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "traceon",
+    "title": "TRACEON",
+    "url": "https://traceon.re/",
+    "tooltip": "A threat intelligence platform that tracks threat actors by monitoring and analyzing messages from Telegram channels in real time for OSINT and cybersecurity purposes. https://traceon.re/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "sayari",
+    "title": "Sayari",
+    "url": "https://sayari.com/",
+    "tooltip": "A risk intelligence platform that analyzes global corporate and trade data to uncover hidden risks in supply chains, financial networks, and third-party relationships for investigations and compliance. https://sayari.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "intodns-ai",
+    "title": "IntoDNS-AI",
+    "url": "https://intodns.ai/",
+    "tooltip": "A free DNS and email security scanner that analyzes SPF, DKIM, DMARC configurations, blacklists, and real emails to identify security gaps and improve deliverability with AI-assisted explanations. https://intodns.ai/",
+    "categories": [
+      "DOMAININT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "crowdcounter",
+    "title": "CrowdCounter",
+    "url": "https://digitaldigging.org/crowdchecker/",
+    "tooltip": "A tool that estimates the number of people in a photo using the Jacobs method (area x density x occupancy), useful for OSINT and event analysis. https://digitaldigging.org/crowdchecker/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "warheatmap",
+    "title": "WarHeatmap",
+    "url": "https://warheatmap.app/",
+    "tooltip": "An OSINT tool that visualizes global conflict data on an interactive map, providing real-time analysis and situational awareness for security threats and geopolitical events. https://warheatmap.app/",
+    "categories": [
+      "GEOINT"
+    ],
+    "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "opengraph-intel",
+    "title": "OpenGraph Intel",
+    "url": "https://ogi.khas.app",
+    "tooltip": "An open-source OSINT link analysis platform that transforms domains, people, and documents into a navigable graph to investigate relationships and automate enrichments for threat hunting and research. https://ogi.khas.app",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Beta",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "phantom-tide",
+    "title": "Phantom Tide",
+    "url": "https://github.com/tg12/phantomtide",
+    "tooltip": "A maritime and airspace OSINT platform that fuses AIS, NOTAMs, satellite data, and other signals for geospatial intelligence, anomaly detection, and sanctions monitoring. https://github.com/tg12/phantomtide",
+    "categories": [
+      "GEOINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-03"
+  },
+  {
+    "slug": "breach-house",
+    "title": "Breach House",
+    "url": "https://breach.house/",
+    "tooltip": "A real-time monitoring platform for ransomware attacks and data leaks, aggregating intelligence from underground forums, leak sites, and dark web sources. Tracks exposures by sector, country, and threat actor—ideal for proactive threat intel, victim notification, and exposure assessment. https://breach.house/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "haveibeenransom",
+    "title": "HaveIBeenRansom",
+    "url": "https://haveibeenransom.com/",
+    "tooltip": "A free OSINT service that alerts users if their email or personal data appears in infostealer logs—malware-collected credentials and browser artifacts often dumped on underground forums or ransomware leak sites. https://haveibeenransom.com/",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "imagewhisperer",
+    "title": "ImageWhisperer",
+    "url": "https://imagewhisperer.org",
+    "tooltip": "AI-powered media verification tool that analyzes images for signs of manipulation, AI generation, or contextual inconsistencies. https://imagewhisperer.org",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "type": "Tool",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "outx-linkedin-profile-viewer",
+    "title": "OutX LinkedIn Profile Viewer",
+    "url": "https://www.outx.ai/all-tools/linkedin-profile-viewer",
+    "tooltip": "Online tool to view any public LinkedIn profile anonymously—no login, no account, no tracking. https://www.outx.ai/all-tools/linkedin-profile-viewer",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Tool",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "breachvip",
+    "title": "Breach.vip",
+    "url": "https://breach.vip",
+    "tooltip": "A searchable database of data breaches allowing queries by email, username, IP, phone, domain, Steam ID, Discord ID, and more. https://breach.vip",
+    "categories": [
+      "BREACH DATA"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-26"
+  },
+  {
+    "slug": "osintgram",
+    "title": "Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "tooltip": "CLI OSINT tool for Instagram reconnaissance. Extracts public profile data including followers/followings, captions, hashtags, tagged users, comments, media types, and even emails/phone numbers from follower lists (when publicly visible). Requires a valid Instagram account but cannot access private profiles (use sockpuppets). https://github.com/Datalux/Osintgram",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-26"
+  },
+  {
     "slug": "whiteintel",
     "title": "WhiteIntel",
     "url": "https://www.whiteintel.io/",
     "tooltip": "Whiteintel is the definitive platform for Identity Protection. It tracks Telegram channels, dark web forums, and stealer logs in real-time to neutralize stolen accounts. Great for CTI and general sec intelligence. https://www.whiteintel.io/",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "Platform-SaaS",
     "pricing": "Paid",
@@ -14,14 +1235,12 @@
     "date_added": "2026-03-16"
   },
   {
-    "slug": "probiv43bot-telegram-user-data",
+    "slug": "probiv43bot-telegram-user-data-bot",
     "title": "probiv43bot Telegram user data bot",
     "url": "https://t.me/Probiv43bot_bot",
     "tooltip": "Perform varoius OSINT researchs &#8211; get phone number from telegram username or handle. https://t.me/Probiv43bot_bot",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram",
-      "Uncategorized"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Telegram-Bot",
     "pricing": "Freemium",
@@ -34,8 +1253,7 @@
     "url": "https://t.me/fwqfgq_bot",
     "tooltip": "Perform varoius OSINT researchs &#8211; get phone number from telegram username or handle. https://t.me/fwqfgq_bot",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Telegram-Bot",
     "pricing": "Freemium",
@@ -48,8 +1266,7 @@
     "url": "https://t.me/SocialMediaLeaksBOT",
     "tooltip": "Search user phone number and ids directly on telegram https://t.me/SocialMediaLeaksBOT",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Telegram-Bot",
     "pricing": "Paid",
@@ -62,8 +1279,7 @@
     "url": "https://t.me/BrutalOsintBot",
     "tooltip": "All in one OSINT search tool for telegram https://t.me/BrutalOsintBot",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Telegram-Bot",
     "pricing": "Paid",
@@ -74,7 +1290,7 @@
     "slug": "vecert-forum-list",
     "title": "Vecert forum list",
     "url": "https://analyzer.vecert.io/forums",
-    "tooltip": "A real-time monitoring hub for data breaches, defacements, and underground forum leaks. Tracks exposures like employee directories, national ID databases, stealer logs, combo lists, and financial records\u2014often with direct download links and actor attribution. https://analyzer.vecert.io/forums",
+    "tooltip": "A real-time monitoring hub for data breaches, defacements, and underground forum leaks. Tracks exposures like employee directories, national ID databases, stealer logs, combo lists, and financial records—often with direct download links and actor attribution. https://analyzer.vecert.io/forums",
     "categories": [
       "BREACH DATA"
     ],
@@ -102,8 +1318,7 @@
     "url": "https://github.com/guilhermelimait/deepkrak3n",
     "tooltip": "deepkrak3n is a fully local, modern OSINT platform for scanning and analysing public profiles across 200+ platforms by username or email. It provides more than just a list: it builds relationships between accounts, leverages AI for summary and risk analysis, and gives you a clean, fast, and private user experience. https://github.com/guilhermelimait/deepkrak3n",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -111,13 +1326,12 @@
     "date_added": "2026-03-02"
   },
   {
-    "slug": "dnsdumpster-com",
+    "slug": "dnsdumpstercom",
     "title": "DNSDumpster.com",
     "url": "https://dnsdumpster.com/",
     "tooltip": "FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process. https://dnsdumpster.com/",
     "categories": [
-      "DOMAININT",
-      "Subdomain Enumeration"
+      "DOMAININT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -130,8 +1344,7 @@
     "url": "https://namechk.com/",
     "tooltip": "With Namechk, you can check the availability of a username or domain name within seconds. https://namechk.com/",
     "categories": [
-      "PEOPLE SEARCH",
-      "Username Search"
+      "PEOPLE SEARCH"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -144,8 +1357,7 @@
     "url": "https://www.microsoft.com/en-us/bing/visual-search/",
     "tooltip": "Visual Image Search from Bing https://www.microsoft.com/en-us/bing/visual-search/",
     "categories": [
-      "IMAGEINT",
-      "Reverse Image Search"
+      "IMAGEINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -153,7 +1365,7 @@
     "date_added": "2026-03-02"
   },
   {
-    "slug": "blockchain-com-explorer",
+    "slug": "blockchaincom-explorer",
     "title": "Blockchain.com explorer",
     "url": "https://www.blockchain.com/explorer",
     "tooltip": "The most popular and trusted Bitcoin block explorer and crypto transaction search engine. https://www.blockchain.com/explorer",
@@ -171,8 +1383,7 @@
     "url": "https://spidersuite.io/",
     "tooltip": "An advanced web crawler for security professionals. Powerful crawling, interception, and analysis tools for comprehensive security testing. https://spidersuite.io/",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "Web Scrapers"
+      "CRAWLING - SCRAPING"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -185,8 +1396,7 @@
     "url": "https://geomastr.com/",
     "tooltip": "Geomastr is your dedicated GeoGuessr training hub for visual country clues: bollards, license plates, road signs, road markings, poles, alphabets and more. https://geomastr.com/",
     "categories": [
-      "GEOINT",
-      "Map Analysis"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -197,7 +1407,7 @@
     "slug": "monitor-the-situation",
     "title": "Monitor the situation",
     "url": "https://monitor-the-situation.com/",
-    "tooltip": "Real-time global event tracker. Live OSINT from X/Twitter, 40+ news feeds, military aircraft and ship tracking, prediction markets, world leader tracking, weather radar, and 50+ live TV feeds \u2014 all on one interactive map with automated analysis. https://monitor-the-situation.com/",
+    "tooltip": "Real-time global event tracker. Live OSINT from X/Twitter, 40+ news feeds, military aircraft and ship tracking, prediction markets, world leader tracking, weather radar, and 50+ live TV feeds — all on one interactive map with automated analysis. https://monitor-the-situation.com/",
     "categories": [
       "GENERAL OSINT"
     ],
@@ -210,7 +1420,7 @@
     "slug": "osint-checklist-generator",
     "title": "OSINT checklist generator",
     "url": "https://shadowdragon.io/blog/checklist-generator/",
-    "tooltip": "Generate crisp, printable OSINT pivot lists for different targets (location people, companies) Checklist Generator",
+    "tooltip": "Generate crisp, printable OSINT pivot lists for different targets (location people, companies) Checklist Generator https://shadowdragon.io/blog/checklist-generator/",
     "categories": [
       "GENERAL OSINT"
     ],
@@ -225,8 +1435,7 @@
     "url": "https://radar.cloudflare.com/",
     "tooltip": "A global internet statistic collection organized in a dashboard for consultation. https://radar.cloudflare.com/",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -239,8 +1448,7 @@
     "url": "https://github.com/h9zdev/WireTapper",
     "tooltip": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence https://github.com/h9zdev/WireTapper",
     "categories": [
-      "SIGINT",
-      "General resources"
+      "SIGINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -253,8 +1461,7 @@
     "url": "https://toolbox.google.com/factcheck/",
     "tooltip": "Super simple fact check tool by google (global coverage of news). https://toolbox.google.com/factcheck/",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -267,8 +1474,7 @@
     "url": "https://sightline-maps.vercel.app/",
     "tooltip": "An OSINT search engine for mapping real-world infrastructure from OpenStreetMap data. https://sightline-maps.vercel.app/",
     "categories": [
-      "GEOINT",
-      "OpenStreetMap"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -281,8 +1487,7 @@
     "url": "https://github.com/moonD4rk/HackBrowserData",
     "tooltip": "Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux). https://github.com/moonD4rk/HackBrowserData",
     "categories": [
-      "GENERAL OSINT",
-      "Forensic tools"
+      "GENERAL OSINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -295,8 +1500,7 @@
     "url": "https://www.osint.al/osint-darknet/directories-of-search-engines",
     "tooltip": "100+ darkweb (also clearnet) updated links aggregator. https://www.osint.al/osint-darknet/directories-of-search-engines",
     "categories": [
-      "GENERAL OSINT",
-      "Bookmark Collections"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -307,7 +1511,7 @@
     "slug": "watcher-aintivirus",
     "title": "Watcher Aintivirus",
     "url": "https://watcher.aintivirus.ai/",
-    "tooltip": "A real-time browser fingerprinting demonstration that reveals exactly what advertisers, trackers, and fraud detection systems can infer about you \u2014 just from your browser\u2019s configuration and behavior. Shows live RTB auctions, mouse/typing patterns, device fingerprints, and inferred demographics \u2014 all processed locally, with no data sent to servers. https://watcher.aintivirus.ai/",
+    "tooltip": "A real-time browser fingerprinting demonstration that reveals exactly what advertisers, trackers, and fraud detection systems can infer about you — just from your browser’s configuration and behavior. Shows live RTB auctions, mouse/typing patterns, device fingerprints, and inferred demographics — all processed locally, with no data sent to servers. https://watcher.aintivirus.ai/",
     "categories": [
       "PRIVACY TOOLS"
     ],
@@ -322,8 +1526,7 @@
     "url": "https://rodrigogs.github.io/whats-reader/",
     "tooltip": "Browse WhatsApp chat exports offline with AI-powered voice transcription. Privacy-first desktop/web app with bookmarks, search, and statistics. Built with SvelteKit and Electron. https://rodrigogs.github.io/whats-reader/",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Whatsapp"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -347,10 +1550,9 @@
     "slug": "telespotter",
     "title": "Telespotter",
     "url": "https://github.com/thumpersecure/Telespotter",
-    "tooltip": "A blazingly fast OSINT tool for US phone number reconnaissance\u2014searches across major people lookup sites (Whitepages, TruePeopleSearch, FastPeopleSearch, ThatsThem, USPhoneBook) and search engines to extract names, locations, emails, usernames, and social profiles. Auto-integrates with Sherlock, Blackbird, and email2phonenumber for deeper investigation. Supports multiple phone formats, rotating user agents, and configurable rate limiting. https://github.com/thumpersecure/Telespotter",
+    "tooltip": "A blazingly fast OSINT tool for US phone number reconnaissance—searches across major people lookup sites (Whitepages, TruePeopleSearch, FastPeopleSearch, ThatsThem, USPhoneBook) and search engines to extract names, locations, emails, usernames, and social profiles. Auto-integrates with Sherlock, Blackbird, and email2phonenumber for deeper investigation. Supports multiple phone formats, rotating user agents, and configurable rate limiting. https://github.com/thumpersecure/Telespotter",
     "categories": [
-      "PHONEINT",
-      "Phone Number Lookup"
+      "PHONEINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -363,8 +1565,7 @@
     "url": "https://github.com/itsOwen/CyberScraper-2077",
     "tooltip": "A Powerful web scraper powered by LLM OpenAI, Gemini &#038; Ollama supporting a lot of features like: AI-Powered Extraction, Sleek Streamlit Interface, Multi-Format Support, Tor Network Support, Stealth Mode, Ollama Support, Async Operations, Smart Parsing, Caching, Upload to Google Sheets, Bypass Captcha, Current Browser, Navigate through the Pages (BETA) https://github.com/itsOwen/CyberScraper-2077",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "Web Scrapers"
+      "CRAWLING - SCRAPING"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -377,8 +1578,7 @@
     "url": "https://worldmonitor.app/",
     "tooltip": "Real-Time Global Intelligence and Situation Awareness with tracking of: global intelligence, geopolitical dashboard, world news, market data, military bases, nuclear facilities, undersea cables, conflict zones, real-time monitoring, situation awareness, OSINT, flight tracking, AIS ships, earthquake monitor, protest tracker, power outages, oil prices, government spending, polymarket predictions. https://worldmonitor.app/",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -399,6 +1599,19 @@
     "date_added": "2026-02-23"
   },
   {
+    "slug": "geovista",
+    "title": "GeoVista",
+    "url": "https://ekonwang.github.io/geo-vista/",
+    "tooltip": "Agentic AI model for visual geolocation that combines image analysis with live web search to pinpoint where a photo was taken. It uses an image-zoom tool to inspect details and a web-search tool to validate hypotheses trained on GeoBench, a new benchmark of global photos, panoramas, and satellite imagery. Outperforms open-source models and rivals GPT-5/Gemini in accuracy. https://ekonwang.github.io/geo-vista/",
+    "categories": [
+      "GEOINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-02-04"
+  },
+  {
     "slug": "evilgpt",
     "title": "EvilGPT",
     "url": "https://evilgpt.in/",
@@ -417,8 +1630,7 @@
     "url": "https://github.com/dannymcc/bluehood",
     "tooltip": "Passively scans for nearby BLE and Classic Bluetooth devices, classifies them (phones, wearables, vehicles, etc.), and visualizes presence patterns over time. Features real-time dashboards, device correlation analysis, RSSI-based proximity zones, and optional push alerts, designed to highlight the surprising amount of personal metadata leaked by everyday Bluetooth devices. https://github.com/dannymcc/bluehood",
     "categories": [
-      "SIGINT",
-      "General resources"
+      "SIGINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -431,21 +1643,7 @@
     "url": "https://github.com/ChmaraX/forensix",
     "tooltip": "Google Chrome forensic tool to process, analyze and visualize browsing artifacts for investigation purposes. https://github.com/ChmaraX/forensix",
     "categories": [
-      "GENERAL OSINT",
-      "Forensic tools"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2026-02-04"
-  },
-  {
-    "slug": "geovista",
-    "title": "GeoVista",
-    "url": "https://ekonwang.github.io/geo-vista/",
-    "tooltip": "Agentic AI model for visual geolocation that combines image analysis with live web search to pinpoint where a photo was taken. It uses an image-zoom tool to inspect details and a web-search tool to validate hypotheses trained on GeoBench, a new benchmark of global photos, panoramas, and satellite imagery. Outperforms open-source models and rivals GPT-5/Gemini in accuracy. https://ekonwang.github.io/geo-vista/",
-    "categories": [
-      "GEOINT"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -458,8 +1656,7 @@
     "url": "https://github.com/anouarbensaad/vulnx",
     "tooltip": "Automated CMS vulnerability scanner and exploit tool that detects content management systems (WordPress, Joomla, Drupal, etc.), gathers target intelligence (subdomains, IP, DNS, WHOIS). Features dork-based URL discovery, multi-threading, and interactive mode; mainly designed for penetration testers and red teams. https://github.com/anouarbensaad/vulnx",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "Web Scrapers"
+      "CRAWLING - SCRAPING"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -496,7 +1693,7 @@
     "slug": "atsameip",
     "title": "AtSameIP",
     "url": "https://atsameip.com",
-    "tooltip": "A free OSINT tool that reveals all websites hosted on the same IP address as a given domain\u2014useful for uncovering shared infrastructure, hidden assets, or phishing sites co-located with legitimate services. Also shows nearby IPs for broader network reconnaissance. https://atsameip.com",
+    "tooltip": "A free OSINT tool that reveals all websites hosted on the same IP address as a given domain—useful for uncovering shared infrastructure, hidden assets, or phishing sites co-located with legitimate services. Also shows nearby IPs for broader network reconnaissance. https://atsameip.com",
     "categories": [
       "WEB OSINT"
     ],
@@ -506,13 +1703,12 @@
     "date_added": "2026-02-04"
   },
   {
-    "slug": "whatsapp-osint-2",
+    "slug": "whatsapp-osint",
     "title": "WhatsApp-OSINT",
     "url": "https://github.com/kinghacker0/WhatsApp-OSINT",
     "tooltip": "OSINT tool for WhatsApp that allows you to obtain profile pictures, verify Business accounts, check status and user information, analyze linked devices, review privacy settings, and access complete data using the RapidAPI WhatsApp OSINT API. Supports 6 endpoints. https://github.com/kinghacker0/WhatsApp-OSINT",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Whatsapp"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -523,7 +1719,7 @@
     "slug": "domains-project",
     "title": "Domains Project",
     "url": "https://domainsproject.org",
-    "tooltip": "The world\u2019s largest public dataset of active internet domains\u2014over 1.7 billion freely available as sorted, deduplicated text files. Updated monthly. Includes tools for classification (LLMC), phishing monitoring, DNS checking, and crawling https://domainsproject.org",
+    "tooltip": "The world’s largest public dataset of active internet domains—over 1.7 billion freely available as sorted, deduplicated text files. Updated monthly. Includes tools for classification (LLMC), phishing monitoring, DNS checking, and crawling https://domainsproject.org",
     "categories": [
       "DOMAININT"
     ],
@@ -538,8 +1734,7 @@
     "url": "https://github.com/aryanguenthner/darkfox",
     "tooltip": "CTI Cyber Threat Intelligence OSINT Dark Web Deep Web Research. Ransomware gang information gathering tool. https://github.com/aryanguenthner/darkfox",
     "categories": [
-      "DARK WEB",
-      "Search Engines"
+      "DARK WEB"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -547,7 +1742,7 @@
     "date_added": "2026-02-04"
   },
   {
-    "slug": "ghostarchive-org",
+    "slug": "ghostarchiveorg",
     "title": "GhostArchive.org",
     "url": "https://ghostarchive.org/",
     "tooltip": "Web archiving service that captures and stores snapshots of web pages: for journalists, researchers, and OSINT investigators to preserve evidence, track changes, or recover deleted content without relying solely on the Wayback Machine. https://ghostarchive.org/",
@@ -560,13 +1755,12 @@
     "date_added": "2026-02-04"
   },
   {
-    "slug": "intelligencesecurity-io",
+    "slug": "intelligencesecurityio",
     "title": "IntelligenceSecurity.io",
     "url": "https://intelligencesecurity.io/",
     "tooltip": "OSINT and breach intelligence platform that scans 500+ billion leaked records to check if emails, domains, IPs, or phone numbers appear in data breaches, stealer logs, or dark web dumps. Offers five core tools: Breach Intel, Live Data, Credentials, Sessions, and Domain Recon. https://intelligencesecurity.io/",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -592,8 +1786,7 @@
     "url": "https://github.com/B16f00t/whapa",
     "tooltip": "A forensic toolkit for WhatsApp analysis on Android (and partially iOS) devices. Includes tools to parse SQLite databases (whapa), decrypt/encrypt backups (whacipher), extract data from Google Drive (whagodri) or iCloud (whacloud), merge chat databases (whamerge), and generate interactive HTML reports from exported chats (whachat). Designed for digital forensics, incident response, and OSINT investigations. https://github.com/B16f00t/whapa",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Whatsapp"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -604,7 +1797,7 @@
     "slug": "what-you-reveal",
     "title": "What You Reveal",
     "url": "https://what-you-reveal.vercel.app/",
-    "tooltip": "A privacy-aware browser fingerprinting tool that shows what information your browser leaks\u2014such as IP, user agent, screen size, installed fonts, WebGL/renderer details, and more\u2014helping users understand their digital footprint and improve online anonymity. https://what-you-reveal.vercel.app/",
+    "tooltip": "A privacy-aware browser fingerprinting tool that shows what information your browser leaks—such as IP, user agent, screen size, installed fonts, WebGL/renderer details, and more—helping users understand their digital footprint and improve online anonymity. https://what-you-reveal.vercel.app/",
     "categories": [
       "PRIVACY TOOLS"
     ],
@@ -617,10 +1810,9 @@
     "slug": "picdetective",
     "title": "PicDetective",
     "url": "https://picdetective.com/",
-    "tooltip": "A privacy-focused reverse image search engine that scans over 146 billion images to find exact or visually similar matches\u2014ideal for verifying social media profiles, tracking meme origins, detecting counterfeit visuals, or identifying unknown objects and locations. Images are auto-deleted after the search. https://picdetective.com/",
+    "tooltip": "A privacy-focused reverse image search engine that scans over 146 billion images to find exact or visually similar matches—ideal for verifying social media profiles, tracking meme origins, detecting counterfeit visuals, or identifying unknown objects and locations. Images are auto-deleted after the search. https://picdetective.com/",
     "categories": [
-      "IMAGEINT",
-      "Reverse Image Search"
+      "IMAGEINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Free",
@@ -631,7 +1823,7 @@
     "slug": "cyberfind",
     "title": "CyberFind",
     "url": "https://github.com/VAZlabs/cyber-find",
-    "tooltip": "An OSINT tool that scans 200+ platforms\u2014including social media, programming hubs, gaming communities, and regional sites\u2014to detect user accounts in seconds. Features async scanning, metadata extraction, multiple output formats (JSON, CSV, HTML, SQLite), and configurable modes (Stealth, Aggressive, Deep). https://github.com/VAZlabs/cyber-find",
+    "tooltip": "An OSINT tool that scans 200+ platforms—including social media, programming hubs, gaming communities, and regional sites—to detect user accounts in seconds. Features async scanning, metadata extraction, multiple output formats (JSON, CSV, HTML, SQLite), and configurable modes (Stealth, Aggressive, Deep). https://github.com/VAZlabs/cyber-find",
     "categories": [
       "CRAWLING - SCRAPING"
     ],
@@ -644,10 +1836,9 @@
     "slug": "camxploit",
     "title": "CamXploit",
     "url": "https://github.com/spyboy-productions/CamXploit",
-    "tooltip": "A reconnaissance tool that detects exposed CCTV cameras and DVR/NVR systems by scanning common ports, identifying brands (e.g., Hikvision, Dahua), checking for default credentials, and validating live video streams (RTSP/HTTP/RTMP). Includes geolocation, Shodan/Censys links, and ONVIF support\u2014useful for physical security assessments and IoT threat hunting. https://github.com/spyboy-productions/CamXploit",
+    "tooltip": "A reconnaissance tool that detects exposed CCTV cameras and DVR/NVR systems by scanning common ports, identifying brands (e.g., Hikvision, Dahua), checking for default credentials, and validating live video streams (RTSP/HTTP/RTMP). Includes geolocation, Shodan/Censys links, and ONVIF support—useful for physical security assessments and IoT threat hunting. https://github.com/spyboy-productions/CamXploit",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "IoT Scraping"
+      "CRAWLING - SCRAPING"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -658,7 +1849,7 @@
     "slug": "robin",
     "title": "Robin",
     "url": "https://github.com/apurvsinghgautam/robin",
-    "tooltip": "AI-powered OSINT tool for dark web investigations\u2014uses LLMs (OpenAI, Claude, Gemini, or local Ollama models) to refine queries, scrape dark web search engines via Tor, and generate structured intelligence summaries. CLI-first, Docker-ready, and built for terminal-based workflows. https://github.com/apurvsinghgautam/robin",
+    "tooltip": "AI-powered OSINT tool for dark web investigations—uses LLMs (OpenAI, Claude, Gemini, or local Ollama models) to refine queries, scrape dark web search engines via Tor, and generate structured intelligence summaries. CLI-first, Docker-ready, and built for terminal-based workflows. https://github.com/apurvsinghgautam/robin",
     "categories": [
       "DARK WEB"
     ],
@@ -671,7 +1862,7 @@
     "slug": "ragecheck",
     "title": "RageCheck",
     "url": "https://ragecheck.com",
-    "tooltip": "AI-powered media literacy tool that analyzes articles, social posts, and memes to expose persuasive manipulation tactics\u2014such as fear appeals, tribal framing, urgency triggers, and moral outrage\u2014helping users recognize emotionally charged disinformation designed to provoke anger or division. https://ragecheck.com",
+    "tooltip": "AI-powered media literacy tool that analyzes articles, social posts, and memes to expose persuasive manipulation tactics—such as fear appeals, tribal framing, urgency triggers, and moral outrage—helping users recognize emotionally charged disinformation designed to provoke anger or division. https://ragecheck.com",
     "categories": [
       "DOCUMENTINT"
     ],
@@ -686,8 +1877,7 @@
     "url": "https://tesari.ai/",
     "tooltip": "Tesari is an evidence-based AI platform built for complex cross-border investigations. Through a jurisdiction-focused workflow, it delivers reliable, mission-critical intelligence quickly, feeding into all other investigative workstreams and sitting at the very top of the investigative process. https://tesari.ai/",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "INVITE-ONLY",
@@ -698,10 +1888,9 @@
     "slug": "osintanonymous",
     "title": "OSINTAnonymous",
     "url": "https://github.com/CScorza/OSINTAnonymous",
-    "tooltip": "An Italian-language OSINT guide focused on operational security and sockpuppet creation\u2014covering fake identity setup, privacy-hardened social media profiles (Facebook, Instagram, Telegram, WhatsApp), secure environments (VMs, Tor, VPNs), and tools for anonymous email, SMS, and synthetic faces. Designed for passive and active investigations while minimizing digital exposure. https://github.com/CScorza/OSINTAnonymous",
+    "tooltip": "An Italian-language OSINT guide focused on operational security and sockpuppet creation—covering fake identity setup, privacy-hardened social media profiles (Facebook, Instagram, Telegram, WhatsApp), secure environments (VMs, Tor, VPNs), and tools for anonymous email, SMS, and synthetic faces. Designed for passive and active investigations while minimizing digital exposure. https://github.com/CScorza/OSINTAnonymous",
     "categories": [
-      "GENERAL OSINT",
-      "Bookmark Collections"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -712,10 +1901,9 @@
     "slug": "snaptik",
     "title": "SnapTik",
     "url": "https://snaptik.app/",
-    "tooltip": "A free, no-watermark TikTok video downloader that works directly in your browser\u2014paste a TikTok link and instantly download HD videos or photo slideshows as MP4. No registration, no app install, and no stored history. https://snaptik.app/",
+    "tooltip": "A free, no-watermark TikTok video downloader that works directly in your browser—paste a TikTok link and instantly download HD videos or photo slideshows as MP4. No registration, no app install, and no stored history. https://snaptik.app/",
     "categories": [
-      "SOCMINT",
-      "TikTok"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -726,7 +1914,7 @@
     "slug": "time-travel-for-web",
     "title": "Time Travel for Web",
     "url": "https://chromewebstore.google.com/detail/time-travel-for-web/ogckpcboinbcohhilmofkalobpkolkib",
-    "tooltip": "A Chrome extension that lets you instantly compare a website\u2019s current version with its historical snapshots from the Wayback Machine and archive.today\u2014side by side. Ideal for OSINT, content recovery, change tracking, or digital forensics. One-click access, no tracking, fully private. https://chromewebstore.google.com/detail/time-travel-for-web/ogckpcboinbcohhilmofkalobpkolkib",
+    "tooltip": "A Chrome extension that lets you instantly compare a website’s current version with its historical snapshots from the Wayback Machine and archive.today—side by side. Ideal for OSINT, content recovery, change tracking, or digital forensics. One-click access, no tracking, fully private. https://chromewebstore.google.com/detail/time-travel-for-web/ogckpcboinbcohhilmofkalobpkolkib",
     "categories": [
       "WEB OSINT"
     ],
@@ -739,10 +1927,9 @@
     "slug": "reverse-whois-lookup-by-whoisfreaks",
     "title": "Reverse Whois Lookup by WhoisFreaks",
     "url": "https://whoisfreaks.com/tools/whois/reverse/search",
-    "tooltip": "Search millions of domain records by email, owner name, or company to uncover associated domains\u2014ideal for brand protection, threat intel, and attack surface mapping. Supports historical and current WHOIS data across 1,400+ TLDs. https://whoisfreaks.com/tools/whois/reverse/search",
+    "tooltip": "Search millions of domain records by email, owner name, or company to uncover associated domains—ideal for brand protection, threat intel, and attack surface mapping. Supports historical and current WHOIS data across 1,400+ TLDs. https://whoisfreaks.com/tools/whois/reverse/search",
     "categories": [
-      "DOMAININT",
-      "Whois"
+      "DOMAININT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -753,7 +1940,7 @@
     "slug": "corptrace",
     "title": "corptrace",
     "url": "https://github.com/r1cksec/corptrace",
-    "tooltip": "A corporate OSINT reconnaissance tool that enriches company domains with employee data, email patterns, tech stack insights, and social profiles\u2014aggregating info from public sources to map organizational attack surfaces for red teams and security researchers. https://github.com/r1cksec/corptrace",
+    "tooltip": "A corporate OSINT reconnaissance tool that enriches company domains with employee data, email patterns, tech stack insights, and social profiles—aggregating info from public sources to map organizational attack surfaces for red teams and security researchers. https://github.com/r1cksec/corptrace",
     "categories": [
       "DOMAININT"
     ],
@@ -766,10 +1953,9 @@
     "slug": "jiraffe",
     "title": "jiraffe",
     "url": "https://github.com/0x48piraj/jiraffe",
-    "tooltip": "A CLI-based OSINT tool that automates reconnaissance on Jira instances\u2014scraping public project metadata, issue details, user mentions, and version info to uncover potential attack surface or sensitive disclosures in misconfigured Atlassian environments. https://github.com/0x48piraj/jiraffe",
+    "tooltip": "A CLI-based OSINT tool that automates reconnaissance on Jira instances—scraping public project metadata, issue details, user mentions, and version info to uncover potential attack surface or sensitive disclosures in misconfigured Atlassian environments. https://github.com/0x48piraj/jiraffe",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "Web Scrapers"
+      "CRAWLING - SCRAPING"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -780,10 +1966,9 @@
     "slug": "ismalicious",
     "title": "isMalicious",
     "url": "https://ismalicious.com",
-    "tooltip": "A real-time threat intelligence platform aggregating data from 500+ sources\u2014including VirusTotal, Shodan, GreyNoise, and AbuseIPDB\u2014to deliver unified verdicts on IPs, domains, and hashes. Offers API access, phishing/malware blocklists, MITRE ATT&#038;CK mapping, and an on-premise CLI for air-gapped environments. https://ismalicious.com",
+    "tooltip": "A real-time threat intelligence platform aggregating data from 500+ sources—including VirusTotal, Shodan, GreyNoise, and AbuseIPDB—to deliver unified verdicts on IPs, domains, and hashes. Offers API access, phishing/malware blocklists, MITRE ATT&#038;CK mapping, and an on-premise CLI for air-gapped environments. https://ismalicious.com",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -794,10 +1979,9 @@
     "slug": "facebooktoolkit",
     "title": "FacebookToolkit",
     "url": "https://github.com/warifp/FacebookToolkit",
-    "tooltip": "A command-line OSINT utility for extracting Facebook profile data\u2014including friends\u2019 IDs, emails, names, birthdays, locations, bios, and more\u2014via the Graph API. Also includes group member enumeration, post cleanup, and bulk friend management features. https://github.com/warifp/FacebookToolkit",
+    "tooltip": "A command-line OSINT utility for extracting Facebook profile data—including friends’ IDs, emails, names, birthdays, locations, bios, and more—via the Graph API. Also includes group member enumeration, post cleanup, and bulk friend management features. https://github.com/warifp/FacebookToolkit",
     "categories": [
-      "SOCMINT",
-      "Facebook"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -808,10 +1992,9 @@
     "slug": "leaker",
     "title": "leaker",
     "url": "https://github.com/vflame6/leaker",
-    "tooltip": "A lightweight, command-line OSINT tool that checks for credential leaks associated with email addresses using passive sources like ProxyNova and LeakCheck. Outputs verified breaches in clean, scriptable format\u2014ideal for bulk validation or integration into investigative workflows. https://github.com/vflame6/leaker",
+    "tooltip": "A lightweight, command-line OSINT tool that checks for credential leaks associated with email addresses using passive sources like ProxyNova and LeakCheck. Outputs verified breaches in clean, scriptable format—ideal for bulk validation or integration into investigative workflows. https://github.com/vflame6/leaker",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -819,10 +2002,10 @@
     "date_added": "2026-01-19"
   },
   {
-    "slug": "siteprice-org",
+    "slug": "sitepriceorg",
     "title": "SitePrice.org",
     "url": "https://www.siteprice.org/",
-    "tooltip": "Estimates the monetary value, traffic rank, and SEO metrics of any website\u2014useful for due diligence, domain research, or competitive analysis. https://www.siteprice.org/",
+    "tooltip": "Estimates the monetary value, traffic rank, and SEO metrics of any website—useful for due diligence, domain research, or competitive analysis. https://www.siteprice.org/",
     "categories": [
       "WEB OSINT"
     ],
@@ -832,13 +2015,12 @@
     "date_added": "2026-01-19"
   },
   {
-    "slug": "tg-me-com",
+    "slug": "tg-mecom",
     "title": "tg-me.com",
     "url": "https://www.tg-me.com",
-    "tooltip": "A Telegram group and channel directory that indexes public communities across multiple languages and regions\u2014useful for discovering topic-specific groups, tracking community trends, or identifying influential channels in OSINT investigations. https://www.tg-me.com",
+    "tooltip": "A Telegram group and channel directory that indexes public communities across multiple languages and regions—useful for discovering topic-specific groups, tracking community trends, or identifying influential channels in OSINT investigations. https://www.tg-me.com",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -851,8 +2033,7 @@
     "url": "https://github.com/vxshellew/Telephasma",
     "tooltip": "An OSINT tool that maps Telegram gift-giving networks and uncovers channel ownership by scanning group members, analyzing bios for channel links, and tracing who sends gifts to whom. Outputs an interactive force-directed graph showing user relationships and channel affiliations. https://github.com/vxshellew/Telephasma",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -865,22 +2046,20 @@
     "url": "https://webvetted.com",
     "tooltip": "WebVetted turns emails, phones, usernames and social profiles into instant OSINT investigations. Link identities, export court-ready evidence and monitor targets, without juggling scattered tools. https://webvetted.com",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
     "featured": true,
-    "date_added": "2026-03-21"
+    "date_added": "2026-01-19"
   },
   {
     "slug": "pixnoy",
     "title": "Pixnoy",
     "url": "https://www.pixnoy.com",
-    "tooltip": "An anonymous Instagram viewer and downloader that lets you browse and save public photos, videos, and Stories without logging in\u2014useful for OSINT reconnaissance, content verification, or archiving. https://www.pixnoy.com",
+    "tooltip": "An anonymous Instagram viewer and downloader that lets you browse and save public photos, videos, and Stories without logging in—useful for OSINT reconnaissance, content verification, or archiving. https://www.pixnoy.com",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -891,10 +2070,9 @@
     "slug": "tgspyder",
     "title": "tgSpyder",
     "url": "https://github.com/Darksight-Analytics/tgspyder",
-    "tooltip": "Modular tool that scans a username across Telegram and other platforms\u2014social, developer, gaming, and creator sites\u2014to check availability or presence in real time. https://github.com/Darksight-Analytics/tgspyder",
+    "tooltip": "Modular tool that scans a username across Telegram and other platforms—social, developer, gaming, and creator sites—to check availability or presence in real time. https://github.com/Darksight-Analytics/tgspyder",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -902,10 +2080,10 @@
     "date_added": "2026-01-19"
   },
   {
-    "slug": "whatcms-org",
+    "slug": "whatcmsorg",
     "title": "whatCMS.org",
     "url": "https://whatcms.org",
-    "tooltip": "Fast and free tool that identifies the technologies powering any website\u2014including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks\u2014via automated artifact detection in HTML, headers, and scripts. https://whatcms.org",
+    "tooltip": "Fast and free tool that identifies the technologies powering any website—including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks—via automated artifact detection in HTML, headers, and scripts. https://whatcms.org",
     "categories": [
       "WEB OSINT"
     ],
@@ -918,7 +2096,7 @@
     "slug": "findthatspot",
     "title": "FindThatSpot",
     "url": "https://www.findthatspot.io",
-    "tooltip": "A geospatial OSINT tool that enables powerful text-based searches across OpenStreetMap\u2014locate points of interest, infrastructure, or landmarks using natural language queries and precise geographic filters. https://www.findthatspot.io",
+    "tooltip": "A geospatial OSINT tool that enables powerful text-based searches across OpenStreetMap—locate points of interest, infrastructure, or landmarks using natural language queries and precise geographic filters. https://www.findthatspot.io",
     "categories": [
       "GEOINT"
     ],
@@ -931,10 +2109,9 @@
     "slug": "device-activity-tracker",
     "title": "Device Activity Tracker",
     "url": "https://github.com/gommzystudio/device-activity-tracker",
-    "tooltip": "Proof-of-concept (PoC) tool that exploits WhatsApp and Signal delivery receipts to infer device status\u2014active, standby, or offline\u2014by analyzing Round-Trip Time (RTT) of silent acknowledgments. Reveals usage patterns, network changes, and potential surveillance vulnerabilities. https://github.com/gommzystudio/device-activity-tracker",
+    "tooltip": "Proof-of-concept (PoC) tool that exploits WhatsApp and Signal delivery receipts to infer device status—active, standby, or offline—by analyzing Round-Trip Time (RTT) of silent acknowledgments. Reveals usage patterns, network changes, and potential surveillance vulnerabilities. https://github.com/gommzystudio/device-activity-tracker",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Whatsapp"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -973,8 +2150,7 @@
     "url": "https://gitlab.com/anezatra-katedram/instasploit",
     "tooltip": "Instasploit performs deep analysis on any Instagram user. For example, you can list the users that any user follows, collect the email and phone numbers of the target user&#8217;s followers or those who follow the target user, list the photos that the target user likes, or easily find out which users the target user comments on. https://gitlab.com/anezatra-katedram/instasploit",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -987,8 +2163,7 @@
     "url": "https://github.com/mantisfury/ArkhamMirror",
     "tooltip": "Offline investigative assistant that uses local AI to turn the chaos of documents and files into connection graphs, timelines, and structured data. It is the perfect tool for analyzing sensitive evidence and uncovering hidden links, guaranteeing that no data ever leaves your PC https://github.com/mantisfury/ArkhamMirror",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1001,8 +2176,7 @@
     "url": "https://geointelligence.vercel.app",
     "tooltip": "AI-powered geolocation OSINT tool that analyzes uploaded images to identify potential real-world locations. Uses Gemini API to find visually similar imagery, extract geographic clues, and support open-source verification workflows. https://geointelligence.vercel.app",
     "categories": [
-      "GEOINT",
-      "Geolocalization"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1011,12 +2185,11 @@
   },
   {
     "slug": "clis-credential-leak-indexing-system",
-    "title": "CLIS \u2013 Credential Leak Indexing System",
+    "title": "CLIS – Credential Leak Indexing System",
     "url": "https://c-leaks.com/",
-    "tooltip": "A breach lookup service indexing over 1 billion records from 671+ leaked datasets, allowing users to check if an email appears in known credential dumps\u2014fast, minimal, and focused on raw leak data. https://c-leaks.com/",
+    "tooltip": "A breach lookup service indexing over 1 billion records from 671+ leaked datasets, allowing users to check if an email appears in known credential dumps—fast, minimal, and focused on raw leak data. https://c-leaks.com/",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1027,10 +2200,9 @@
     "slug": "think-pol",
     "title": "Think-Pol",
     "url": "https://think-pol.com",
-    "tooltip": "AI-powered OSINT engine exclusively for Reddit data\u2014profile any user, export full comment histories, map subreddit networks, and search billions of public posts with advanced filters. No login required; all data derived from public historical records. https://think-pol.com",
+    "tooltip": "AI-powered OSINT engine exclusively for Reddit data—profile any user, export full comment histories, map subreddit networks, and search billions of public posts with advanced filters. No login required; all data derived from public historical records. https://think-pol.com",
     "categories": [
-      "SOCMINT",
-      "Reddit"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1043,8 +2215,7 @@
     "url": "https://github.com/san-tus/dorkwright/",
     "tooltip": "CLI-based Google Dorking tool that automates OSINT reconnaissance by crafting and executing targeted search queries to uncover exposed files, directories, and sensitive data across public websites. https://github.com/san-tus/dorkwright/",
     "categories": [
-      "GENERAL OSINT",
-      "Dork Tools"
+      "GENERAL OSINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -1052,13 +2223,12 @@
     "date_added": "2025-12-22"
   },
   {
-    "slug": "lenso-ai",
+    "slug": "lensoai",
     "title": "Lenso.AI",
     "url": "https://lenso.ai/",
-    "tooltip": "An AI-powered reverse image search platform that finds people, places, duplicates, and visually similar images across the web. Supports facial recognition, copyright tracing, and API integration\u2014ideal for investigators, creators, and privacy-conscious users. https://lenso.ai/",
+    "tooltip": "An AI-powered reverse image search platform that finds people, places, duplicates, and visually similar images across the web. Supports facial recognition, copyright tracing, and API integration—ideal for investigators, creators, and privacy-conscious users. https://lenso.ai/",
     "categories": [
-      "IMAGEINT",
-      "Reverse Image Search"
+      "IMAGEINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -1080,12 +2250,11 @@
   },
   {
     "slug": "osint-investigators-toolkit",
-    "title": "OSINT Investigator\u2019s Toolkit",
+    "title": "OSINT Investigator’s Toolkit",
     "url": "https://osint.intelligenceonchain.com/",
-    "tooltip": "A curated, no-fluff collection of open-source intelligence tools purpose-built for cryptocurrency forensics, digital investigations, and proactive threat hunting\u2014clean, fast, and field-ready. https://osint.intelligenceonchain.com/",
+    "tooltip": "A curated, no-fluff collection of open-source intelligence tools purpose-built for cryptocurrency forensics, digital investigations, and proactive threat hunting—clean, fast, and field-ready. https://osint.intelligenceonchain.com/",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -1096,7 +2265,7 @@
     "slug": "snapchat-explore",
     "title": "Snapchat Explore",
     "url": "https://www.snapchat.com/explore/",
-    "tooltip": "Explore publicly shared Stories, Spotlight content, and creator profiles\u2014enabling simple keyword searches, location-based browsing, and passive reconnaissance of user-generated content without logging in. https://www.snapchat.com/explore/",
+    "tooltip": "Explore publicly shared Stories, Spotlight content, and creator profiles—enabling simple keyword searches, location-based browsing, and passive reconnaissance of user-generated content without logging in. https://www.snapchat.com/explore/",
     "categories": [
       "SOCMINT"
     ],
@@ -1111,8 +2280,7 @@
     "url": "https://nitinpandey.in/ihunt/",
     "tooltip": "A curated OSINT framework by Nitin Pandey that aggregates free and open-source tools across OSINT, SOCMINT, GEOINT, and HUMINT. https://nitinpandey.in/ihunt/",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -1136,10 +2304,9 @@
     "slug": "bosint",
     "title": "BOSINT",
     "url": "https://app.bosint.gg/",
-    "tooltip": "An all-in-one OSINT platform offering 20+ investigative modules\u2014including IP, domain, email, phone, Discord, Steam, and dark web lookups, plus username searches across 50+ platforms, Google Dorks generation, image metadata analysis, and breach checks\u2014all through a clean, intuitive web interface. https://app.bosint.gg/",
+    "tooltip": "An all-in-one OSINT platform offering 20+ investigative modules—including IP, domain, email, phone, Discord, Steam, and dark web lookups, plus username searches across 50+ platforms, Google Dorks generation, image metadata analysis, and breach checks—all through a clean, intuitive web interface. https://app.bosint.gg/",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -1148,12 +2315,11 @@
   },
   {
     "slug": "satellite-map-wayback-arcgis-living-atlas",
-    "title": "Satellite map Wayback \u2013 ArcGIS Living Atlas",
+    "title": "Satellite map Wayback – ArcGIS Living Atlas",
     "url": "https://livingatlas.arcgis.com/wayback",
     "tooltip": "The satellite time machine: Satellite and map time machine from Esri that lets you explore historical imagery and geographic changes across decades. https://livingatlas.arcgis.com/wayback",
     "categories": [
-      "GEOINT",
-      "Map Analysis"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1166,8 +2332,7 @@
     "url": "https://waybien.com/en/search",
     "tooltip": "Search groups on Telegram. https://waybien.com/en/search",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1178,10 +2343,9 @@
     "slug": "soxoj-spoiler-telegram",
     "title": "soxoj spoiler telegram",
     "url": "https://spoiler.soxoj.com/",
-    "tooltip": "An OSINT tool that decodes Telegram spoiler messages hidden as pseudo-braille in screenshots\u2014allowing investigators to recover redacted text without relying on the original sender. https://spoiler.soxoj.com/",
+    "tooltip": "An OSINT tool that decodes Telegram spoiler messages hidden as pseudo-braille in screenshots—allowing investigators to recover redacted text without relying on the original sender. https://spoiler.soxoj.com/",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1192,10 +2356,9 @@
     "slug": "metagoofil",
     "title": "Metagoofil",
     "url": "https://github.com/laramies/metagoofil",
-    "tooltip": "OSINT tool that harvests metadata from public documents (PDF, DOC, XLS, PPT, etc.) found on target websites via Google searches. Extracts usernames, email addresses, server paths, and internal naming conventions\u2014ideal for pre-engagement reconnaissance and password spray list generation. https://github.com/laramies/metagoofil",
+    "tooltip": "OSINT tool that harvests metadata from public documents (PDF, DOC, XLS, PPT, etc.) found on target websites via Google searches. Extracts usernames, email addresses, server paths, and internal naming conventions—ideal for pre-engagement reconnaissance and password spray list generation. https://github.com/laramies/metagoofil",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "Web Scrapers"
+      "CRAWLING - SCRAPING"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -1206,10 +2369,9 @@
     "slug": "creationdatebot",
     "title": "CreationDateBot",
     "url": "https://t.me/creationdatebot",
-    "tooltip": "Telegram bot that reveals the approximate account creation date of any Telegram user\u2014useful for verifying account age, spotting potential sockpuppets, or assessing profile legitimacy during OSINT investigations. https://t.me/creationdatebot",
+    "tooltip": "Telegram bot that reveals the approximate account creation date of any Telegram user—useful for verifying account age, spotting potential sockpuppets, or assessing profile legitimacy during OSINT investigations. https://t.me/creationdatebot",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Telegram-Bot",
     "pricing": "Free",
@@ -1233,10 +2395,9 @@
     "slug": "tiktrackbot",
     "title": "TikTrackBot",
     "url": "https://t.me/TikTrackBot",
-    "tooltip": "A Telegram OSINT bot that retrieves public TikTok profile details\u2014including country, language, and activity timeline\u2014using just a username. Ideal for verifying accounts, tracking digital footprints, or investigating suspicious profiles. https://t.me/TikTrackBot",
+    "tooltip": "A Telegram OSINT bot that retrieves public TikTok profile details—including country, language, and activity timeline—using just a username. Ideal for verifying accounts, tracking digital footprints, or investigating suspicious profiles. https://t.me/TikTrackBot",
     "categories": [
-      "SOCMINT",
-      "TikTok"
+      "SOCMINT"
     ],
     "type": "Telegram-Bot",
     "pricing": "Free",
@@ -1244,26 +2405,12 @@
     "date_added": "2025-12-10"
   },
   {
-    "slug": "haveibeenransom",
-    "title": "HaveIBeenRansom",
-    "url": "https://haveibeenransom.com/",
-    "tooltip": "A free OSINT service that alerts users if their email or personal data appears in infostealer logs\u2014malware-collected credentials and browser artifacts often dumped on underground forums or ransomware leak sites. https://haveibeenransom.com/",
-    "categories": [
-      "BREACH DATA"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Freemium",
-    "featured": false,
-    "date_added": "2025-12-10"
-  },
-  {
     "slug": "kaifcodec-user-scanner",
     "title": "KaifCodec User-Scanner",
     "url": "https://github.com/kaifcodec/user-scanner",
-    "tooltip": "Command-line OSINT tool that checks username availability across social, developer, creator, gaming, and community platforms\u2014including GitHub, Twitter/X, Reddit, Instagram, and more\u2014in a single query. https://github.com/kaifcodec/user-scanner",
+    "tooltip": "Command-line OSINT tool that checks username availability across social, developer, creator, gaming, and community platforms—including GitHub, Twitter/X, Reddit, Instagram, and more—in a single query. https://github.com/kaifcodec/user-scanner",
     "categories": [
-      "PEOPLE SEARCH",
-      "Username Search"
+      "PEOPLE SEARCH"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -1274,10 +2421,9 @@
     "slug": "mever-forensics-image-verification",
     "title": "Mever Forensics Image Verification",
     "url": "https://mever.iti.gr/forensics/",
-    "tooltip": "Verify the authenticity of online images by showcasing real-world examples of digital forgeries\u2014complete with forensic annotations and side-by-side comparisons of manipulated vs. original content. https://mever.iti.gr/forensics/",
+    "tooltip": "Verify the authenticity of online images by showcasing real-world examples of digital forgeries—complete with forensic annotations and side-by-side comparisons of manipulated vs. original content. https://mever.iti.gr/forensics/",
     "categories": [
-      "IMAGEINT",
-      "Deepfake Detection"
+      "IMAGEINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1288,7 +2434,7 @@
     "slug": "gitdb",
     "title": "GitDB",
     "url": "https://gitdb.net/",
-    "tooltip": "A GitHub discovery and analytics platform that helps developers and security researchers find active, production-ready open-source projects\u2014tracking stars, maintainer activity, and growth signals across languages and topics. https://gitdb.net/",
+    "tooltip": "A GitHub discovery and analytics platform that helps developers and security researchers find active, production-ready open-source projects—tracking stars, maintainer activity, and growth signals across languages and topics. https://gitdb.net/",
     "categories": [
       "PUBLIC DATA"
     ],
@@ -1301,7 +2447,7 @@
     "slug": "docufinderjs",
     "title": "DocuFinderJS",
     "url": "https://github.com/ndr-repo/DocuFinderJS",
-    "tooltip": "A lightweight JavaScript bookmarklet for External Attack Surface Monitoring (EASM) that automates OSINT to uncover publicly exposed documents (PDFs, spreadsheets, configs) across a target domain\u2014ideal for pentesters, bug bounty hunters, and defenders. https://github.com/ndr-repo/DocuFinderJS",
+    "tooltip": "A lightweight JavaScript bookmarklet for External Attack Surface Monitoring (EASM) that automates OSINT to uncover publicly exposed documents (PDFs, spreadsheets, configs) across a target domain—ideal for pentesters, bug bounty hunters, and defenders. https://github.com/ndr-repo/DocuFinderJS",
     "categories": [
       "PUBLIC DATA"
     ],
@@ -1314,10 +2460,9 @@
     "slug": "search4faces",
     "title": "Search4Faces",
     "url": "https://search4faces.com/",
-    "tooltip": "A reverse face search engine that leverages neural networks to find individuals across Russian and global social platforms\u2014including VK, OK.ru, TikTok, and Clubhouse\u2014using only a photo. https://search4faces.com/",
+    "tooltip": "A reverse face search engine that leverages neural networks to find individuals across Russian and global social platforms—including VK, OK.ru, TikTok, and Clubhouse—using only a photo. https://search4faces.com/",
     "categories": [
-      "IMAGEINT",
-      "Reverse Image Search"
+      "IMAGEINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1328,10 +2473,9 @@
     "slug": "surfface",
     "title": "Surfface",
     "url": "https://surfface.com/",
-    "tooltip": "An AI-powered reverse face search and OSINT platform that helps verify identities, reconnect with people, or investigate digital footprints\u2014using only publicly available data and non-biometric facial analysis. https://surfface.com/",
+    "tooltip": "An AI-powered reverse face search and OSINT platform that helps verify identities, reconnect with people, or investigate digital footprints—using only publicly available data and non-biometric facial analysis. https://surfface.com/",
     "categories": [
-      "IMAGEINT",
-      "Reverse Image Search"
+      "IMAGEINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Paid",
@@ -1352,13 +2496,12 @@
     "date_added": "2025-12-05"
   },
   {
-    "slug": "iplocation-io",
+    "slug": "iplocationio",
     "title": "IPLocation.io",
     "url": "https://iplocation.io/",
     "tooltip": "Free IP Address Lookup tool that checks the location of any public IP using multiple Geo IP data providers (IP2Location, DB IP, IPInfo, Criminal IP) https://iplocation.io/",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1366,7 +2509,7 @@
     "date_added": "2025-11-28"
   },
   {
-    "slug": "osint-wayback-collector-url-checker",
+    "slug": "osint-wayback-collector-038-url-checker",
     "title": "OSINT Wayback Collector &#038; URL Checker",
     "url": "https://github.com/Frib1t/osint-wayback-collector",
     "tooltip": "A Python toolkit for massive historical URL collection from the Wayback Machine and multithreaded URL checking and detection of suspicious parameters https://github.com/Frib1t/osint-wayback-collector",
@@ -1410,8 +2553,7 @@
     "url": "https://shademap.app",
     "tooltip": "Geospatial tool that simulates sun shadows for any time and place on Earth; determine the time a photo or video was taken by matching observed shadows with simulation data. https://shademap.app",
     "categories": [
-      "GEOINT",
-      "Geolocalization"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1424,8 +2566,7 @@
     "url": "https://github.com/banaxou/hostagram",
     "tooltip": "Instagram OSINT tool designed to extract and monitor maximum information from any public account. Features include gathering detailed user data, bio details, public email/phone lookups, and tracking key metadata. https://github.com/banaxou/hostagram",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -1438,8 +2579,7 @@
     "url": "https://pano-date.emily.bz/",
     "tooltip": "Online OSINT tool to determine the exact time and date a Google Street View panorama was captured, often with an accuracy of up to 2 seconds. Input the full panorama URL to uncover crucial temporal data for geo-location analysis and verification. https://pano-date.emily.bz/",
     "categories": [
-      "GEOINT",
-      "Map Analysis"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1450,10 +2590,9 @@
     "slug": "predicta-search",
     "title": "Predicta Search",
     "url": "https://www.predictasearch.com",
-    "tooltip": "Reverse Lookup platform that allows investigators to uncover an individual&#8217;s entire digital footprint starting from a single identifier: email, phone number, username, or name. It instantly scans over 100 networks and websites (from social media to specific platforms), providing detailed, real-time reports. https://www.predictasearch.com",
+    "tooltip": "Reverse Lookup platform that allows investigators to uncover an individual’s entire digital footprint starting from a single identifier: email, phone number, username, or name. It instantly scans over 100 networks and websites (from social media to specific platforms), providing detailed, real-time reports. https://www.predictasearch.com",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Paid",
@@ -1464,7 +2603,7 @@
     "slug": "analyzeid",
     "title": "AnalyzeID",
     "url": "https://analyzeid.com/",
-    "tooltip": "Reverse IP lookup to reveal an individual&#8217;s full online presence. It analyzes hidden connections by leveraging shared Google Analytics, AdSense, Amazon affiliate, and email IDs to map all websites owned by the same person\u2014even if they are hosted on different servers. https://analyzeid.com/",
+    "tooltip": "Reverse IP lookup to reveal an individual&#8217;s full online presence. It analyzes hidden connections by leveraging shared Google Analytics, AdSense, Amazon affiliate, and email IDs to map all websites owned by the same person—even if they are hosted on different servers. https://analyzeid.com/",
     "categories": [
       "GENERAL OSINT"
     ],
@@ -1492,8 +2631,7 @@
     "url": "https://www.whereisthisphoto.com",
     "tooltip": "Free AI Photo Locator and Image Location Finder that uses advanced machine learning and reverse image geolocation to analyze visual elements (landmarks, architecture, vegetation) and determine where any photo was taken, even without GPS metadata. https://www.whereisthisphoto.com",
     "categories": [
-      "GEOINT",
-      "Geolocalization"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -1506,8 +2644,7 @@
     "url": "https://github.com/atiilla/GeoIntel",
     "tooltip": "Python-based AI tool that leverages Google&#8217;s Gemini API to perform advanced geo-location analysis on images. It accurately uncovers the location where photos were taken by analyzing visual cues, generating coordinates, confidence levels, and direct Google Maps links. https://github.com/atiilla/GeoIntel",
     "categories": [
-      "GEOINT",
-      "Geolocalization"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1559,8 +2696,7 @@
     "url": "https://github.com/drego85/tosint",
     "tooltip": "Python tool designed for Telegram OSINT. It extracts valuable, detailed metadata from Telegram bots and channels, including user counts, admin roles, invite links, and user IDs. https://github.com/drego85/tosint",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -1573,8 +2709,7 @@
     "url": "https://coldrelation.com/",
     "tooltip": "A free to use (currently in Alpha) platform with dedicated tools for in-depth analysis of channels and posts across Telegram, VK, TikTok, and X (Twitter), alongside a dedicated China Suite (Weibo, QQ, Tieba). https://coldrelation.com/",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Beta",
     "pricing": "Paid",
@@ -1639,8 +2774,7 @@
     "url": "https://www.webcleaner.com",
     "tooltip": "Meta-search engine designed for efficiency. Query simultaneously the top Internet search engines from a single interface. https://www.webcleaner.com",
     "categories": [
-      "GENERAL OSINT",
-      "Search Engines"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -1666,8 +2800,7 @@
     "url": "https://theirstack.com?aff=8O93h0BuhumD",
     "tooltip": "A powerful Business Intelligence platform for technology lookup over a company. It identifies companies based on the specific technologies (tech stack) for intelligence purpose. https://theirstack.com?aff=8O93h0BuhumD",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -1706,8 +2839,7 @@
     "url": "https://gpt.censys.io",
     "tooltip": "AI-powered tool (via OpenAI GPT) that simplifies Internet-wide reconnaissance by translating natural language descriptions into effective Censys search queries. https://gpt.censys.io",
     "categories": [
-      "GENERAL OSINT",
-      "Dork Tools"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1720,8 +2852,7 @@
     "url": "https://github.com/markrai/whatsthat",
     "tooltip": "WhatsApp Web analyzer (Chrome extension). It quietly monitors group chat dynamics, analyzing reactions and replies to uncover social gravity, influence, favoritism, and marginalization patterns between members. https://github.com/markrai/whatsthat",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Whatsapp"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Browser-Extension",
     "pricing": "Free",
@@ -1784,10 +2915,9 @@
     "slug": "geoinfer",
     "title": "GeoInfer",
     "url": "https://app.geoinfer.com",
-    "tooltip": "AI-powered image location finder built for professionals. It geolocates images by analyzing visual cues\u2014like architecture, terrain, and landmarks\u2014without requiring EXIF or GPS metadata, making it ideal for digital forensics and intelligence analysis. https://app.geoinfer.com",
+    "tooltip": "AI-powered image location finder built for professionals. It geolocates images by analyzing visual cues—like architecture, terrain, and landmarks—without requiring EXIF or GPS metadata, making it ideal for digital forensics and intelligence analysis. https://app.geoinfer.com",
     "categories": [
-      "GEOINT",
-      "Geolocalization"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -1800,8 +2930,7 @@
     "url": "https://ytcomment.kmcat.uk/",
     "tooltip": "A simple yet powerful tool to search for specific comments on YouTube videos, channels, or by VideoID. Quickly locate comments using keywords to analyze discussions or find user interactions. https://ytcomment.kmcat.uk/",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1814,8 +2943,7 @@
     "url": "https://stalkface.com/en/",
     "tooltip": "Facebook Stalking &#038; Scanner tool. Easily uncover content you have access to on any Facebook profile using powerful filters for time, type (photos, interests, places), and more, without violating privacy settings. https://stalkface.com/en/",
     "categories": [
-      "SOCMINT",
-      "Facebook"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1841,8 +2969,7 @@
     "url": "https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
     "tooltip": "DarkNet Explorer Search Engine designed to guide users through the hidden web by indexing .onion links on the Tor network. https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
     "categories": [
-      "DARK WEB",
-      "Search Engines"
+      "DARK WEB"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1855,8 +2982,7 @@
     "url": "https://kriztalz.sh/search-dorks/",
     "tooltip": "A free online OSINT tool that leverages AI to help researchers and analysts create effective search queries (dorks) for specialized engines. It converts natural language intent into dork syntax for Shodan, Censys, Google, FOFA, and ZoomEye. https://kriztalz.sh/search-dorks/",
     "categories": [
-      "GENERAL OSINT",
-      "Dork Tools"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1869,8 +2995,7 @@
     "url": "https://github.com/boringthegod/doxcord",
     "tooltip": "Scan Discord servers for social media links containing tracking parameters. The tool can identify Instagram, TikTok, and Facebook links that include tracking identifiers, and organize them by user and server. https://github.com/boringthegod/doxcord",
     "categories": [
-      "SOCMINT",
-      "Discord"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -1904,13 +3029,12 @@
     "date_added": "2025-10-04"
   },
   {
-    "slug": "youtube_data_extractor",
+    "slug": "youtube-data-extractor",
     "title": "youtube_data_extractor",
     "url": "https://github.com/Illusion6984/youtube_data_extractor",
     "tooltip": "Simple metadata extractor for YouTube videos; useful for OSINT investigations and data recollection. Originally inspired by the now defunct YouTube Data Viewer published by Amnesty International. https://github.com/Illusion6984/youtube_data_extractor",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -1923,8 +3047,7 @@
     "url": "https://github.com/estebanpdl/tik-spyder",
     "tooltip": "Open-source tool to collect and analyze TikTok data. Supports keyword, user, and hashtag searches via SerpAPI &#038; Apify, with video downloads, CSV export, and a Streamlit web interface. Useful for OSINT, trend monitoring, and social media investigations. https://github.com/estebanpdl/tik-spyder",
     "categories": [
-      "SOCMINT",
-      "TikTok"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1937,8 +3060,7 @@
     "url": "https://mastogizmos.com/bmhs.html",
     "tooltip": "Search Mastodon posts across multiple servers by hashtag. Helps OSINT investigators and researchers track discussions and trends in the Fediverse. https://mastogizmos.com/bmhs.html",
     "categories": [
-      "SOCMINT",
-      "Mastodon"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1951,8 +3073,7 @@
     "url": "https://gitlab.com/DanaXScully/onion_links",
     "tooltip": "Curated list of Tor hidden services (.onion). Useful for dark web OSINT, monitoring underground sites, and investigating hidden services. https://gitlab.com/DanaXScully/onion_links",
     "categories": [
-      "DARK WEB",
-      "Onion Directories"
+      "DARK WEB"
     ],
     "type": "Data-Source",
     "pricing": "Free",
@@ -1965,8 +3086,7 @@
     "url": "https://tirexdel.github.io",
     "tooltip": "OSINT security tool for automated IoC analysis. It queries 9 major vendors (VirusTotal, AbuseIPDB, OTX, X-Force, etc.) to analyze IPs, domains, URLs, file hashes, and even suspicious emails. Time saver in cyber threat investigations. https://tirexdel.github.io",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1977,10 +3097,9 @@
     "slug": "megagladys",
     "title": "MegaGladys",
     "url": "https://megagladys.com/",
-    "tooltip": "Suite of research tools powered by Wikipedia &#038; Wikidata for investigating public figures. Includes biography data, timeline analysis, affiliations, and relationship mapping \u2014 useful for journalists and OSINT practitioners. https://megagladys.com/",
+    "tooltip": "Suite of research tools powered by Wikipedia &#038; Wikidata for investigating public figures. Includes biography data, timeline analysis, affiliations, and relationship mapping — useful for journalists and OSINT practitioners. https://megagladys.com/",
     "categories": [
-      "GENERAL OSINT",
-      "Search Engines"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -1991,7 +3110,7 @@
     "slug": "nerdydata",
     "title": "NerdyData",
     "url": "https://www.nerdydata.com/",
-    "tooltip": "Search which websites use specific SaaS technologies or HTML/JS snippets \u2014 ideal for tech footprinting, competitor intel, and large-scale site discovery (Shopify, HubSpot, Stripe, etc.). https://www.nerdydata.com/",
+    "tooltip": "Search which websites use specific SaaS technologies or HTML/JS snippets — ideal for tech footprinting, competitor intel, and large-scale site discovery (Shopify, HubSpot, Stripe, etc.). https://www.nerdydata.com/",
     "categories": [
       "WEB OSINT"
     ],
@@ -2004,10 +3123,9 @@
     "slug": "hetty",
     "title": "Hetty",
     "url": "https://github.com/dstotijn/hetty",
-    "tooltip": "Open-source HTTP toolkit for security research. Designed as an alternative to Burp Suite Pro, it\u2019s useful for infosec, bug bounty, and even large-scale web scraping in OSINT workflows. https://github.com/dstotijn/hetty",
+    "tooltip": "Open-source HTTP toolkit for security research. Designed as an alternative to Burp Suite Pro, it’s useful for infosec, bug bounty, and even large-scale web scraping in OSINT workflows. https://github.com/dstotijn/hetty",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "Web Scrapers"
+      "CRAWLING - SCRAPING"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2018,7 +3136,7 @@
     "slug": "builtwith",
     "title": "BuiltWith",
     "url": "https://builtwith.com/",
-    "tooltip": "Website profiler that reveals the tech stack behind any domain. Identify CMS, analytics, hosting, frameworks, and more \u2014 useful for OSINT, pentesting prep, and market intelligence. https://builtwith.com/",
+    "tooltip": "Website profiler that reveals the tech stack behind any domain. Identify CMS, analytics, hosting, frameworks, and more — useful for OSINT, pentesting prep, and market intelligence. https://builtwith.com/",
     "categories": [
       "WEB OSINT"
     ],
@@ -2059,8 +3177,7 @@
     "url": "https://mattw.io/youtube-geofind/location",
     "tooltip": "Search YouTube by location for geotagged videos. Find videos near you or anywhere in the world. https://mattw.io/youtube-geofind/location",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2073,8 +3190,7 @@
     "url": "https://findyoutubevideo.thetechrobo.ca",
     "tooltip": "Search several resources for archived YouTube video and metadata. https://findyoutubevideo.thetechrobo.ca",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -2087,8 +3203,7 @@
     "url": "https://www.torry.io/search/",
     "tooltip": "Another Darkweb engine https://www.torry.io/search/",
     "categories": [
-      "DARK WEB",
-      "Search Engines"
+      "DARK WEB"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2101,8 +3216,7 @@
     "url": "https://github.com/Ekultek/WhatBreach",
     "tooltip": "OSINT tool to find breached emails, databases, pastes, and relevant information. https://github.com/Ekultek/WhatBreach",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -2115,8 +3229,7 @@
     "url": "https://app.fanpagekarma.com/social-media-index",
     "tooltip": "Shows daily reach, engagement, post frequency, and growth trends of top Facebook Pages, providing insights across multiple countries. https://app.fanpagekarma.com/social-media-index",
     "categories": [
-      "SOCMINT",
-      "Facebook"
+      "SOCMINT"
     ],
     "type": "Data-Source",
     "pricing": "Free",
@@ -2124,7 +3237,7 @@
     "date_added": "2025-09-01"
   },
   {
-    "slug": "surveillancewatch-io",
+    "slug": "surveillancewatchio",
     "title": "SurveillanceWatch.io",
     "url": "https://surveillancewatch.io/",
     "tooltip": "Interactive map revealing connections between surveillance companies, their funding sources, and affiliations. https://surveillancewatch.io/",
@@ -2142,8 +3255,7 @@
     "url": "https://osint.nova-saas.com/",
     "tooltip": "Aggregator platform with advanced tools and AI-powered recommendations. Analyze IPs, domains, URLs, hashes, or emails and get suggested tools for your research. https://osint.nova-saas.com/",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -2169,8 +3281,7 @@
     "url": "https://waybacktweets.streamlit.app/",
     "tooltip": "Archives and visualizes deleted or historical tweets from Twitter accounts. https://waybacktweets.streamlit.app/",
     "categories": [
-      "SOCMINT",
-      "Twitter / X"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2196,8 +3307,7 @@
     "url": "https://channelcrawler.com/",
     "tooltip": "Search and discover YouTube channels by keywords, location, or category. https://channelcrawler.com/",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Paid",
@@ -2210,8 +3320,7 @@
     "url": "https://cybernews.com/personal-data-leak-check/",
     "tooltip": "Check if your personal data has been exposed in leaks or breaches. https://cybernews.com/personal-data-leak-check/",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2224,8 +3333,7 @@
     "url": "https://www.dolphinradar.com/web-viewer-for-instagram",
     "tooltip": "View Instagram profiles and content directly via web without logging in. https://www.dolphinradar.com/web-viewer-for-instagram",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -2238,8 +3346,7 @@
     "url": "https://www.dargle.net/search",
     "tooltip": "Search and explore the Dark Web, no bs. https://www.dargle.net/search",
     "categories": [
-      "DARK WEB",
-      "Search Engines"
+      "DARK WEB"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2248,12 +3355,11 @@
   },
   {
     "slug": "espysys-irbis",
-    "title": "EspySys \u2013 IRBIS",
+    "title": "EspySys – IRBIS",
     "url": "https://irbis.espysys.com",
     "tooltip": "IRBIS by EspySys offers real-time data discovery and reverse lookup capabilities, empowering investigators and businesses to proactively prevent fraud. Ideal for online marketplaces, financial services, and investigative teams, IRBIS provides actionable insights and enhances risk prevention strategies. https://irbis.espysys.com",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -2279,8 +3385,7 @@
     "url": "https://gptzero.me/",
     "tooltip": "Detect AI-generated text and spot potential fake news content, supporting journalists, educators, and researchers in verifying authenticity. https://gptzero.me/",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -2293,8 +3398,7 @@
     "url": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
     "tooltip": "A comprehensive list of data brokers and their opt-out procedures, helping protect personal privacy online. https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Data-Source",
     "pricing": "Free",
@@ -2307,8 +3411,7 @@
     "url": "https://fotoforensics.com/",
     "tooltip": "Advanced image forensics platform for detecting image manipulation and validating visual content. https://fotoforensics.com/",
     "categories": [
-      "IMAGEINT",
-      "Metadata Analysis"
+      "IMAGEINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2321,8 +3424,7 @@
     "url": "https://www.uk-osint.net/reverseimagesearching.html",
     "tooltip": "Resource hub for conducting reverse image searches to trace online visuals and media. https://www.uk-osint.net/reverseimagesearching.html",
     "categories": [
-      "IMAGEINT",
-      "Reverse Image Search"
+      "IMAGEINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -2330,13 +3432,12 @@
     "date_added": "2025-08-14"
   },
   {
-    "slug": "facesearch-arrests-org",
+    "slug": "facesearch-arrestsorg",
     "title": "FaceSearch Arrests.org",
     "url": "https://facesearch.arrests.org/",
     "tooltip": "Search for individuals by facial recognition using publicly available mugshots and arrest records. https://facesearch.arrests.org/",
     "categories": [
-      "IMAGEINT",
-      "Reverse Image Search"
+      "IMAGEINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2388,8 +3489,7 @@
     "url": "https://github.com/obitouka/InstagramPrivSniffer",
     "tooltip": "View media from private Instagram accounts without login, utilizing the platform&#8217;s collaboration feature to access shared content. https://github.com/obitouka/InstagramPrivSniffer",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -2397,13 +3497,12 @@
     "date_added": "2025-08-10"
   },
   {
-    "slug": "lambda-black-osint-investigation-assistant",
+    "slug": "lambdablack-osint-investigation-assistant",
     "title": "Lambda.black OSINT Investigation Assistant",
     "url": "https://lambda.black/osint.html",
     "tooltip": "Interactive searchable tool list that facilitates OSINT searches. https://lambda.black/osint.html",
     "categories": [
-      "GENERAL OSINT",
-      "Bookmark Collections"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -2411,7 +3510,7 @@
     "date_added": "2025-08-05"
   },
   {
-    "slug": "carnet-ai",
+    "slug": "carnetai",
     "title": "CarNet.AI",
     "url": "https://carnet.ai/",
     "tooltip": "An AI-powered API that accurately identifies car make, model, generation, color, and angle from images, supporting over 3,100 models and offering 97%+ accuracy. https://carnet.ai/",
@@ -2429,8 +3528,7 @@
     "url": "https://cybdetective.com/osintmap/",
     "tooltip": "Worldwide map aggregating over 700 public data sources, including phonebooks, cadastral maps, business registries, court records, and more. Organized by country, region, and service type, it serves as a comprehensive resource for OSINT professionals. https://cybdetective.com/osintmap/",
     "categories": [
-      "GENERAL OSINT",
-      "Bookmark Collections"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -2456,8 +3554,7 @@
     "url": "https://meawfy.com/",
     "tooltip": "Advanced search engine for Mega.nz, offering access to over 9 million indexed files, including educational materials, software, movies, and more. It employs intelligent crawling and categorization for efficient discovery. https://meawfy.com/",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "Bucket Search"
+      "CRAWLING - SCRAPING"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2470,8 +3567,7 @@
     "url": "https://www.sherlockeye.io",
     "tooltip": "AI-powered OSINT platform that enables rapid investigations across multiple open sources, providing actionable insights from emails, phone numbers, usernames, domains, and more. Ideal for cybersecurity, digital forensics, and threat analysis. https://www.sherlockeye.io",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Paid",
@@ -2484,8 +3580,7 @@
     "url": "https://www.telegram-finder.io",
     "tooltip": "Identifies Telegram usernames from phone numbers, emails, or LinkedIn profiles, providing enriched metadata such as display names, profile photos, and account restrictions. Useful for cybersecurity, investigative research, and sales automation. https://www.telegram-finder.io",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -2493,7 +3588,7 @@
     "date_added": "2025-07-28"
   },
   {
-    "slug": "pentest-tools-com",
+    "slug": "pentest-toolscom",
     "title": "Pentest-Tools.com",
     "url": "https://pentest-tools.com/information-gathering/google-hacking",
     "tooltip": "Online penetration testing platform offering a suite of tools for vulnerability scanning, exploitation, and reporting, designed to streamline security assessments for professionals. https://pentest-tools.com/information-gathering/google-hacking",
@@ -2524,8 +3619,7 @@
     "url": "https://offshoreleaks.icij.org/",
     "tooltip": "A searchable database by the ICIJ containing information on over 810,000 offshore entities from investigations like the Panama Papers and Pandora Papers, aiding in financial transparency and investigative research. https://offshoreleaks.icij.org/",
     "categories": [
-      "DOCUMENTINT",
-      "Document Leak Databases"
+      "DOCUMENTINT"
     ],
     "type": "Data-Source",
     "pricing": "Free",
@@ -2533,7 +3627,7 @@
     "date_added": "2025-07-28"
   },
   {
-    "slug": "impersonal-me",
+    "slug": "impersonalme",
     "title": "impersonal.me",
     "url": "https://impersonal.me/",
     "tooltip": "Perform Google searches as if they were in different countries or using different languages, providing localized search results without changing their actual location. https://impersonal.me/",
@@ -2551,8 +3645,7 @@
     "url": "https://indownloader.app/instagram-profile-viewer",
     "tooltip": "View and download Instagram profile pictures without the need for an Instagram account. Simply enter the username to access the profile image. https://indownloader.app/instagram-profile-viewer",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2586,7 +3679,7 @@
     "date_added": "2025-07-24"
   },
   {
-    "slug": "find-osint-tool-com",
+    "slug": "findosint-toolcom",
     "title": "Find.OSINT-Tool.com",
     "url": "https://find.osint-tool.com/",
     "tooltip": "A search engine designed to help OSINT researchers find useful resources and tools across the internet, providing a curated selection of publicly available data sources for investigative purposes. https://find.osint-tool.com/",
@@ -2599,13 +3692,12 @@
     "date_added": "2025-07-21"
   },
   {
-    "slug": "tor-link",
+    "slug": "torlink",
     "title": "Tor.link",
     "url": "https://tor.link/",
     "tooltip": "famous darknet search engine; links to various services like markets, forums, and more, accessible via Tor Browser. https://tor.link/",
     "categories": [
-      "DARK WEB",
-      "Search Engines"
+      "DARK WEB"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -2613,7 +3705,7 @@
     "date_added": "2025-07-12"
   },
   {
-    "slug": "scatteredsecrets-com",
+    "slug": "scatteredsecretscom",
     "title": "ScatteredSecrets.com",
     "url": "https://scatteredsecrets.com/",
     "tooltip": "Data leaks and stealer logs, extracts and cracks passwords. https://scatteredsecrets.com/",
@@ -2626,13 +3718,12 @@
     "date_added": "2025-07-12"
   },
   {
-    "slug": "urlebird-com",
+    "slug": "urlebirdcom",
     "title": "Urlebird.com",
     "url": "https://urlebird.com",
     "tooltip": "Browse and download TikTok videos anonymously without the need for an app or account, providing a privacy-focused viewing experience. https://urlebird.com",
     "categories": [
-      "SOCMINT",
-      "TikTok"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2640,13 +3731,12 @@
     "date_added": "2025-07-12"
   },
   {
-    "slug": "instantusername-com",
+    "slug": "instantusernamecom",
     "title": "InstantUsername.com",
     "url": "https://instantusername.com/",
     "tooltip": "Instantly check username availability across more than 100 social media platforms. https://instantusername.com/",
     "categories": [
-      "PEOPLE SEARCH",
-      "Username Search"
+      "PEOPLE SEARCH"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2654,7 +3744,7 @@
     "date_added": "2025-07-12"
   },
   {
-    "slug": "dotdb-com",
+    "slug": "dotdbcom",
     "title": "DotDB.com",
     "url": "https://dotdb.com/",
     "tooltip": "Explore all registered domain names, analyze keyword trends, and discover hidden branding opportunities, useful for investigations and marketing purposes. https://dotdb.com/",
@@ -2667,13 +3757,12 @@
     "date_added": "2025-07-12"
   },
   {
-    "slug": "leaked-domains",
+    "slug": "leakeddomains",
     "title": "Leaked.Domains",
     "url": "https://leaked.domains/",
     "tooltip": "A vast database of leaked data, including credentials, stealer logs, and more, to discover hidden threats and broaden investigative scope. https://leaked.domains/",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -2686,8 +3775,7 @@
     "url": "https://vormweb.de/en/",
     "tooltip": "Darknet search engine focused on indexing legitimate and quality services, such as news, email, and forums, while avoiding scams and spam. https://vormweb.de/en/",
     "categories": [
-      "DARK WEB",
-      "Search Engines"
+      "DARK WEB"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2700,9 +3788,7 @@
     "url": "https://github.com/misiektoja/instagram_monitor",
     "tooltip": "Real-time monitoring of Instagram users&#8217; activities and profile changes, including new posts, stories, and follower updates. https://github.com/misiektoja/instagram_monitor",
     "categories": [
-      "SOCMINT",
-      "Instagram",
-      "Uncategorized"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2728,8 +3814,7 @@
     "url": "https://github.com/l4rm4nd/LinkedInDumper",
     "tooltip": "Python script to extract employee data from LinkedIn company pages, including names, positions, and locations, useful for building organizational profiles. https://github.com/l4rm4nd/LinkedInDumper",
     "categories": [
-      "SOCMINT",
-      "LinkedIn"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -2742,8 +3827,7 @@
     "url": "https://playbackstats.com/",
     "tooltip": "web application that allows users to visualize and analyze their YouTube watch history, providing insights into viewing patterns and trends. https://playbackstats.com/",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2751,7 +3835,7 @@
     "date_added": "2025-07-07"
   },
   {
-    "slug": "maps-video",
+    "slug": "mapsvideo",
     "title": "Maps.Video",
     "url": "https://maps.video",
     "tooltip": "user generated private street view video libraries using action cameras. https://maps.video",
@@ -2777,7 +3861,7 @@
     "date_added": "2025-07-01"
   },
   {
-    "slug": "eyedex-org",
+    "slug": "eyedexorg",
     "title": "EyeDex.org",
     "url": "https://www.eyedex.org",
     "tooltip": "A search engine for exploring open directories across the internet, allowing retrieval of audio, video, documents, and other files from numerous servers, useful for data discovery and analysis. https://www.eyedex.org",
@@ -2821,8 +3905,7 @@
     "url": "https://github.com/piaolin/DetectDee",
     "tooltip": "A tool for hunting down social media accounts by username, email, or phone number across various social networks, assisting in digital footprint analysis and identity verification. https://github.com/piaolin/DetectDee",
     "categories": [
-      "PEOPLE SEARCH",
-      "Username Search"
+      "PEOPLE SEARCH"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -2835,8 +3918,7 @@
     "url": "https://github.com/sockysec/Telerecon",
     "tooltip": "An OSINT reconnaissance framework for researching and investigating Telegram, enabling users to gather detailed information such as usernames, bios, online status, and profile pictures. It also supports scraping messages, media, and URLs from channels, constructing user interaction networks, and extracting GPS data from media files. https://github.com/sockysec/Telerecon",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2844,13 +3926,12 @@
     "date_added": "2025-06-29"
   },
   {
-    "slug": "vk-watch",
+    "slug": "vkwatch",
     "title": "VK.watch",
     "url": "https://vk.watch/",
     "tooltip": "An OSINT tool for finding detailed information about people on VKontakte, offering access to the largest archive of historical data, including user comments, photos, friend lists, and profile changes. Now includes facial recognition for locating people by their photos, similar to the closed FindFace. https://vk.watch/",
     "categories": [
-      "SOCMINT",
-      "VK"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -2863,8 +3944,7 @@
     "url": "https://osintisnotacrime.com",
     "tooltip": "A free, browser-based search engine for usernames across multiple social media platforms, aiding in digital footprint analysis. https://osintisnotacrime.com",
     "categories": [
-      "PEOPLE SEARCH",
-      "Username Search"
+      "PEOPLE SEARCH"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2872,13 +3952,12 @@
     "date_added": "2025-06-27"
   },
   {
-    "slug": "gitsearchai-com",
+    "slug": "gitsearchaicom",
     "title": "GitSearchAI.com",
     "url": "https://www.gitsearchai.com/",
     "tooltip": "An AI-powered search engine for GitHub repositories, facilitating the discovery of code snippets and projects related to specific keywords or technologies. https://www.gitsearchai.com/",
     "categories": [
-      "GENERAL OSINT",
-      "PUBLIC DATA"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2886,7 +3965,7 @@
     "date_added": "2025-06-22"
   },
   {
-    "slug": "pagecached-com",
+    "slug": "pagecachedcom",
     "title": "PageCached.com",
     "url": "https://pagecached.com/",
     "tooltip": "A free tool that checks if a URL has been cached by major search engines and web archives, aiding in retrieving older versions of web pages. https://pagecached.com/",
@@ -2899,13 +3978,12 @@
     "date_added": "2025-06-18"
   },
   {
-    "slug": "skymem-info",
+    "slug": "skymeminfo",
     "title": "SkyMem.info",
     "url": "https://www.skymem.info/",
     "tooltip": "A service that helps find and verify email addresses associated with companies and individuals, useful for contact discovery and lead generation. https://www.skymem.info/",
     "categories": [
-      "EMAILINT",
-      "Email Info"
+      "EMAILINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -2939,13 +4017,12 @@
     "date_added": "2025-06-09"
   },
   {
-    "slug": "dumpor-io",
+    "slug": "dumporio",
     "title": "Dumpor.io",
     "url": "https://dumpor.io",
     "tooltip": "A free, no-login Instagram viewer that allows easy access to public profiles and posts, valuable for social media investigations. https://dumpor.io",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2953,13 +4030,12 @@
     "date_added": "2025-06-09"
   },
   {
-    "slug": "sotwe-com",
+    "slug": "sotwecom",
     "title": "Sotwe.com",
     "url": "https://www.sotwe.com",
     "tooltip": "A free, no-login Twitter/X viewer that lets you explore public Twitter profiles and tweets, useful for tracking social media activity in OSINT. https://www.sotwe.com",
     "categories": [
-      "SOCMINT",
-      "Twitter / X"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2967,13 +4043,12 @@
     "date_added": "2025-06-09"
   },
   {
-    "slug": "onionland-io",
+    "slug": "onionlandio",
     "title": "OnionLand.io",
     "url": "https://onionland.io/",
     "tooltip": "A super-easy search engine for navigating the dark web, simplifying access to onion sites for deep web investigations. https://onionland.io/",
     "categories": [
-      "DARK WEB",
-      "Search Engines"
+      "DARK WEB"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -2981,7 +4056,7 @@
     "date_added": "2025-06-03"
   },
   {
-    "slug": "blockscan-com",
+    "slug": "blockscancom",
     "title": "Blockscan.com",
     "url": "https://blockscan.com/",
     "tooltip": "A multichain block scanner for cryptocurrency transactions, invaluable for blockchain investigations and tracing crypto activity. https://blockscan.com/",
@@ -2994,13 +4069,12 @@
     "date_added": "2025-06-03"
   },
   {
-    "slug": "whocalld-com",
+    "slug": "whocalldcom",
     "title": "WhoCallD.com",
     "url": "https://whocalld.com/",
     "tooltip": "A user-contributed phone number lookup tool, allowing easy identification of phone numbers worldwide with a no-nonsense approach. https://whocalld.com/",
     "categories": [
-      "PHONEINT",
-      "Phone Number Lookup"
+      "PHONEINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3008,7 +4082,7 @@
     "date_added": "2025-06-03"
   },
   {
-    "slug": "data-occrp-org",
+    "slug": "dataoccrporg",
     "title": "Data.Occrp.org",
     "url": "https://data.occrp.org/",
     "tooltip": "The global archive of research material for investigative reporting, offering a comprehensive resource for data-driven investigations. https://data.occrp.org/",
@@ -3034,13 +4108,12 @@
     "date_added": "2025-06-03"
   },
   {
-    "slug": "instrack-app",
+    "slug": "instrackapp",
     "title": "InsTrack.app",
     "url": "https://instrack.app/",
     "tooltip": "A tool for tracking social media activity and identifying fake accounts, valuable for social media investigations and digital forensics. https://instrack.app/",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -3053,8 +4126,7 @@
     "url": "https://groupda.com/telegram/group/find",
     "tooltip": "A search engine for finding Telegram groups, useful for gathering intelligence from public and private communities within Telegram. https://groupda.com/telegram/group/find",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3062,7 +4134,7 @@
     "date_added": "2025-05-28"
   },
   {
-    "slug": "ghintel-secrets-ninja",
+    "slug": "ghintelsecretsninja",
     "title": "GHIntel.secrets.ninja",
     "url": "https://ghintel.secrets.ninja/",
     "tooltip": "A tool for finding email addresses linked to GitHub commits, useful for identifying contact information in open-source projects. https://ghintel.secrets.ninja/",
@@ -3078,10 +4150,9 @@
     "slug": "wpscan",
     "title": "Wpscan",
     "url": "https://wpscan.com/",
-    "tooltip": "A security scanner for WordPress sites, detecting vulnerabilities, users, and exposing potential entry points for malicious activity. Homepage",
+    "tooltip": "A security scanner for WordPress sites, detecting vulnerabilities, users, and exposing potential entry points for malicious activity. Homepage https://wpscan.com/",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -3092,7 +4163,7 @@
     "slug": "firecrawl",
     "title": "Firecrawl",
     "url": "https://www.firecrawl.dev/",
-    "tooltip": "Turn any webpage into structured markdown with Firecrawl\u2014built for LLM pipelines, but great for extracting clean page content for investigations. https://www.firecrawl.dev/",
+    "tooltip": "Turn any webpage into structured markdown with Firecrawl—built for LLM pipelines, but great for extracting clean page content for investigations. https://www.firecrawl.dev/",
     "categories": [
       "CRAWLING - SCRAPING"
     ],
@@ -3105,10 +4176,9 @@
     "slug": "google-maps-scraper",
     "title": "Google Maps Scraper",
     "url": "https://github.com/gosom/google-maps-scraper",
-    "tooltip": "Scrape business data from Google Maps: name, phone, location, website, and more\u2014directly from search results using a keyword. A solid base for OSINT targeting and infrastructure mapping. https://github.com/gosom/google-maps-scraper",
+    "tooltip": "Scrape business data from Google Maps: name, phone, location, website, and more—directly from search results using a keyword. A solid base for OSINT targeting and infrastructure mapping. https://github.com/gosom/google-maps-scraper",
     "categories": [
-      "GEOINT",
-      "Google Maps"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3119,10 +4189,9 @@
     "slug": "aadinternals",
     "title": "AADInternals",
     "url": "https://aadinternals.com/osint/",
-    "tooltip": "AADInternals OSINT Enumerate Microsoft 365 tenants via Microsoft Graph API\u2014see domain types, authentication settings. requires MS account login. https://aadinternals.com/osint/",
+    "tooltip": "AADInternals OSINT Enumerate Microsoft 365 tenants via Microsoft Graph API—see domain types, authentication settings. requires MS account login. https://aadinternals.com/osint/",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3135,8 +4204,7 @@
     "url": "https://github.com/hamodywe/telegram-scraper-TeleGraphite",
     "tooltip": "A fast and reliable Telegram channel scraper that fetches posts and exports them to JSON. Supports media download, deduplication, and scheduled scraping. https://github.com/hamodywe/telegram-scraper-TeleGraphite",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3147,7 +4215,7 @@
     "slug": "badoo-wayback",
     "title": "Badoo Wayback",
     "url": "https://web.archive.org/collection-search/badoo.com",
-    "tooltip": "Wayback Machine \u2013 Badoo Collection: Browse archived snapshots of badoo.com for historical analysis. https://web.archive.org/collection-search/badoo.com",
+    "tooltip": "Wayback Machine – Badoo Collection: Browse archived snapshots of badoo.com for historical analysis. https://web.archive.org/collection-search/badoo.com",
     "categories": [
       "SOCMINT"
     ],
@@ -3162,8 +4230,7 @@
     "url": "https://faceseek.online/",
     "tooltip": "An AI-powered face search engine to track where your photos appear online. Upload an image to find matches across the web. https://faceseek.online/",
     "categories": [
-      "IMAGEINT",
-      "Reverse Image Search"
+      "IMAGEINT"
     ],
     "type": "Tool",
     "pricing": "Paid",
@@ -3174,10 +4241,9 @@
     "slug": "tikface",
     "title": "TikFace",
     "url": "https://tikface.com",
-    "tooltip": "Browse and search TikTok profiles without an account: content and user activity anonymously\u2014ideal for OSINT on TikTok. https://tikface.com",
+    "tooltip": "Browse and search TikTok profiles without an account: content and user activity anonymously—ideal for OSINT on TikTok. https://tikface.com",
     "categories": [
-      "SOCMINT",
-      "TikTok"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3190,8 +4256,7 @@
     "url": "https://subdosec.vulnshot.com/",
     "tooltip": "SubDoSec simplifies subdomain enumeration, offering a user-friendly platform for discovering and analyzing subdomains during investigations. https://subdosec.vulnshot.com/",
     "categories": [
-      "DOMAININT",
-      "Subdomain Enumeration"
+      "DOMAININT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -3199,13 +4264,12 @@
     "date_added": "2025-04-30"
   },
   {
-    "slug": "investigate-domains-for-security-purposes",
+    "slug": "dnslytics",
     "title": "Dnslytics",
     "url": "https://dnslytics.com/",
     "tooltip": "The ultimate online investigation tool with access to 330+ million active domains, mail servers, name servers, PTR records, and more. Get detailed data instantly. Paid, but free data can be good sometimes. https://dnslytics.com/",
     "categories": [
-      "DOMAININT",
-      "DNS Lookup"
+      "DOMAININT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3213,7 +4277,7 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "uncomment-security-comment-extractor",
+    "slug": "uncomment",
     "title": "Uncomment",
     "url": "https://github.com/rohsec/Uncomment",
     "tooltip": "Extract all HTML comments from any URL in seconds. Give it a list of URLs, and this tool will uncover all hidden HTML comments for deeper analysis. https://github.com/rohsec/Uncomment",
@@ -3226,13 +4290,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "osint-rocks",
+    "slug": "osintrocks",
     "title": "OSINT.ROCKS",
     "url": "https://osint.rocks/",
     "tooltip": "A collection of powerful OSINT tools like GHunt, Sherlock, Holehe, HudsonRocks(etc) &#8211; all easily accessible without the need for downloads. https://osint.rocks/",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3240,13 +4303,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "hashmob-crack-hashes-online",
+    "slug": "hashmob",
     "title": "hashmob",
     "url": "https://hashmob.net/search",
     "tooltip": "Crack hashes online with ease. Input any hash, and let this tool crack it for you. Quick, reliable, and easy to use. https://hashmob.net/search",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -3254,13 +4316,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "instagram-viewer",
+    "slug": "greatfon-instagram-viewer",
     "title": "greatfon instagram viewer",
     "url": "https://greatfon.com/",
     "tooltip": "View Instagram stats and stories anonymously Similar to imginn but with enhanced features like story viewing and detailed account statistics. https://greatfon.com/",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3273,8 +4334,7 @@
     "url": "https://whatsapp.checkleaked.cc/",
     "tooltip": "WhatsApp data revealed &#8211; Get profile pictures and other info from any WhatsApp number. Simple and effective. https://whatsapp.checkleaked.cc/",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Whatsapp"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -3295,7 +4355,7 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "postleaks-exposed-postman-data",
+    "slug": "postleaks",
     "title": "postleaks",
     "url": "https://github.com/cosad3s/postleaks",
     "tooltip": "Find exposed Postman data from public leaks &#8211; Discover company data leaked via Postman collections. A goldmine for security researchers. https://github.com/cosad3s/postleaks",
@@ -3334,7 +4394,7 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "web-check-xyz",
+    "slug": "web-checkxyz",
     "title": "web-check.xyz",
     "url": "https://web-check.xyz",
     "tooltip": "One click &#8211; All the info of a website. Great https://web-check.xyz",
@@ -3430,8 +4490,7 @@
     "url": "https://github.com/jasperan/whatsapp-osint",
     "tooltip": "Track (spy) WhatsApp activities of your peers on whatsappweb. https://github.com/jasperan/whatsapp-osint",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Whatsapp"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3470,8 +4529,7 @@
     "url": "https://github.com/jasonxtn/Argus",
     "tooltip": "Python All in one tool to gather cyber intel https://github.com/jasonxtn/Argus",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3484,8 +4542,7 @@
     "url": "https://tgstat.com/",
     "tooltip": "Explore Telegram channels and stats. https://tgstat.com/",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Data-Source",
     "pricing": "Free",
@@ -3493,7 +4550,7 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "tweetfeed-security-feed",
+    "slug": "tweetfeed",
     "title": "tweetfeed",
     "url": "https://tweetfeed.live/",
     "tooltip": "Real-time IOCs from Twitter. TweetFeed collects Indicators of Compromise (IOCs) from the infosec community on Twitter, including malicious URLs, domains, and hashes. https://tweetfeed.live/",
@@ -3506,30 +4563,15 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "subdomainradar",
+    "slug": "subdomainradario",
     "title": "SubDomainRadar.io",
     "url": "https://subdomainradar.io/",
     "tooltip": "Comprehensive reconnaissance and vulnerability scanning tool, SubDomainRadar.io is a powerful platform designed for cybersecurity professionals, bug hunters, and penetration testers. It offers advanced subdomain discovery. https://subdomainradar.io/",
     "categories": [
-      "DOMAININT",
-      "Subdomain Enumeration"
+      "DOMAININT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Paid",
-    "featured": false,
-    "date_added": "2025-04-28"
-  },
-  {
-    "slug": "onion-search-engine",
-    "title": "Onion Search Engine",
-    "url": "",
-    "tooltip": "Onion Search Engine: Private search on the dark web The Onion Search Engine offers anonymous access to .onion sites on the Tor network, prioritizing privacy by avoiding cookies, JavaScript, and tracking. It\u2019s a useful tool for anyone exploring the dark web safely, ensuring that searches remain completely private. onionengine.com #osint #cybersecurity #darkweb #infosec",
-    "categories": [
-      "DARK WEB",
-      "Search Engines"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
     "featured": false,
     "date_added": "2025-04-28"
   },
@@ -3539,8 +4581,7 @@
     "url": "https://github.com/ibnaleem/instatracker",
     "tooltip": "InstaTracker is a Python-based tool that logs any changes to an Instagram account, including followers, following, posts, and bio updates. Ideal for OSINT professionals and social media analysts, it provides real-time tracking to monitor account activity effectively. https://github.com/ibnaleem/instatracker",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3551,7 +4592,7 @@
     "slug": "criminal-ip",
     "title": "Criminal IP",
     "url": "https://www.criminalip.io/",
-    "tooltip": "Criminal IP is an OSINT-based Cyber Threat Intelligence (CTI) search engine that provides extensive information on IP addresses, domains, exploits, and images related to cyber threats. It utilizes AI and machine learning to detect vulnerabilities, assess risk scores, and identify malicious behavior, assisting users in preventing and responding to cyber attacks. https://www.criminalip.io/ #osint #cybersecurity #infosec #cti",
+    "tooltip": "Criminal IP is an OSINT-based Cyber Threat Intelligence (CTI) search engine that provides extensive information on IP addresses, domains, exploits, and images related to cyber threats. It utilizes AI and machine learning to detect vulnerabilities, assess risk scores, and identify malicious behavior, assisting users in preventing and responding to cyber attacks. https://www.criminalip.io/ #osint #cybersecurity #infosec #cti https://www.criminalip.io/",
     "categories": [
       "PUBLIC DATA"
     ],
@@ -3566,8 +4607,7 @@
     "url": "https://www.proxynova.com/tools/comb/",
     "tooltip": "The ProxyNova COMB Search Tool allows users to check if their email or password has been exposed in the COMB (Combination Of Many Breaches) dataset, which contains over 3.2 billion leaked credentials from various data breaches. By entering your email or username, you can determine if your information has been compromised and take necessary actions to secure your accounts. https://www.proxynova.com/tools/comb/",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3575,13 +4615,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "meta_scan",
+    "slug": "meta-scan",
     "title": "Meta_Scan",
     "url": "https://github.com/HackUnderway/meta_scan",
     "tooltip": "Meta_Scan is a Python-based OSINT tool that leverages the Facebook Pages Scraper API, allowing users to collect public data on Facebook pages. It&#8217;s compatible with several OS environments, making it an efficient solution for OSINT investigations centered on social media analysis. https://github.com/HackUnderway/meta_scan",
     "categories": [
-      "SOCMINT",
-      "Facebook"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3594,8 +4633,7 @@
     "url": "https://github.com/OSINTI4L/cupidcr4wl",
     "tooltip": "cupidcr4wl is an open-source intelligence tool that searches adult content platforms to determine if a specific username exists. Developed to aid in missing persons investigations, it scans dating sites, adult media platforms, and services linked to human trafficking concerns. https://github.com/OSINTI4L/cupidcr4wl",
     "categories": [
-      "PEOPLE SEARCH",
-      "Username Search"
+      "PEOPLE SEARCH"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3608,8 +4646,7 @@
     "url": "https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html",
     "tooltip": "SEO SpyGlass is a free backlink checker that helps uncover a website&#8217;s backlink profile. Whether you&#8217;re analyzing competitors, enhancing your SEO strategy, or conducting OSINT research, this tool provides in-depth insights into link structures and referring domains. Discover hidden links and improve your strategy!&#8221; https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -3620,10 +4657,9 @@
     "slug": "website-informer",
     "title": "Website Informer",
     "url": "https://website.informer.com/",
-    "tooltip": "Website Informer provides detailed insights into website analytics, traffic stats, and competitor information\u2014all for free. Perfect for OSINT research, digital marketing, or understanding your competitors&#8217; online presence. Get data, stay ahead! A fast and free SimilarWeb alternative! https://website.informer.com/",
+    "tooltip": "Website Informer provides detailed insights into website analytics, traffic stats, and competitor information—all for free. Perfect for OSINT research, digital marketing, or understanding your competitors&#8217; online presence. Get data, stay ahead! A fast and free SimilarWeb alternative! https://website.informer.com/",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3636,8 +4672,7 @@
     "url": "https://www.numlookup.com/",
     "tooltip": "NumLookup, free tool for reverse phone number lookups, helping you identify the owner of a number, carrier information, and more. https://www.numlookup.com/",
     "categories": [
-      "PHONEINT",
-      "Phone Number Lookup"
+      "PHONEINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3648,10 +4683,9 @@
     "slug": "snoosnoop",
     "title": "SnooSnoop",
     "url": "https://snoosnoop.com/",
-    "tooltip": "SnooSnoop is a powerful tool that reveals insights about Reddit profiles. Whether you\u2019re analyzing activity patterns or conducting OSINT investigations, SnooSnoop provides detailed breakdowns of user data, including post history, comment statistics, and more. Dive into Reddit like never before! https://snoosnoop.com/",
+    "tooltip": "SnooSnoop is a powerful tool that reveals insights about Reddit profiles. Whether you’re analyzing activity patterns or conducting OSINT investigations, SnooSnoop provides detailed breakdowns of user data, including post history, comment statistics, and more. Dive into Reddit like never before! https://snoosnoop.com/",
     "categories": [
-      "SOCMINT",
-      "Reddit"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3664,8 +4698,7 @@
     "url": "https://www.ip2location.com",
     "tooltip": "Whether you&#8217;re performing OSINT investigations or enhancing your cybersecurity measures, IP2Location offers precise geolocation insights. Trace IP addresses to uncover physical locations, time zones, ISPs, and more. https://www.ip2location.com",
     "categories": [
-      "GEOINT",
-      "Geolocalization"
+      "GEOINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Paid",
@@ -3678,8 +4711,7 @@
     "url": "https://leakpeek.com/",
     "tooltip": "Leakpeek helps you search across various breached databases for leaked information. https://leakpeek.com/",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -3687,7 +4719,7 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "jsninja-uncover-secrets",
+    "slug": "jsninja",
     "title": "JSNinja",
     "url": "https://github.com/iamunixtz/JSNinja",
     "tooltip": "JSNinja is a powerful tool for extracting URLs and sensitive information from JavaScript files. Ideal for security professionals, bug hunters, and developers, it detects API keys, tokens, and more. Quickly extract URLs, identify secrets, and streamline your analysis with its user-friendly CLI. https://github.com/iamunixtz/JSNinja",
@@ -3718,8 +4750,7 @@
     "url": "https://exportgram.net/",
     "tooltip": "ExportGram is a web application designed to help users export Instagram comments into Excel, CSV, and JSON formats. It provides detailed exports, including usernames, dates, number of likes, and comment text. The service supports multiple languages and emojis, offering both free and premium plans to cater to various needs. https://exportgram.net/",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -3732,8 +4763,7 @@
     "url": "https://github.com/victor-gurbani/instagram_network_analysis",
     "tooltip": "Map and analyze Instagram connections with this Python-based tool. Ideal for network visualization and OSINT research https://github.com/victor-gurbani/instagram_network_analysis",
     "categories": [
-      "SOCMINT",
-      "Instagram"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3744,10 +4774,9 @@
     "slug": "007-thebond",
     "title": "007-TheBond",
     "url": "https://github.com/Deadshot0x7/007-TheBond",
-    "tooltip": "007-TheBond helps you gather data on domains, subdomains, and exposed services\u2014making reconnaissance workflows faster and efficient. https://github.com/Deadshot0x7/007-TheBond",
+    "tooltip": "007-TheBond helps you gather data on domains, subdomains, and exposed services—making reconnaissance workflows faster and efficient. https://github.com/Deadshot0x7/007-TheBond",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3773,8 +4802,7 @@
     "url": "https://github.com/spipm/Depixelization_poc",
     "tooltip": "Depix is a powerful OSINT tool designed to recover text from pixelated images. Perfect for security researchers and investigators dealing with obfuscated data. https://github.com/spipm/Depixelization_poc",
     "categories": [
-      "IMAGEINT",
-      "Image Enanchement"
+      "IMAGEINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3787,8 +4815,7 @@
     "url": "https://haveibeenzuckered.com",
     "tooltip": "HaveIBeenZuckered.com lets you check if your Facebook data was exposed in past breaches. Built for transparency and awareness, it helps users verify if their personal information was leaked, empowering better digital hygiene. https://haveibeenzuckered.com",
     "categories": [
-      "SOCMINT",
-      "Facebook"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3796,13 +4823,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "watchwithout-watch-tiktoks-without-account",
+    "slug": "watchwithout",
     "title": "WatchWithout",
     "url": "https://watchwithout.com/",
-    "tooltip": "WatchWithout lets you view TikTok videos without the app, no logins, no downloads\u2014just the content you\u2019re after. https://watchwithout.com/",
+    "tooltip": "WatchWithout lets you view TikTok videos without the app, no logins, no downloads—just the content you’re after. https://watchwithout.com/",
     "categories": [
-      "SOCMINT",
-      "TikTok"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3815,8 +4841,7 @@
     "url": "https://ytbcomments.com",
     "tooltip": "YouTube Comment Finder pulls comments from YouTube videos based on keywords. Cut through the noise and get straight to the conversations that matter. https://ytbcomments.com",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3827,10 +4852,9 @@
     "slug": "tlgrm-channels",
     "title": "TLGRM Channels",
     "url": "https://tlgrm.eu/channels",
-    "tooltip": "TLGRM Channels lets you browse Telegram\u2019s public channels, cutting straight to the content you\u2019re after. No distractions, just an open window into what\u2019s out there. https://tlgrm.eu/channels",
+    "tooltip": "TLGRM Channels lets you browse Telegram’s public channels, cutting straight to the content you’re after. No distractions, just an open window into what’s out there. https://tlgrm.eu/channels",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Data-Source",
     "pricing": "Free",
@@ -3841,10 +4865,9 @@
     "slug": "omar-thing-tiktok-tool",
     "title": "OMAR-Thing tiktok tool",
     "url": "https://omar-thing.nekoweb.org/",
-    "tooltip": "OMAR-Thing digs into TikTok profiles, fetching stats and profile pictures by username. No login, no noise\u2014just a quiet peek at the surface. https://omar-thing.nekoweb.org/",
+    "tooltip": "OMAR-Thing digs into TikTok profiles, fetching stats and profile pictures by username. No login, no noise—just a quiet peek at the surface. https://omar-thing.nekoweb.org/",
     "categories": [
-      "SOCMINT",
-      "TikTok"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3857,8 +4880,7 @@
     "url": "https://subdomainfinder.c99.nl/",
     "tooltip": "Subdomain Finder is a powerful tool for uncovering subdomains, aiding OSINT and reconnaissance tasks with accurate results. https://subdomainfinder.c99.nl/",
     "categories": [
-      "DOMAININT",
-      "Subdomain Enumeration"
+      "DOMAININT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3866,13 +4888,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "upscale-media-enhance-image-resolution",
+    "slug": "upscale-media",
     "title": "Upscale Media",
     "url": "https://www.upscale.media/it/upload",
     "tooltip": "Upscale Media uses AI to improve image quality and resolution, making it a useful tool for OSINT professionals and analysts working with low-quality visuals. https://www.upscale.media/it/upload",
     "categories": [
-      "IMAGEINT",
-      "Image Enanchement"
+      "IMAGEINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -3883,10 +4904,9 @@
     "slug": "instant-street-view",
     "title": "Instant Street View",
     "url": "https://www.instantstreetview.com/",
-    "tooltip": "Instant Street View lets you quickly access Google Street View imagery by simply entering an address or location. A valuable resource for OSINT and location-based investigations. https://www.instantstreetview.com/ #OSINT #Geolocation #investigation #geoint",
+    "tooltip": "Instant Street View lets you quickly access Google Street View imagery by simply entering an address or location. A valuable resource for OSINT and location-based investigations. https://www.instantstreetview.com/ #OSINT #Geolocation #investigation #geoint https://www.instantstreetview.com/",
     "categories": [
-      "GEOINT",
-      "Google Maps"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3907,13 +4927,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "shodan-spider",
+    "slug": "shodanspider",
     "title": "ShodanSpider",
     "url": "https://github.com/shubhamrooter/ShodanSpider",
     "tooltip": "ShodanSpider automates the process of crawling Shodan results, helping OSINT researchers and security professionals gather detailed insights on exposed devices. https://github.com/shubhamrooter/ShodanSpider",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "IoT Scraping"
+      "CRAWLING - SCRAPING"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -3947,13 +4966,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "truecaller-z-bot",
+    "slug": "truecallerobot",
     "title": "TrueCalleRobot",
     "url": "https://t.me/TrueCalleRobot",
-    "tooltip": "TrueCaller Bot lets you query phone numbers to uncover registered names and associated details\u2014right from Telegram. https://t.me/TrueCalleRobot",
+    "tooltip": "TrueCaller Bot lets you query phone numbers to uncover registered names and associated details—right from Telegram. https://t.me/TrueCalleRobot",
     "categories": [
-      "PHONEINT",
-      "Phone Number Lookup"
+      "PHONEINT"
     ],
     "type": "Telegram-Bot",
     "pricing": "Free",
@@ -3964,7 +4982,7 @@
     "slug": "socialblade",
     "title": "SocialBlade",
     "url": "https://socialblade.com/",
-    "tooltip": "SocialBlade provides detailed stats for YouTube, Instagram, Twitter, and more\u2014perfect for tracking influencers and audience growth. https://socialblade.com/",
+    "tooltip": "SocialBlade provides detailed stats for YouTube, Instagram, Twitter, and more—perfect for tracking influencers and audience growth. https://socialblade.com/",
     "categories": [
       "SOCMINT"
     ],
@@ -3974,13 +4992,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "twstalker-watch-twitter-users-without-account",
+    "slug": "twstalker",
     "title": "TwStalker",
     "url": "https://twstalker.com",
     "tooltip": "TwStalker lets you view Twitter profiles, tweets, and interactions without an account. https://twstalker.com",
     "categories": [
-      "SOCMINT",
-      "Twitter / X"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -3988,10 +5005,10 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "ripgrep",
+    "slug": "ripgrep-all",
     "title": "Ripgrep-All",
     "url": "https://github.com/phiresky/ripgrep-all",
-    "tooltip": "Ripgrep-All extends ripgrep\u2019s power to search inside PDFs, Office docs, archives, and more\u2014perfect for deep OSINT digs. https://github.com/phiresky/ripgrep-all",
+    "tooltip": "Ripgrep-All extends ripgrep’s power to search inside PDFs, Office docs, archives, and more—perfect for deep OSINT digs. https://github.com/phiresky/ripgrep-all",
     "categories": [
       "GENERAL OSINT"
     ],
@@ -4006,8 +5023,7 @@
     "url": "https://www.vedbex.com/phone2skype",
     "tooltip": "Phone2Skype allows you to check if a phone number is connected to a Skype account, a valuable OSINT tool for online investigations. https://www.vedbex.com/phone2skype",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Skype"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4015,13 +5031,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "faceonlive-reverse-image-search-for-faces",
+    "slug": "faceonlive",
     "title": "FaceOnLive",
     "url": "https://faceonlive.com/face-search-online/",
-    "tooltip": "FaceOnLive helps you perform facial recognition searches online, uncovering profiles and images tied to a specific face. Free Face Search Online &#8211; The Best Alternative to PimEyes and FaceCheck ID",
+    "tooltip": "FaceOnLive helps you perform facial recognition searches online, uncovering profiles and images tied to a specific face. Free Face Search Online &#8211; The Best Alternative to PimEyes and FaceCheck ID https://faceonlive.com/face-search-online/",
     "categories": [
-      "PEOPLE SEARCH",
-      "Face Recognition Search"
+      "PEOPLE SEARCH"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -4034,8 +5049,7 @@
     "url": "https://leakedpassword.com/",
     "tooltip": "LeakedPassword allows you to check if a passwords have been leaked in data breaches. https://leakedpassword.com/",
     "categories": [
-      "BREACH DATA",
-      "Credential Leaks"
+      "BREACH DATA"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4061,8 +5075,7 @@
     "url": "https://www.huntintel.io",
     "tooltip": "HuntIntel makes it easy to find social media content based on geographic locations, giving OSINT investigations a spatial dimension. https://www.huntintel.io",
     "categories": [
-      "SOCMINT",
-      "GEO Tracking"
+      "SOCMINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
@@ -4075,8 +5088,7 @@
     "url": "https://pugrecon.com/",
     "tooltip": "PugRecon instantly reveals subdomains for any given domain (it gets data from a huge scraped domain and subdomain list). Registration needed. https://pugrecon.com/",
     "categories": [
-      "DOMAININT",
-      "Subdomain Enumeration"
+      "DOMAININT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -4087,10 +5099,9 @@
     "slug": "youtube-subscription-history",
     "title": "Youtube Subscription History",
     "url": "https://xxluke.de/subscription-history/",
-    "tooltip": "Track a channel&#8217;s subscription history and uncover connections over time\u2014useful for OSINT investigations into social patterns and digital footprints. https://xxluke.de/subscription-history/",
+    "tooltip": "Track a channel&#8217;s subscription history and uncover connections over time—useful for OSINT investigations into social patterns and digital footprints. https://xxluke.de/subscription-history/",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4103,8 +5114,7 @@
     "url": "https://exiftool.lucasgelfond.online/",
     "tooltip": "ExifTool-Web: Extract and analyze metadata from images directly in your browser. No upload needed. https://exiftool.lucasgelfond.online/",
     "categories": [
-      "IMAGEINT",
-      "Metadata Analysis"
+      "IMAGEINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4112,7 +5122,7 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "chronos-wayback-machine",
+    "slug": "chronos",
     "title": "Chronos",
     "url": "https://github.com/mhmdiaa/chronos",
     "tooltip": "Chronos, a Wayback Machine OSINT Framework: Extract and analyze archived web data from the Wayback Machine for OSINT investigations. endpoints and URLs from archived JavaScript code ; Calculate archived favicon hashes ; Extract archived page titles; Extract paths from archived robots.txt files ;Extract URLs from archived sitemap.xml files; Extract endpoints from archived API documentation; Find S3 buckets in archived pages https://github.com/mhmdiaa/chronos",
@@ -4143,8 +5153,7 @@
     "url": "https://github.com/Lucksi/LinkdTime",
     "tooltip": "LinkdTime: Generate detailed LinkedIn timelines from posts, comments, and profile changes. Useful for verifying event chronology in OSINT investigations. Thanks to Luca Garofalo for this valuable tool. https://github.com/Lucksi/LinkdTime",
     "categories": [
-      "SOCMINT",
-      "LinkedIn"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -4170,8 +5179,7 @@
     "url": "https://www.user-searcher.com/",
     "tooltip": "User-Searcher: Find digital footprints by tracking usernames online. https://www.user-searcher.com/",
     "categories": [
-      "PEOPLE SEARCH",
-      "Username Search"
+      "PEOPLE SEARCH"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4184,8 +5192,7 @@
     "url": "https://seintpl.github.io/NAMINT/",
     "tooltip": "OSINT tool for name permutations and name intelligence with realtime check. https://seintpl.github.io/NAMINT/",
     "categories": [
-      "PEOPLE SEARCH",
-      "Namint"
+      "PEOPLE SEARCH"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4206,7 +5213,7 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "investigator",
+    "slug": "investigator-toolkit",
     "title": "Investigator toolkit",
     "url": "https://abhijithb200.github.io/investigator/",
     "tooltip": "Investigator: Must-have OSINT domain toolset. https://abhijithb200.github.io/investigator/",
@@ -4219,10 +5226,10 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "wikistalk",
+    "slug": "wistalk",
     "title": "WiStalk",
     "url": "https://github.com/altilunium/wistalk",
-    "tooltip": "WiStalk: Analyze Wikipedia user\u2019s activity like an investigator. https://github.com/altilunium/wistalk try it on replit: https://replit.com/@rtnf141/wistalk#README.md",
+    "tooltip": "WiStalk: Analyze Wikipedia user’s activity like an investigator. https://github.com/altilunium/wistalk try it on replit: https://github.com/altilunium/wistalk",
     "categories": [
       "PUBLIC DATA"
     ],
@@ -4232,13 +5239,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "ghunt-online-instance",
+    "slug": "ghunt-online",
     "title": "ghunt online",
     "url": "https://gmail-osint.activetk.jp/",
     "tooltip": "Online instance of GHunt to gather public info on Gmail accounts. This tool shows a lot of information about people (if you only know the gmail address): especially the Google places link (every place visited with reviews, any programmed place to visit etc). https://gmail-osint.activetk.jp/",
     "categories": [
-      "EMAILINT",
-      "Email Info"
+      "EMAILINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4251,8 +5257,7 @@
     "url": "https://www.reveddit.com/",
     "tooltip": "Reveddit: Recover removed Reddit posts and comments &#8211; Analyze community trends and monitor removed content for research purposes. https://www.reveddit.com/",
     "categories": [
-      "SOCMINT",
-      "Reddit"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4265,8 +5270,7 @@
     "url": "https://redditmetis.com/",
     "tooltip": "Useful tools for OSINT on Reddit users. Analyze behavior, extract insights, and uncover patterns across Reddit profiles. https://redditmetis.com/",
     "categories": [
-      "SOCMINT",
-      "Reddit"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4279,8 +5283,7 @@
     "url": "https://github.com/mariosantella/youtube-handles-fuzz",
     "tooltip": "Bulk-check YouTube usernames to uncover hidden profiles and extract channel IDs track identity patterns and linking accounts across platforms. https://github.com/mariosantella/youtube-handles-fuzz",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -4293,8 +5296,7 @@
     "url": "https://darkwebdaily.live/",
     "tooltip": "One of the best resources to stay updated on dark web insights and trends. Curated by Sam Bent, this resource tracks marketplaces, leaks, and underground activities. https://darkwebdaily.live/",
     "categories": [
-      "DARK WEB",
-      "Onion Directories"
+      "DARK WEB"
     ],
     "type": "Data-Source",
     "pricing": "Free",
@@ -4305,7 +5307,7 @@
     "slug": "osintracker",
     "title": "OSINTracker",
     "url": "https://app.osintracker.com/",
-    "tooltip": "Track and organize your OSINT investigations: manage findings, document sources, and streamline research workflows\u2014all stored in your browser. https://app.osintracker.com/",
+    "tooltip": "Track and organize your OSINT investigations: manage findings, document sources, and streamline research workflows—all stored in your browser. https://app.osintracker.com/",
     "categories": [
       "GENERAL OSINT"
     ],
@@ -4320,8 +5322,7 @@
     "url": "https://github.com/franckferman/MetaDetective",
     "tooltip": "Metadata analysis and web scraping for OSINT. Uncover hidden data in files and web sources, filling the gap left by tools like Metagoofil. A must-have for OSINT and pentesting investigations. https://github.com/franckferman/MetaDetective",
     "categories": [
-      "GENERAL OSINT",
-      "Metasearch"
+      "GENERAL OSINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -4329,13 +5330,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "osint-sh-buckets-search",
+    "slug": "osintsh-buckets",
     "title": "OSINT.SH Buckets",
     "url": "https://osint.sh/buckets/",
     "tooltip": "Search public AWS S3 &amp; Azure Blob storage by keyword &#8211; Quickly uncover exposed cloud storage for OSINT investigations. https://osint.sh/buckets/",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "Bucket Search"
+      "CRAWLING - SCRAPING"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4348,8 +5348,7 @@
     "url": "https://archive.twitter-trending.com/",
     "tooltip": "Explore past Twitter trends by date and location: access historical trending topics for OSINT research and data analysis. https://archive.twitter-trending.com/",
     "categories": [
-      "SOCMINT",
-      "Twitter / X"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4362,8 +5361,7 @@
     "url": "https://guilherme-moraiss.github.io/Deep-Dork-Web/",
     "tooltip": "Automate Google Dorking for OSINT investigations: search indexed sensitive data efficiently with pre-built queries. https://guilherme-moraiss.github.io/Deep-Dork-Web/",
     "categories": [
-      "GENERAL OSINT",
-      "Dork Tools"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4376,8 +5374,7 @@
     "url": "https://buckets.grayhatwarfare.com/",
     "tooltip": "Buckets GrayHatWarfare maintains a searchable database of open Amazon S3 buckets, filtering out non-relevant files while indexing millions of exposed documents, updated daily. https://buckets.grayhatwarfare.com/",
     "categories": [
-      "CRAWLING - SCRAPING",
-      "Bucket Search"
+      "CRAWLING - SCRAPING"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -4388,10 +5385,9 @@
     "slug": "hashtray",
     "title": "Hashtray",
     "url": "https://github.com/soxoj/hashtray",
-    "tooltip": "Uncover Gravatar-linked email addresses and accounts: find a Gravatar account using an email or retrieve the associated email from a Gravatar username or hash\u2014useful for OSINT pivoting. https://github.com/soxoj/hashtray",
+    "tooltip": "Uncover Gravatar-linked email addresses and accounts: find a Gravatar account using an email or retrieve the associated email from a Gravatar username or hash—useful for OSINT pivoting. https://github.com/soxoj/hashtray",
     "categories": [
-      "EMAILINT",
-      "Email Info"
+      "EMAILINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -4404,8 +5400,7 @@
     "url": "https://github.com/kpcyrd/sn0int",
     "tooltip": "sn0int: Automated OSINT framework for mapping digital footprints. General purpose, modular, extensible, and designed for privacy-conscious reconnaissance. https://github.com/kpcyrd/sn0int",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -4416,10 +5411,9 @@
     "slug": "whatsanalyze",
     "title": "WhatsAnalyze",
     "url": "https://whatsanalyze-80665.web.app/",
-    "tooltip": "Get instant insights from WhatsApp chats. Analyze message frequency, activity peaks, and conversation patterns\u2014all locally in your browser for full privacy. https://whatsanalyze-80665.web.app/",
+    "tooltip": "Get instant insights from WhatsApp chats. Analyze message frequency, activity peaks, and conversation patterns—all locally in your browser for full privacy. https://whatsanalyze-80665.web.app/",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Whatsapp"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4440,7 +5434,7 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "domainiq-investigations",
+    "slug": "domainiq-tools",
     "title": "DomainIQ Tools",
     "url": "https://www.domainiq.com/tools",
     "tooltip": "Comprehensive domain intelligence for OSINT investigations: access WHOIS history, reverse IP lookups, DNS records, and more to map digital footprints. https://www.domainiq.com/tools",
@@ -4456,7 +5450,7 @@
     "slug": "maxun",
     "title": "maxun",
     "url": "https://github.com/getmaxun/maxun",
-    "tooltip": "Open-source no-code platform for automated web data extraction: train scraping workflows in minutes and collect data at scale\u2014no coding needed. https://github.com/getmaxun/maxun",
+    "tooltip": "Open-source no-code platform for automated web data extraction: train scraping workflows in minutes and collect data at scale—no coding needed. https://github.com/getmaxun/maxun",
     "categories": [
       "CRAWLING - SCRAPING"
     ],
@@ -4484,8 +5478,7 @@
     "url": "https://analyzeid.com/username/",
     "tooltip": "Check username availability and find linked accounts across platforms. https://analyzeid.com/username/",
     "categories": [
-      "PEOPLE SEARCH",
-      "Username Search"
+      "PEOPLE SEARCH"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -4498,8 +5491,7 @@
     "url": "https://greylensresearch.github.io/filephish/",
     "tooltip": "Build targeted search queries to discover exposed documents online: Select file types, keywords, and search engines for precise OSINT collection. https://greylensresearch.github.io/filephish/",
     "categories": [
-      "GENERAL OSINT",
-      "Dork Tools"
+      "GENERAL OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4507,13 +5499,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "deepfind-me-tools",
+    "slug": "deepfindme-tools",
     "title": "DeepFind.Me Tools",
     "url": "https://www.deepfind.me/tools",
     "tooltip": "Full suite of OSINT utilities for social media, domains, geolocation, dark web, and more. https://www.deepfind.me/tools",
     "categories": [
-      "GENERAL OSINT",
-      "Multi-tool Platforms"
+      "GENERAL OSINT"
     ],
     "type": "Aggregator",
     "pricing": "Free",
@@ -4539,8 +5530,7 @@
     "url": "https://github.com/C3n7ral051nt4g3ncy/HandleHawk",
     "tooltip": "Cross-platform username reconnaissance tool: scan multiple platforms to collect public data tied to a single handle. https://github.com/C3n7ral051nt4g3ncy/HandleHawk",
     "categories": [
-      "PEOPLE SEARCH",
-      "Username Search"
+      "PEOPLE SEARCH"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -4553,8 +5543,7 @@
     "url": "https://github.com/silverxpymaster/silvertgosint",
     "tooltip": "Collect messages and metadata from Telegram users across shared groups: connect via Telegram API to archive target activity and gather OSINT from public groups at scale. https://github.com/silverxpymaster/silvertgosint",
     "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE",
-      "Telegram"
+      "DIGITAL COMMUNICATION INTELLIGENCE"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -4567,8 +5556,7 @@
     "url": "https://profileimageintel.com/",
     "tooltip": "Reverse search and analyze profile pictures across platforms. https://profileimageintel.com/",
     "categories": [
-      "PEOPLE SEARCH",
-      "Face Recognition Search"
+      "PEOPLE SEARCH"
     ],
     "type": "Tool",
     "pricing": "Paid",
@@ -4581,8 +5569,7 @@
     "url": "https://github.com/rdWei/OsintTube",
     "tooltip": "Interactive shell to analyze YouTube channels by ID: Extract location, join date, subscriber count, earnings, and more for OSINT profiling. https://github.com/rdWei/OsintTube",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "CLI",
     "pricing": "Free",
@@ -4595,8 +5582,7 @@
     "url": "https://filmot.com/",
     "tooltip": "Search inside YouTube videos by keyword: Useful in OSINT to locate specific spoken content across video archives. https://filmot.com/",
     "categories": [
-      "SOCMINT",
-      "YouTube"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4609,8 +5595,7 @@
     "url": "https://sticktock.com/",
     "tooltip": "Browse and search TikTok profiles without an account: view content and user activity anonymously. https://sticktock.com/",
     "categories": [
-      "SOCMINT",
-      "TikTok"
+      "SOCMINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4623,8 +5608,7 @@
     "url": "https://findpiclocation.com/",
     "tooltip": "FindPicLocation: Identify where a photo was taken using AI and visual clues. https://findpiclocation.com/",
     "categories": [
-      "GEOINT",
-      "Geolocalization"
+      "GEOINT"
     ],
     "type": "Tool",
     "pricing": "Freemium",
@@ -4632,13 +5616,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "gmail_permutator",
+    "slug": "gmail-permutator",
     "title": "gmail_permutator",
     "url": "https://github.com/mariosantella/gmail_permutator",
     "tooltip": "Generate Gmail address variations for username and identity investigations: Useful for OSINT profiling, account discovery, and pattern analysis. https://github.com/mariosantella/gmail_permutator",
     "categories": [
-      "EMAILINT",
-      "Email Verification"
+      "EMAILINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -4646,13 +5629,12 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "spotify_profile_monitor",
+    "slug": "spotify-profile-monitor",
     "title": "spotify_profile_monitor",
     "url": "https://github.com/misiektoja/spotify_profile_monitor",
     "tooltip": "Monitor changes in public Spotify profiles for OSINT or research: track playlists, follower counts, and profile updates over time. https://github.com/misiektoja/spotify_profile_monitor",
     "categories": [
-      "GENERAL OSINT",
-      "Data Intelligence"
+      "GENERAL OSINT"
     ],
     "type": "CLI",
     "pricing": "Free",
