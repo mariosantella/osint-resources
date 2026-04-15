@@ -1361,19 +1361,6 @@
     "date_added": "2026-03-02"
   },
   {
-    "slug": "deepkrak3n",
-    "title": "deepkrak3n",
-    "url": "https://github.com/guilhermelimait/deepkrak3n",
-    "tooltip": "deepkrak3n is a fully local, modern OSINT platform for scanning and analysing public profiles across 200+ platforms by username or email. It provides more than just a list: it builds relationships between accounts, leverages AI for summary and risk analysis, and gives you a clean, fast, and private user experience. https://github.com/guilhermelimait/deepkrak3n",
-    "categories": [
-      "GENERAL OSINT"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2026-03-02"
-  },
-  {
     "slug": "dnsdumpstercom",
     "title": "DNSDumpster.com",
     "url": "https://dnsdumpster.com/",
@@ -1552,6 +1539,19 @@
       "DARK WEB > Search Engine"
     ],
     "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "deepkrak3n",
+    "title": "deepkrak3n",
+    "url": "https://github.com/guilhermelimait/deepkrak3n",
+    "tooltip": "deepkrak3n is a fully local, modern OSINT platform for scanning and analysing public profiles across 200+ platforms by username or email. It provides more than just a list: it builds relationships between accounts, leverages AI for summary and risk analysis, and gives you a clean, fast, and private user experience. https://github.com/guilhermelimait/deepkrak3n",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
     "pricing": "Free",
     "featured": false,
     "date_added": "2026-03-02"
@@ -2362,19 +2362,6 @@
     "date_added": "2025-12-15"
   },
   {
-    "slug": "bosint",
-    "title": "BOSINT",
-    "url": "https://app.bosint.gg/",
-    "tooltip": "An all-in-one OSINT platform offering 20+ investigative modules—including IP, domain, email, phone, Discord, Steam, and dark web lookups, plus username searches across 50+ platforms, Google Dorks generation, image metadata analysis, and breach checks—all through a clean, intuitive web interface. https://app.bosint.gg/",
-    "categories": [
-      "GENERAL OSINT > Multi-tool Platforms"
-    ],
-    "type": "Aggregator",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-12-12"
-  },
-  {
     "slug": "satellite-map-wayback-arcgis-living-atlas",
     "title": "Satellite map Wayback – ArcGIS Living Atlas",
     "url": "https://livingatlas.arcgis.com/wayback",
@@ -2448,6 +2435,19 @@
       "CRAWLING - SCRAPING"
     ],
     "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-12-12"
+  },
+  {
+    "slug": "bosint",
+    "title": "BOSINT",
+    "url": "https://app.bosint.gg/",
+    "tooltip": "An all-in-one OSINT platform offering 20+ investigative modules—including IP, domain, email, phone, Discord, Steam, and dark web lookups, plus username searches across 50+ platforms, Google Dorks generation, image metadata analysis, and breach checks—all through a clean, intuitive web interface. https://app.bosint.gg/",
+    "categories": [
+      "GENERAL OSINT > Multi-tool Platforms"
+    ],
+    "type": "Aggregator",
     "pricing": "Free",
     "featured": false,
     "date_added": "2025-12-12"
@@ -2728,19 +2728,6 @@
     "date_added": "2025-11-17"
   },
   {
-    "slug": "spottr",
-    "title": "Spottr",
-    "url": "https://usespottr.com",
-    "tooltip": "CTRL+F for Videos with AI. Searching for anything inside video content, treating footage like text. It can identify objects https://usespottr.com",
-    "categories": [
-      "IMAGEINT"
-    ],
-    "type": "Beta",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-11-09"
-  },
-  {
     "slug": "onion-lookup",
     "title": "onion-lookup",
     "url": "https://onion.ail-project.org",
@@ -2816,6 +2803,19 @@
       "DARK WEB"
     ],
     "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-11-09"
+  },
+  {
+    "slug": "spottr",
+    "title": "Spottr",
+    "url": "https://usespottr.com",
+    "tooltip": "CTRL+F for Videos with AI. Searching for anything inside video content, treating footage like text. It can identify objects https://usespottr.com",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "type": "Beta",
     "pricing": "Free",
     "featured": false,
     "date_added": "2025-11-09"
@@ -5693,19 +5693,6 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "sticktock",
-    "title": "Sticktock",
-    "url": "https://sticktock.com/",
-    "tooltip": "Browse and search TikTok profiles without an account: view content and user activity anonymously. https://sticktock.com/",
-    "categories": [
-      "SOCMINT > TikTok"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-04-28"
-  },
-  {
     "slug": "findpiclocation",
     "title": "FindPicLocation",
     "url": "https://findpiclocation.com/",
@@ -5754,6 +5741,19 @@
     "tooltip": "Scan websites in real time to detect threats like malware and phishing before visiting: built by cybersecurity experts for both professionals and everyday users. https://cyscan.io/",
     "categories": [
       "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-04-28"
+  },
+  {
+    "slug": "sticktock",
+    "title": "Sticktock",
+    "url": "https://sticktock.com/",
+    "tooltip": "Browse and search TikTok profiles without an account: view content and user activity anonymously. https://sticktock.com/",
+    "categories": [
+      "SOCMINT > TikTok"
     ],
     "type": "Tool",
     "pricing": "Free",
