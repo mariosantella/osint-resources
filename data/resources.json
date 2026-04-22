@@ -122,8 +122,8 @@
   {
     "slug": "sharetrace",
     "title": "ShareTrace",
-    "url": "https://github.com/hondling/sharetrace",
-    "tooltip": "OSINT tool that extracts user identity information from social media share links by analyzing internal identifiers and metadata from various platforms including TikTok, Instagram, Discord, and Microsoft services. https://github.com/hondling/sharetrace",
+    "url": "https://share.whopostedwhat.com",
+    "tooltip": "OSINT tool that extracts user identity information from social media share links by analyzing internal identifiers and metadata from various platforms including TikTok, Instagram, Discord, and Microsoft services. https://share.whopostedwhat.com",
     "categories": [
       "WEB OSINT"
     ],
@@ -152,6 +152,19 @@
     "tooltip": "A toolkit providing structured prompts, vault templates, and archive guides for AI-assisted genealogy research, enabling systematic and verifiable autonomous investigation of family history. https://github.com/mattprusak/autoresearch-genealogy",
     "categories": [
       "PEOPLE SEARCH"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-08"
+  },
+  {
+    "slug": "sharetrace",
+    "title": "ShareTrace",
+    "url": "https://github.com/hondling/sharetrace",
+    "tooltip": "OSINT tool that extracts user identity information from social media share links by analyzing internal identifiers and metadata from various platforms including TikTok, Instagram, Discord, and Microsoft services. https://github.com/hondling/sharetrace",
+    "categories": [
+      "WEB OSINT"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -927,7 +940,7 @@
       "DOMAININT"
     ],
     "type": "Platform-SaaS",
-    "pricing": "Freemium",
+    "pricing": "Free",
     "featured": false,
     "date_added": "2026-04-04"
   },
