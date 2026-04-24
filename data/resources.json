@@ -3575,19 +3575,6 @@
     "date_added": "2025-08-10"
   },
   {
-    "slug": "venacus",
-    "title": "Venacus",
-    "url": "https://venacus.com/",
-    "tooltip": "Data breach search engine that allows you to search for your data breaches and get notified when your data is compromised, helping protect your data and organization. https://venacus.com/",
-    "categories": [
-      "BREACH DATA"
-    ],
-    "type": "Tool",
-    "pricing": "Freemium",
-    "featured": false,
-    "date_added": "2025-08-10"
-  },
-  {
     "slug": "lambdablack-osint-investigation-assistant",
     "title": "Lambda.black OSINT Investigation Assistant",
     "url": "https://lambda.black/osint.html",
