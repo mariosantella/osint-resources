@@ -14,20 +14,6 @@
     "date_added": "2026-04-22"
   },
   {
-    "slug": "leaksapi",
-    "title": "LeaksAPI",
-    "url": "https://leaks-api.io/",
-    "tooltip": "💧 LeaksAPI 💧 - Live Darknet Search over 1800+ Leaked Database + 450 Million Infostealer Logs - GROWING DAILY LeaksAPI helps security teams, developers, and researchers identify exposed credentials and compromised users using continuously updated breach and infostealer datasets. https://leaks-api.io/",
-    "categories": [
-      "BREACH DATA > Credential Leaks",
-      "CRAWLING - SCRAPING > API Access"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Freemium",
-    "featured": true,
-    "date_added": "2026-04-22"
-  },
-  {
     "slug": "fingerprint-detector",
     "title": "Fingerprint Detector",
     "url": "https://github.com/mr-r3b00t/fingerprintdetector",
