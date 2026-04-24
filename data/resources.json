@@ -1157,19 +1157,6 @@
     "date_added": "2026-04-04"
   },
   {
-    "slug": "ghosint",
-    "title": "GHOSINT",
-    "url": "https://ghosint.io/",
-    "tooltip": "An OSINT platform that aggregates and searches data breaches from multiple sources like Intelligence X, LeakCheck, and Snusbase, allowing users to find compromised credentials and personal information. https://ghosint.io/",
-    "categories": [
-      "BREACH DATA > Credential Leaks"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Freemium",
-    "featured": false,
-    "date_added": "2026-04-04"
-  },
-  {
     "slug": "permanet",
     "title": "Permanet",
     "url": "https://thepermanet.com/",
