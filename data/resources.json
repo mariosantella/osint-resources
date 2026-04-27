@@ -1,5 +1,19 @@
 [
   {
+    "slug": "horus",
+    "title": "Horus",
+    "url": "https://horus.st/",
+    "tooltip": "HORUS - Threat intelligence for serious work. One of the largest stealer logs indexer in the universe. Telegram, forum and cyber-crime tracking 24/7/365 https://horus.st/",
+    "categories": [
+      "BREACH DATA > Credential Leaks",
+      "GENERAL OSINT > Data Intelligence"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-04-27"
+  },
+  {
     "slug": "leaksapi",
     "title": "LeaksAPI",
     "url": "https://leak-check.net",
