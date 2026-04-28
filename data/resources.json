@@ -1,5 +1,19 @@
 [
   {
+    "slug": "leakintel",
+    "title": "LeakIntel",
+    "url": "https://leakintel.com.br/",
+    "tooltip": "Leak Intel is a cybersecurity platform that detects and monitors data leaks, enabling organizations to identify exposed credentials, respond quickly, and strengthen data protection. https://leakintel.com.br/",
+    "categories": [
+      "BREACH DATA > Credential Leaks",
+      "EMAILINT > Email Breach Check"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-04-28"
+  },
+  {
     "slug": "horus",
     "title": "Horus",
     "url": "https://horus.st/",
@@ -26,6 +40,19 @@
     "pricing": "Freemium",
     "featured": true,
     "date_added": "2026-04-22"
+  },
+  {
+    "slug": "stealseek",
+    "title": "StealSeek",
+    "url": "https://stealseek.io/",
+    "tooltip": "An advanced leak monitoring platform that provides 24/7 search capabilities across processed logs to help users identify and protect sensitive information exposed in data breaches. https://stealseek.io/",
+    "categories": [
+      "BREACH DATA > Credential Leaks"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-14"
   },
   {
     "slug": "fingerprint-detector",
