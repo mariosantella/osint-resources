@@ -1,5 +1,76 @@
 [
   {
+    "slug": "lol-archiver-osint-tools",
+    "title": "LoL-Archiver OSINT Tools",
+    "url": "https://osint.lolarchiver.com",
+    "tooltip": "A suite of OSINT tools for reverse email/phone lookup, social media intelligence, and data analysis across 500+ networks. Provides instant search, comprehensive reports, and real-time results for investigators and analysts. https://osint.lolarchiver.com",
+    "categories": [
+      "GENERAL OSINT > Multi-tool Platforms",
+      "PHONEINT > Phone Number Lookup",
+      "EMAILINT",
+      "PEOPLE SEARCH",
+      "SOCMINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-05-06"
+  },
+  {
+    "slug": "global-censorship-index",
+    "title": "Global Censorship Index",
+    "url": "https://voidly.ai/censorship-index",
+    "tooltip": "A real-time internet-freedom ranking tool that analyzes and scores 200 countries based on over 36 million measurements from multiple data sources to detect and classify online censorship incidents. https://voidly.ai/censorship-index",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-30"
+  },
+  {
+    "slug": "secrets-patterns-db",
+    "title": "Secrets Patterns DB",
+    "url": "https://github.com/mazen160/secrets-patterns-db/",
+    "tooltip": "The largest open-source database of regular expressions for detecting secrets, API keys, passwords, and tokens in code and data. Provides patterns for security tools like TruffleHog and Gitleaks to enhance secret scanning capabilities. https://github.com/mazen160/secrets-patterns-db/",
+    "categories": [
+      "CRAWLING - SCRAPING"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-30"
+  },
+  {
+    "slug": "insto",
+    "title": "insto",
+    "url": "https://github.com/subzeroid/insto",
+    "tooltip": "Interactive Instagram OSINT CLI tool with pluggable backends (HikerAPI/aiograpi) for gathering intelligence, featuring a REPL interface, snapshot monitoring, and data export capabilities. https://github.com/subzeroid/insto",
+    "categories": [
+      "CRAWLING - SCRAPING > API Access",
+      "SOCMINT > Instagram"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-30"
+  },
+  {
+    "slug": "obsidian-labs",
+    "title": "Obsidian Labs",
+    "url": "https://obsidianlabs.cloud/",
+    "tooltip": "An AI platform built for ethical hackers and security professionals, offering uncensored assistance for security research, penetration testing, exploit development, and payload generation with specialized modes for different workflows. https://obsidianlabs.cloud/",
+    "categories": [
+      "GENERAL OSINT > Multi-tool Platforms"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-28"
+  },
+  {
     "slug": "leakintel",
     "title": "LeakIntel",
     "url": "https://leakintel.com.br/",
@@ -28,6 +99,74 @@
     "date_added": "2026-04-27"
   },
   {
+    "slug": "xposedornot",
+    "title": "XposedOrNot",
+    "url": "https://xposedornot.com/",
+    "tooltip": "A free data breach search engine and OSINT tool that allows users to check if their email or password has been exposed in known data breaches. It provides real-time alerts, domain monitoring, and detailed analysis of compromised data. https://xposedornot.com/",
+    "categories": [
+      "BREACH DATA > Credential Leaks",
+      "EMAILINT > Email Breach Check"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-27"
+  },
+  {
+    "slug": "finceptterminal",
+    "title": "FinceptTerminal",
+    "url": "https://fincept.in/",
+    "tooltip": "An open-source financial intelligence terminal providing real-time market data, AI-powered research, and institutional charting for professionals. It serves as a free alternative to Bloomberg and Refinitiv for market analysis and OSINT. https://fincept.in/",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-27"
+  },
+  {
+    "slug": "awesome-osint-arsenal",
+    "title": "Awesome OSINT Arsenal",
+    "url": "https://github.com/rawfilejson/awesome-osint-arsenal",
+    "tooltip": "A comprehensive, curated collection of over 1100 OSINT and reconnaissance tools for Kali Linux, featuring a one-command installer for SOCMINT, GEOINT, network recon, dark web, and forensics. https://github.com/rawfilejson/awesome-osint-arsenal",
+    "categories": [
+      "GENERAL OSINT > Bookmark Collections",
+      "GENERAL OSINT > Multi-tool Platforms"
+    ],
+    "type": "Aggregator",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-27"
+  },
+  {
+    "slug": "onionclaw",
+    "title": "OnionClaw",
+    "url": "https://github.com/christinminor459/OnionClaw",
+    "tooltip": "Provides AI agents and analysts with full Tor network access for automated dark web data scraping, OSINT collection, and threat intelligence via a zero-config OpenClaw skill or standalone tool. https://github.com/christinminor459/OnionClaw",
+    "categories": [
+      "CRAWLING - SCRAPING > Web Scrapers",
+      "DARK WEB"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-27"
+  },
+  {
+    "slug": "osint-agentic-framework",
+    "title": "OSINT Agentic Framework",
+    "url": "https://github.com/V1n1v131r4/OSINT-Agentic-Framework",
+    "tooltip": "A dynamic OSINT investigation framework that guides operators through purpose-specific pipelines for analyzing institutions, individuals, disinformation campaigns, narratives, and data leaks. https://github.com/V1n1v131r4/OSINT-Agentic-Framework",
+    "categories": [
+      "GENERAL OSINT > Multi-tool Platforms"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-27"
+  },
+  {
     "slug": "leaksapi",
     "title": "LeaksAPI",
     "url": "https://leak-check.net",
@@ -40,6 +179,74 @@
     "pricing": "Freemium",
     "featured": true,
     "date_added": "2026-04-22"
+  },
+  {
+    "slug": "ip-location-geolocation",
+    "title": "IP Location | Geolocation",
+    "url": "https://www.iplocation.net",
+    "tooltip": "Provides IP address geolocation data, including approximate city, region, country, and ISP. Used for OSINT investigations, fraud detection, content localization, and identifying suspicious network activity. https://www.iplocation.net",
+    "categories": [
+      "GEOINT > Geolocalization",
+      "WEB OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-04-22"
+  },
+  {
+    "slug": "bluesky-viewer",
+    "title": "Bluesky Viewer",
+    "url": "https://bskyviewer.github.io",
+    "tooltip": "A client-side web tool for viewing public Bluesky social media data. It performs all requests directly from the user's browser with no server component. https://bskyviewer.github.io",
+    "categories": [
+      "SOCMINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-22"
+  },
+  {
+    "slug": "ai-reverse-image-search",
+    "title": "AI Reverse Image Search",
+    "url": "https://verifierpro.com/tools/reverse-image-search/",
+    "tooltip": "A free OSINT tool that uses AI vision to analyze uploaded images, generate optimized search queries, and launch reverse image searches across six engines (Google, Bing, Yandex, etc.) to find the source, similar images, or identify objects and people. https://verifierpro.com/tools/reverse-image-search/",
+    "categories": [
+      "IMAGEINT > Reverse Image Search"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-17"
+  },
+  {
+    "slug": "octolens-social-listening",
+    "title": "Octolens Social Listening",
+    "url": "https://octolens.com/",
+    "tooltip": "An AI-powered social listening tool that monitors Reddit, X, LinkedIn, and 10+ other platforms for brand mentions, filtering out noise to provide actionable intelligence for cybersecurity, brand monitoring, and competitive analysis. https://octolens.com/",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "SOCMINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-17"
+  },
+  {
+    "slug": "serpapi",
+    "title": "SerpApi",
+    "url": "https://serpapi.com/",
+    "tooltip": "Search API service that provides structured JSON data from various search engines for automated data extraction, supporting OSINT, SEO, and threat intelligence use cases with features like geolocated results and CAPTCHA solving. https://serpapi.com/",
+    "categories": [
+      "CRAWLING - SCRAPING > API Access",
+      "GENERAL OSINT > Search Engines"
+    ],
+    "type": "Data-Source",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-14"
   },
   {
     "slug": "stealseek",
