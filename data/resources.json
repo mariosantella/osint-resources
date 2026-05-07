@@ -1,5 +1,20 @@
 [
   {
+    "slug": "twitter-lolarchiver-tool",
+    "title": "Twitter LoLarchiver Tool",
+    "url": "https://twitter.lolarchiver.com",
+    "tooltip": "Archives and provides historical data for Twitter accounts, including usernames, bios, and display names. Great tool for OSINT investigations and tracking. https://twitter.lolarchiver.com",
+    "categories": [
+      "CRAWLING - SCRAPING > Web Scrapers",
+      "GENERAL OSINT > Data Intelligence",
+      "SOCMINT > Twitter / X"
+    ],
+    "type": "Tool",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-05-07"
+  },
+  {
     "slug": "lol-archiver-osint-tools",
     "title": "LoL-Archiver OSINT Tools",
     "url": "https://osint.lolarchiver.com",
