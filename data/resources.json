@@ -1,5 +1,19 @@
 [
   {
+    "slug": "serpapi",
+    "title": "SerpApi",
+    "url": "https://serpapi.com/",
+    "tooltip": "Search API service that provides structured JSON data from various search engines for automated data extraction, supporting OSINT, SEO, and threat intelligence use cases with features like geolocated results and CAPTCHA solving. https://serpapi.com/",
+    "categories": [
+      "CRAWLING - SCRAPING > API Access",
+      "GENERAL OSINT > Search Engines"
+    ],
+    "type": "Data-Source",
+    "pricing": "Paid",
+    "featured": true,
+    "date_added": "2026-05-08"
+  },
+  {
     "slug": "twitter-lolarchiver-tool",
     "title": "Twitter LoLarchiver Tool",
     "url": "https://twitter.lolarchiver.com",
@@ -248,20 +262,6 @@
     "pricing": "Paid",
     "featured": false,
     "date_added": "2026-04-17"
-  },
-  {
-    "slug": "serpapi",
-    "title": "SerpApi",
-    "url": "https://serpapi.com/",
-    "tooltip": "Search API service that provides structured JSON data from various search engines for automated data extraction, supporting OSINT, SEO, and threat intelligence use cases with features like geolocated results and CAPTCHA solving. https://serpapi.com/",
-    "categories": [
-      "CRAWLING - SCRAPING > API Access",
-      "GENERAL OSINT > Search Engines"
-    ],
-    "type": "Data-Source",
-    "pricing": "Paid",
-    "featured": true,
-    "date_added": "2026-04-14"
   },
   {
     "slug": "stealseek",
