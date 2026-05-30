@@ -1,5 +1,18 @@
 [
   {
+    "slug": "tiktok-stalker-free-tiktok-tool",
+    "title": "TikTok Stalker - Free TikTok Tool",
+    "url": "https://tiktok.einzzcookie.org",
+    "tooltip": "Monitor liking activity, see user details, see video details and download videos & sound without watermark. This includes further features such as obtaining timestamps of videos, timestamps of user creations, last nickname changes, language settings of users, reposts of users, comments of users on their reposts and much more. https://tiktok.einzzcookie.org",
+    "categories": [
+      "SOCMINT > TikTok"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-30"
+  },
+  {
     "slug": "jimpl-online-exif-metadata-viewer",
     "title": "Jimpl Online EXIF Metadata Viewer",
     "url": "https://jimpl.com",
@@ -5432,7 +5445,7 @@
     "slug": "omar-thing-tiktok-tool",
     "title": "OMAR-Thing tiktok tool",
     "url": "https://omar-thing.nekoweb.org/",
-    "tooltip": "OMAR-Thing digs into TikTok profiles, fetching stats and profile pictures by username. No login, no noise—just a quiet peek at the surface. https://omar-thing.nekoweb.org/",
+    "tooltip": "OMAR-Thing digs into TikTok profiles, fetching stats and profile pictures by username. No login but partly API required to buy, no noise—just a quiet peek at the surface. https://omar-thing.nekoweb.org/",
     "categories": [
       "SOCMINT > TikTok"
     ],
