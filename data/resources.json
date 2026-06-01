@@ -1,5 +1,20 @@
 [
   {
+    "slug": "revealer",
+    "title": "Revealer",
+    "url": "https://revealer.us/",
+    "tooltip": "Breach monitoring service that includes email OSINT lookup, username lookup, USA people lookup. One of the greatest infostealer monitoring service available, affordable and reliable. Protect yourself now. https://revealer.us/",
+    "categories": [
+      "EMAILINT > Email Breach Check",
+      "BREACH DATA",
+      "PEOPLE SEARCH"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-06-01"
+  },
+  {
     "slug": "jimpl-online-exif-metadata-viewer",
     "title": "Jimpl Online EXIF Metadata Viewer",
     "url": "https://jimpl.com",
