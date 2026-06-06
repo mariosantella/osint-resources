@@ -1,5 +1,18 @@
 [
   {
+    "slug": "igdetective",
+    "title": "IGDetective",
+    "url": "https://www.igdetective.com/",
+    "tooltip": "SOCMINT tool for public Instagram accounts: track recent follows and unfollows, top interactions, and view Stories anonymously — no Instagram login, no footprint on the target. https://www.igdetective.com/",
+    "categories": [
+      "SOCMINT > Instagram"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-06-06"
+  },
+  {
     "slug": "revealer",
     "title": "Revealer",
     "url": "https://revealer.us/",
@@ -13,6 +26,21 @@
     "pricing": "Freemium",
     "featured": true,
     "date_added": "2026-06-01"
+  },
+  {
+    "slug": "shadohdorks-the-ultimate-google-dorking-engine",
+    "title": "SHADOHDORKS - The Ultimate Google Dorking Engine",
+    "url": "https://shadohdorks.vercel.app/",
+    "tooltip": "A comprehensive reconnaissance toolkit with 1000+ advanced Google Dorks for subdomain enumeration, exposed panels, API leaks, and pentest reconnaissance. https://shadohdorks.vercel.app/",
+    "categories": [
+      "DOMAININT > Subdomain Enumeration",
+      "GENERAL OSINT > Dork Tools",
+      "WEB OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-28"
   },
   {
     "slug": "jimpl-online-exif-metadata-viewer",
