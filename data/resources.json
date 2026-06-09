@@ -1,5 +1,20 @@
 [
   {
+    "slug": "behind-the-email",
+    "title": "Behind the Email",
+    "url": "https://behindtheemail.com/",
+    "tooltip": "Reveal the person behind any email address. An OSINT platform that correlates public profiles, employment, education, registered accounts, breach history, and more. https://behindtheemail.com/",
+    "categories": [
+      "EMAILINT > Email Info",
+      "GENERAL OSINT > Data Intelligence",
+      "PEOPLE SEARCH"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-06-09"
+  },
+  {
     "slug": "igdetective",
     "title": "IGDetective",
     "url": "https://www.igdetective.com/",
@@ -41,6 +56,35 @@
     "pricing": "Free",
     "featured": false,
     "date_added": "2026-05-28"
+  },
+  {
+    "slug": "peekvault",
+    "title": "PeekVault",
+    "url": "https://peekvault.com/",
+    "tooltip": "PeekVault is an OSINT tool that allows you to search, preview, and export Twitter - X archive snapshots from the Wayback Machine. It helps verify deleted tweets, map profile history, and export data for analysis. https://peekvault.com/",
+    "categories": [
+      "SOCMINT > Twitter / X",
+      "CRAWLING - SCRAPING",
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-26"
+  },
+  {
+    "slug": "mailaccess-osint-tool",
+    "title": "MailAccess OSINT Tool",
+    "url": "https://github.com/KatrielMoses/MailAccess",
+    "tooltip": "A self-hostable OSINT platform for investigating email addresses. It performs identity clustering, breach detection, and gathers information from various sources without requiring API keys. https://github.com/KatrielMoses/MailAccess",
+    "categories": [
+      "EMAILINT > Email Breach Check",
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-26"
   },
   {
     "slug": "jimpl-online-exif-metadata-viewer",
