@@ -1,5 +1,19 @@
 [
   {
+    "slug": "singlefile",
+    "title": "SingleFile",
+    "url": "https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle",
+    "tooltip": "A browser extension that saves complete web pages as single HTML files, including CSS and images, useful for preserving evidence and creating immutable web archives. https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle",
+    "categories": [
+      "GENERAL OSINT > Forensic tools",
+      "WEB OSINT"
+    ],
+    "type": "Browser-Extension",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-06-11"
+  },
+  {
     "slug": "behind-the-email",
     "title": "Behind the Email",
     "url": "https://behindtheemail.com/",
@@ -13,6 +27,91 @@
     "pricing": "Freemium",
     "featured": true,
     "date_added": "2026-06-09"
+  },
+  {
+    "slug": "tiktok-stalker",
+    "title": "TikTok Stalker",
+    "url": "https://tiktok.einzzcookie.org/",
+    "tooltip": "An OSINT tool for real-time monitoring of TikTok user activity, including like/unlike tracking, profile analysis, and video metadata extraction. https://tiktok.einzzcookie.org/",
+    "categories": [
+      "SOCMINT > TikTok"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-06-08"
+  },
+  {
+    "slug": "scavio-tiktok-api",
+    "title": "Scavio TikTok API",
+    "url": "https://scavio.dev/docs/tiktok-api",
+    "tooltip": "A data extraction tool for TikTok that enables OSINT and social graph analysis by retrieving user profiles, video metadata, comments, and follower networks. https://scavio.dev/docs/tiktok-api",
+    "categories": [
+      "CRAWLING - SCRAPING > API Access",
+      "SOCMINT > TikTok"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-06-08"
+  },
+  {
+    "slug": "prism",
+    "title": "PRISM",
+    "url": "https://getprism.su/",
+    "tooltip": "An open source intelligence (OSINT) platform designed for data collection and analysis. https://getprism.su/",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "GENERAL OSINT > Multi-tool Platforms",
+      "WEB OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-06-08"
+  },
+  {
+    "slug": "txfetch",
+    "title": "TXFetch",
+    "url": "https://github.com/xaynov-osint/txfetch",
+    "tooltip": "A blockchain transaction retrieval tool for OSINT and forensics that finds transaction hashes using indirect data such as timestamp, amount, and memo across multiple networks. https://github.com/xaynov-osint/txfetch",
+    "categories": [
+      "GENERAL OSINT > Forensic tools",
+      "CRYPTOCURRENCIES"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-06-08"
+  },
+  {
+    "slug": "agentic-earth",
+    "title": "Agentic Earth",
+    "url": "https://agenticearth.io/",
+    "tooltip": "Agentic Earth connects natural-language questions to 90+ live geospatial data sources — vessels, satellites, buildings, borders, weather, conflict, and more — mapped in seconds. https://agenticearth.io/",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "GEOINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-06-08"
+  },
+  {
+    "slug": "kronikier",
+    "title": "kronikier",
+    "url": "https://kronikier.soxoj.com/",
+    "tooltip": "An OSINT tool that mines historical contact information, such as emails and phone numbers, from archived website snapshots via web.archive.org. https://kronikier.soxoj.com/",
+    "categories": [
+      "CRAWLING - SCRAPING > Web Scrapers",
+      "EMAILINT > Email Info",
+      "PHONEINT > Phone Number Lookup"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-06-08"
   },
   {
     "slug": "igdetective",
@@ -41,6 +140,145 @@
     "pricing": "Freemium",
     "featured": true,
     "date_added": "2026-06-01"
+  },
+  {
+    "slug": "gapminder-data",
+    "title": "Gapminder Data",
+    "url": "https://www.gapminder.org/data/",
+    "tooltip": "A comprehensive repository of global socio-economic indicators and datasets available for bulk download via GitHub or individual CSV/XLSX files for data analysis. https://www.gapminder.org/data/",
+    "categories": [
+      "PUBLIC DATA"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-28"
+  },
+  {
+    "slug": "greynoise-visualizer",
+    "title": "GreyNoise Visualizer",
+    "url": "https://viz.greynoise.io",
+    "tooltip": "A cybersecurity tool used to visualize and analyze internet-wide scanning activity and noise to improve threat intelligence. https://viz.greynoise.io",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "VISUALIZATION"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-05-28"
+  },
+  {
+    "slug": "indexmundi",
+    "title": "IndexMundi",
+    "url": "https://www.indexmundi.com/",
+    "tooltip": "A comprehensive data repository providing global country statistics, indicators, and comparative maps for socio-economic and demographic analysis. https://www.indexmundi.com/",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "PUBLIC DATA"
+    ],
+    "type": "Aggregator",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-05-28"
+  },
+  {
+    "slug": "islegitsite",
+    "title": "IsLegitSite",
+    "url": "https://www.islegitsite.com",
+    "tooltip": "A security tool used to evaluate website reputation by analyzing blocklist status, HTTPS details, and popularity to identify potential scams. https://www.islegitsite.com",
+    "categories": [
+      "DOMAININT",
+      "WEB OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-28"
+  },
+  {
+    "slug": "zoomeye",
+    "title": "ZoomEye",
+    "url": "https://www.zoomeye.ai/",
+    "tooltip": "A search engine designed for internet asset discovery, used for cybersecurity and OSINT to identify and analyze connected devices. https://www.zoomeye.ai/",
+    "categories": [
+      "CRAWLING - SCRAPING > IoT Scraping",
+      "GENERAL OSINT > Search Engines",
+      "WEB OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-05-28"
+  },
+  {
+    "slug": "betaface",
+    "title": "Betaface",
+    "url": "https://www.betaface.com/demo.html",
+    "tooltip": "A facial recognition and analysis tool used for detecting facial points, classifying demographics, and searching faces against public or custom databases. https://www.betaface.com/demo.html",
+    "categories": [
+      "PEOPLE SEARCH > Face Recognition Search",
+      "IMAGEINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-05-28"
+  },
+  {
+    "slug": "shotstars",
+    "title": "Shotstars",
+    "url": "https://github.com/snooppr/shotstars",
+    "tooltip": "An advanced GitHub repository analysis tool used to track star statistics, visualize growth trends, and detect fake stars for OSINT and data verification. https://github.com/snooppr/shotstars",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "VISUALIZATION"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-28"
+  },
+  {
+    "slug": "related-repos",
+    "title": "Related Repos",
+    "url": "https://relatedrepos.com/",
+    "tooltip": "A discovery tool for finding alternative open source projects and comparing similar GitHub repositories across various programming languages and technologies. https://relatedrepos.com/",
+    "categories": [
+      "GENERAL OSINT > Search Engines",
+      "WEB OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-28"
+  },
+  {
+    "slug": "searchcodecom",
+    "title": "searchcode.com",
+    "url": "https://searchcode.com/",
+    "tooltip": "A code intelligence tool providing structured analysis, security scanning, and full-text search of public GitHub repositories to optimize LLM context and codebase auditing. https://searchcode.com/",
+    "categories": [
+      "GENERAL OSINT > Search Engines",
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-05-28"
+  },
+  {
+    "slug": "claude-osint",
+    "title": "Claude-OSINT",
+    "url": "https://github.com/elementalsouls/Claude-OSINT",
+    "tooltip": "A set of structured SKILL.md files that prime Claude AI with expert-level methodology and tactical tools for authorized red-team and bug-bounty external reconnaissance. https://github.com/elementalsouls/Claude-OSINT",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-28"
   },
   {
     "slug": "shadohdorks-the-ultimate-google-dorking-engine",
@@ -80,6 +318,61 @@
     "categories": [
       "EMAILINT > Email Breach Check",
       "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-26"
+  },
+  {
+    "slug": "mailtestercom",
+    "title": "MailTester.com",
+    "url": "https://mailtester.com/",
+    "tooltip": "MailTester.com is an email verification and deliverability service. It helps users validate email addresses, improve sender reputation, and increase email campaign ROI by identifying and removing invalid or risky email addresses. https://mailtester.com/",
+    "categories": [
+      "EMAILINT > Email Verification"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-26"
+  },
+  {
+    "slug": "good-old-search",
+    "title": "Good Old Search",
+    "url": "https://github.com/mrtdlgc/goodoldsearch-oss",
+    "tooltip": "A local static query builder for precise search queries across various search engines and vertical search targets. It facilitates OSINT by enabling advanced search operators and filters for efficient information gathering. https://github.com/mrtdlgc/goodoldsearch-oss",
+    "categories": [
+      "GENERAL OSINT > Dork Tools",
+      "WEB OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-26"
+  },
+  {
+    "slug": "crucible-sigint",
+    "title": "CRUCIBLE SIGINT",
+    "url": "https://github.com/neatlabs-ai/crucible-sigint",
+    "tooltip": "Passive OSINT engine that automates fingerprinting of malicious infrastructure from a single seed domain, identifying scam operations and on-chain wallet drain mechanisms. https://github.com/neatlabs-ai/crucible-sigint",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "DOMAININT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-05-26"
+  },
+  {
+    "slug": "instagram-mutual-follower-checker",
+    "title": "Instagram Mutual Follower Checker",
+    "url": "https://github.com/OscarFromNZ/InstagramMutualFollowerChecker",
+    "tooltip": "A Node.js/Express web application that identifies mutual followers between Instagram accounts. Useful for OSINT and social media analysis to understand connections and relationships. https://github.com/OscarFromNZ/InstagramMutualFollowerChecker",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "SOCMINT > Instagram"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -904,19 +1197,6 @@
     "date_added": "2026-04-04"
   },
   {
-    "slug": "poispkoinfo2026-bot",
-    "title": "POISPKOInfo2026_Bot",
-    "url": "https://t.me/poispkoinfo2026_bot",
-    "tooltip": "A Telegram bot that provides OSINT information. https://t.me/poispkoinfo2026_bot",
-    "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE > Telegram"
-    ],
-    "type": "Telegram-Bot",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2026-04-04"
-  },
-  {
     "slug": "wechat-article-crawler",
     "title": "WeChat Article Crawler",
     "url": "https://github.com/gxcsoccer/wechat-article-crawler",
@@ -1716,6 +1996,19 @@
       "VISUALIZATION"
     ],
     "type": "Beta",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "poispkoinfo2026-bot",
+    "title": "POISPKOInfo2026_Bot",
+    "url": "https://t.me/poispkoinfo2026_bot",
+    "tooltip": "A Telegram bot that provides OSINT information. https://t.me/poispkoinfo2026_bot",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE > Telegram"
+    ],
+    "type": "Telegram-Bot",
     "pricing": "Free",
     "featured": false,
     "date_added": "2026-04-04"
