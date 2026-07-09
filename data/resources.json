@@ -118,6 +118,35 @@
     "date_added": "2026-06-15"
   },
   {
+    "slug": "fstat-telegram-bot",
+    "title": "Fstat Telegram bot",
+    "url": "https://t.me/fsta_bot_of_bot",
+    "tooltip": "A Telegram-based bot used for statistics and data analysis within the Telegram ecosystem. https://t.me/fsta_bot_of_bot",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE > Telegram",
+      "SOCMINT"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-06-15"
+  },
+  {
+    "slug": "youtube-lookup",
+    "title": "Youtube Lookup",
+    "url": "https://youtube-lookup.vercel.app/",
+    "tooltip": "A metadata extraction tool used to retrieve detailed video statistics, channel information, and geolocation data for OSINT and data analysis. https://youtube-lookup.vercel.app/",
+    "categories": [
+      "GEOINT > Geolocalization",
+      "IMAGEINT > Metadata Analysis",
+      "SOCMINT > YouTube"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-06-15"
+  },
+  {
     "slug": "singlefile",
     "title": "SingleFile",
     "url": "https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle",
@@ -1383,19 +1412,6 @@
     "date_added": "2026-04-04"
   },
   {
-    "slug": "dorkeye",
-    "title": "DorkEye",
-    "url": "https://github.com/xPloits3c/DorkEye",
-    "tooltip": "An automated OSINT reconnaissance tool that performs advanced Google dorking to discover exposed files and web resources, with integrated SQL injection testing and metadata analysis. https://github.com/xPloits3c/DorkEye",
-    "categories": [
-      "GENERAL OSINT > Dork Tools"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2026-04-04"
-  },
-  {
     "slug": "instastatistics",
     "title": "Instastatistics",
     "url": "https://instastatistics.com/",
@@ -1420,19 +1436,6 @@
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
-    "featured": false,
-    "date_added": "2026-04-04"
-  },
-  {
-    "slug": "track2pulse-intelligence-platform",
-    "title": "TRACK2PULSE Intelligence Platform",
-    "url": "https://www.track2pulse.com/",
-    "tooltip": "A cybersecurity and OSINT platform for real-time threat monitoring and event analysis, providing live tracking of critical and high-severity security events. https://www.track2pulse.com/",
-    "categories": [
-      "GENERAL OSINT > Data Intelligence"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Paid",
     "featured": false,
     "date_added": "2026-04-04"
   },
@@ -1867,19 +1870,6 @@
     "date_added": "2026-04-04"
   },
   {
-    "slug": "redective-reddit-detective",
-    "title": "Redective Reddit Detective",
-    "url": "https://www.redective.com/",
-    "tooltip": "A real-time search tool that analyzes Reddit user profiles, comments, and submissions to provide statistical data and word frequency analysis for OSINT and data gathering purposes. https://www.redective.com/",
-    "categories": [
-      "SOCMINT > Reddit"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2026-04-04"
-  },
-  {
     "slug": "tranco-list",
     "title": "Tranco List",
     "url": "https://tranco-list.eu/",
@@ -2114,6 +2104,45 @@
       "VISUALIZATION"
     ],
     "type": "Beta",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "dorkeye",
+    "title": "DorkEye",
+    "url": "https://github.com/xPloits3c/DorkEye",
+    "tooltip": "An automated OSINT reconnaissance tool that performs advanced Google dorking to discover exposed files and web resources, with integrated SQL injection testing and metadata analysis. https://github.com/xPloits3c/DorkEye",
+    "categories": [
+      "GENERAL OSINT > Dork Tools"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "track2pulse-intelligence-platform",
+    "title": "TRACK2PULSE Intelligence Platform",
+    "url": "https://www.track2pulse.com/",
+    "tooltip": "A cybersecurity and OSINT platform for real-time threat monitoring and event analysis, providing live tracking of critical and high-severity security events. https://www.track2pulse.com/",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "redective-reddit-detective",
+    "title": "Redective Reddit Detective",
+    "url": "https://www.redective.com/",
+    "tooltip": "A real-time search tool that analyzes Reddit user profiles, comments, and submissions to provide statistical data and word frequency analysis for OSINT and data gathering purposes. https://www.redective.com/",
+    "categories": [
+      "SOCMINT > Reddit"
+    ],
+    "type": "Tool",
     "pricing": "Free",
     "featured": false,
     "date_added": "2026-04-04"
@@ -3940,21 +3969,6 @@
     "date_added": "2025-10-20"
   },
   {
-    "slug": "bf-search",
-    "title": "BF Search",
-    "url": "https://bf.based.re",
-    "tooltip": "Search tool for accessing and analyzing historical BreachForums user data. Quickly find and investigate metadata associated with user nicknames from the leaked database for valuable OSINT and security research. https://bf.based.re",
-    "categories": [
-      "BREACH DATA",
-      "PEOPLE SEARCH > Username Search",
-      "DARK WEB"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-10-20"
-  },
-  {
     "slug": "github-dorks-collection",
     "title": "GitHub Dorks Collection",
     "url": "https://github.com/techgaun/github-dorks",
@@ -4015,6 +4029,21 @@
     "categories": [
       "SOCMINT > Facebook",
       "CRAWLING - SCRAPING > Web Scrapers"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-10-20"
+  },
+  {
+    "slug": "bf-search",
+    "title": "BF Search",
+    "url": "https://bf.based.re",
+    "tooltip": "Search tool for accessing and analyzing historical BreachForums user data. Quickly find and investigate metadata associated with user nicknames from the leaked database for valuable OSINT and security research. https://bf.based.re",
+    "categories": [
+      "BREACH DATA",
+      "PEOPLE SEARCH > Username Search",
+      "DARK WEB"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -6376,19 +6405,6 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "dark-web-daily",
-    "title": "Dark Web Daily",
-    "url": "https://darkwebdaily.live/",
-    "tooltip": "One of the best resources to stay updated on dark web insights and trends. Curated by Sam Bent, this resource tracks marketplaces, leaks, and underground activities. https://darkwebdaily.live/",
-    "categories": [
-      "DARK WEB"
-    ],
-    "type": "Data-Source",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-04-28"
-  },
-  {
     "slug": "osintracker",
     "title": "OSINTracker",
     "url": "https://app.osintracker.com/",
@@ -6732,6 +6748,19 @@
       "GENERAL OSINT"
     ],
     "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-04-28"
+  },
+  {
+    "slug": "dark-web-daily",
+    "title": "Dark Web Daily",
+    "url": "https://darkwebdaily.live/",
+    "tooltip": "One of the best resources to stay updated on dark web insights and trends. Curated by Sam Bent, this resource tracks marketplaces, leaks, and underground activities. https://darkwebdaily.live/",
+    "categories": [
+      "DARK WEB"
+    ],
+    "type": "Data-Source",
     "pricing": "Free",
     "featured": false,
     "date_added": "2025-04-28"
