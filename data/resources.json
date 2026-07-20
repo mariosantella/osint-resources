@@ -1,5 +1,20 @@
 [
   {
+    "slug": "pixelrag",
+    "title": "PixelRAG",
+    "url": "https://github.com/StarTrail-org/PixelRAG",
+    "tooltip": "A pixel-native search and retrieval tool that renders web pages and documents as screenshots to preserve visual structure for AI-driven data analysis. https://github.com/StarTrail-org/PixelRAG",
+    "categories": [
+      "CRAWLING - SCRAPING > Browser Automation",
+      "CRAWLING - SCRAPING > Web Scrapers",
+      "WEB OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-06-19"
+  },
+  {
     "slug": "venmo-osint",
     "title": "Venmo OSINT",
     "url": "https://venmo-osint.vercel.app/",
@@ -13,6 +28,64 @@
     "pricing": "Free",
     "featured": false,
     "date_added": "2026-06-19"
+  },
+  {
+    "slug": "profile-summary-for-github",
+    "title": "Profile summary for github",
+    "url": "https://profile-summary-for-github.com/",
+    "tooltip": "Tool for visualizing GitHub profile grouped stats for lancuage commits volume etc. https://profile-summary-for-github.com/",
+    "categories": [
+      "GENERAL OSINT",
+      "SOCMINT",
+      "VISUALIZATION"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-06-17"
+  },
+  {
+    "slug": "rosint",
+    "title": "Rosint",
+    "url": "https://www.rosint.dev/",
+    "tooltip": "An OSINT tool designed to search for and recover deleted Reddit posts and search post and comment of users https://www.rosint.dev/",
+    "categories": [
+      "PEOPLE SEARCH > Username Search",
+      "SOCMINT > Reddit"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-06-16"
+  },
+  {
+    "slug": "ipok-ip-reputation",
+    "title": "IPOK IP reputation",
+    "url": "https://ipok.io/en",
+    "tooltip": "Everything about your IP in one scan: purity · type · leaks · access Multi-source IP purity & risk scoring — see why an IP gets flagged https://ipok.io/en",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "WEB OSINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-06-16"
+  },
+  {
+    "slug": "zephiraai",
+    "title": "Zephira.ai",
+    "url": "https://zephira.ai/",
+    "tooltip": "An AI-powered global company intelligence platform providing access to official registries, UBOs, financials, and officer data for over 300M records. https://zephira.ai/",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "PEOPLE SEARCH > Public Records",
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-06-16"
   },
   {
     "slug": "multi-search-launcher",
@@ -1345,19 +1418,6 @@
     "date_added": "2026-04-04"
   },
   {
-    "slug": "infotel-osint-robot",
-    "title": "Infotel OSINT Robot",
-    "url": "https://t.me/infotelosinrobot",
-    "tooltip": "A Telegram-based bot service for OSINT (Open-Source Intelligence) and information gathering, allowing users to query and receive data directly through the messaging platform. https://t.me/infotelosinrobot",
-    "categories": [
-      "DIGITAL COMMUNICATION INTELLIGENCE > Telegram"
-    ],
-    "type": "Telegram-Bot",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2026-04-04"
-  },
-  {
     "slug": "wechat-article-crawler",
     "title": "WeChat Article Crawler",
     "url": "https://github.com/gxcsoccer/wechat-article-crawler",
@@ -2109,6 +2169,19 @@
     "date_added": "2026-04-04"
   },
   {
+    "slug": "infotel-osint-robot",
+    "title": "Infotel OSINT Robot",
+    "url": "https://t.me/infotelosinrobot",
+    "tooltip": "A Telegram-based bot service for OSINT (Open-Source Intelligence) and information gathering, allowing users to query and receive data directly through the messaging platform. https://t.me/infotelosinrobot",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE > Telegram"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
     "slug": "dorkeye",
     "title": "DorkEye",
     "url": "https://github.com/xPloits3c/DorkEye",
@@ -2339,8 +2412,8 @@
   {
     "slug": "social-media-leaks-telegram-bot",
     "title": "Social Media Leaks Telegram BOT",
-    "url": "https://t.me/SocialMediaLeaksBOT",
-    "tooltip": "Search user phone number and ids directly on telegram https://t.me/SocialMediaLeaksBOT",
+    "url": "https://t.me/SocialMediaLeaksBOT?start=WM94Am",
+    "tooltip": "Search user phone number and ids directly on telegram https://t.me/SocialMediaLeaksBOT?start=WM94Am",
     "categories": [
       "DIGITAL COMMUNICATION INTELLIGENCE > Telegram"
     ],
@@ -2352,8 +2425,8 @@
   {
     "slug": "brutal-osint-bot",
     "title": "Brutal OSINT Bot",
-    "url": "https://t.me/BrutalOsintBot",
-    "tooltip": "All in one OSINT search tool for telegram https://t.me/BrutalOsintBot",
+    "url": "https://t.me/BrutalOsintBot?start=WM94Am",
+    "tooltip": "All in one OSINT search tool for telegram https://t.me/BrutalOsintBot?start=WM94Am",
     "categories": [
       "DIGITAL COMMUNICATION INTELLIGENCE > Telegram"
     ],
@@ -2571,6 +2644,32 @@
     ],
     "type": "Aggregator",
     "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "social-media-leaks-telegram-bot",
+    "title": "Social Media Leaks Telegram BOT",
+    "url": "https://t.me/SocialMediaLeaksBOT",
+    "tooltip": "Search user phone number and ids directly on telegram https://t.me/SocialMediaLeaksBOT",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE > Telegram"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-03-02"
+  },
+  {
+    "slug": "brutal-osint-bot",
+    "title": "Brutal OSINT Bot",
+    "url": "https://t.me/BrutalOsintBot",
+    "tooltip": "All in one OSINT search tool for telegram https://t.me/BrutalOsintBot",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE > Telegram"
+    ],
+    "type": "Telegram-Bot",
+    "pricing": "Paid",
     "featured": false,
     "date_added": "2026-03-02"
   },
