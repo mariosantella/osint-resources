@@ -1,5 +1,19 @@
 [
   {
+    "slug": "metadata-remover-metadata-viewer",
+    "title": "Metadata Remover – Metadata Viewer",
+    "url": "https://metadataremover.ai/metadata-viewer",
+    "tooltip": "A free browser-local viewer for inspecting EXIF, IPTC, XMP, and GPS metadata in images; metadata should be corroborated with other evidence in investigative workflows. https://metadataremover.ai/metadata-viewer",
+    "categories": [
+      "IMAGEINT > EXIF Removal",
+      "IMAGEINT > Metadata Analysis"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-21"
+  },
+  {
     "slug": "am-i-exposed",
     "title": "am-i-exposed",
     "url": "https://github.com/Copexit/am-i-exposed",
