@@ -1,5 +1,18 @@
 [
   {
+    "slug": "webvetted-identity-graph",
+    "title": "WebVetted Identity Graph",
+    "url": "https://webvetted.com/workbench?utm_source=osintrack-workbench&utm_medium=directory",
+    "tooltip": "A browser-based link graph analysis tool. Run 80+ built-in transforms and deploy AI agents to visually map connections & identities in under 60seconds. https://webvetted.com/workbench?utm_source=osintrack-workbench&utm_medium=directory",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": true,
+    "date_added": "2026-08-27"
+  },
+  {
     "slug": "metadata-remover-metadata-viewer",
     "title": "Metadata Remover – Metadata Viewer",
     "url": "https://metadataremover.ai/metadata-viewer",
@@ -12,6 +25,62 @@
     "pricing": "Free",
     "featured": false,
     "date_added": "2026-08-21"
+  },
+  {
+    "slug": "exploratores-cryptocurrency-analysis-tool",
+    "title": "Exploratores Cryptocurrency Analysis Tool",
+    "url": "https://sosintops.github.io/Exploratores/pages/currencies.html",
+    "tooltip": "An OSINT toolkit providing centralized access to various blockchain explorers, wallet analyzers, and currency converters for cryptocurrency investigation. https://sosintops.github.io/Exploratores/pages/currencies.html",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-07-28"
+  },
+  {
+    "slug": "recentreborn",
+    "title": "RecentReborn",
+    "url": "https://app.recentreborn.com/",
+    "tooltip": "Aggregates recent Instagram and TikTok posts by hashtag for quick discovery of trending content and creators. https://app.recentreborn.com/",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-07-28"
+  },
+  {
+    "slug": "forensicsmedia",
+    "title": "forensics.media",
+    "url": "https://forensics.media/tools/",
+    "tooltip": "A suite of browser-based media forensic tools for analyzing images, audio, and files to detect AI generation, edits, and hidden metadata without uploading data. https://forensics.media/tools/",
+    "categories": [
+      "GENERAL OSINT > Forensic tools",
+      "IMAGEINT > Deepfake Detection",
+      "IMAGEINT > Metadata Analysis"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-07-20"
+  },
+  {
+    "slug": "qcckyc-free-company-search",
+    "title": "QCCKYC Free company search",
+    "url": "https://www.qcckyc.com/free-company-search",
+    "tooltip": "A global compliance tool for entity verification and risk assessment, specializing in deep ownership and UBO data for China and Asia. https://www.qcckyc.com/free-company-search",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence",
+      "PEOPLE SEARCH > Public Records",
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-07-20"
   },
   {
     "slug": "searchphone",
