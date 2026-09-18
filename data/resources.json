@@ -1,5 +1,18 @@
 [
   {
+    "slug": "osintsearch",
+    "title": "OSINTsearch",
+    "url": "https://osintsearch.org/",
+    "tooltip": "Live username sweep with a free preview (20 free searches a week when signed in). Not affiliated with osintsearch.site. https://osintsearch.org/",
+    "categories": [
+      "PEOPLE SEARCH > Username Search"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-09-16"
+  },
+  {
     "slug": "phone-number-to-fb-bot",
     "title": "Phone_Number_To_FB_BOT",
     "url": "https://t.me/Phone_Number_To_FB_BOT",
@@ -54,6 +67,32 @@
     "date_added": "2026-08-21"
   },
   {
+    "slug": "scanmalware",
+    "title": "ScanMalware ",
+    "url": "https://scanmalware.com/",
+    "tooltip": "ScanMalware is a free online tool that allows users to quickly check any URL or website for potential security threats such as malware, phishing, and other malicious activities. It provides real-time scanning capabilities to help users stay safe online by analyzing websites for vulnerabilities and suspicious behavior. https://scanmalware.com/",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-18"
+  },
+  {
+    "slug": "artist-ninja-reverse-image-search",
+    "title": "Artist Ninja Reverse Image Search",
+    "url": "https://artist.ninja/reverse-image-search",
+    "tooltip": "A free reverse image search tool used for identifying image sources and tracking visual data across the web. https://artist.ninja/reverse-image-search",
+    "categories": [
+      "IMAGEINT > Reverse Image Search"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-13"
+  },
+  {
     "slug": "ipdata",
     "title": "ipdata",
     "url": "https://ipdata.co/",
@@ -88,6 +127,19 @@
     "categories": [
       "GENERAL OSINT > Multi-tool Platforms",
       "SIGINT > General resources"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-07"
+  },
+  {
+    "slug": "trends24-x-trends",
+    "title": "Trends24 X Trends",
+    "url": "https://trends24.in/",
+    "tooltip": "Live and archived X (Twitter) trending topics, hashtags, and trend analytics for OSINT, cybersecurity, and data analysis. https://trends24.in/",
+    "categories": [
+      "SOCMINT > Twitter / X"
     ],
     "type": "Platform-SaaS",
     "pricing": "Free",
