@@ -40,12 +40,53 @@
     "date_added": "2026-08-27"
   },
   {
+    "slug": "steamreveal-analyze-steam-profiles",
+    "title": "SteamReveal - Analyze Steam Profiles",
+    "url": "https://steam-reveal.vercel.app/",
+    "tooltip": "An OSINT tool that analyzes Steam profiles to reveal friends, connections, probable location, and assess cheating risk using statistics and public data. https://steam-reveal.vercel.app/",
+    "categories": [
+      "GENERAL OSINT > Forensic tools",
+      "SOCMINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-25"
+  },
+  {
+    "slug": "demographic-profiles-world-map",
+    "title": "Demographic Profiles World Map",
+    "url": "https://visquill.com/gallery/world-demographics/",
+    "tooltip": "Interactive visualization comparing countries' demographic fingerprints through population, mortality, and fertility distributions, sourced from UN World Population Prospects 2024 with a timeline slider spanning 1953–2023. https://visquill.com/gallery/world-demographics/",
+    "categories": [
+      "GEOINT > Map Analysis",
+      "PUBLIC DATA"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-25"
+  },
+  {
     "slug": "global-company-registry-search",
     "title": "Global Company Registry Search",
     "url": "https://registry-lookup.com/",
     "tooltip": "Searches worldwide company registries to identify legal entities by name, number, LEI, or address, supporting OSINT and compliance analysis. https://registry-lookup.com/",
     "categories": [
       "PUBLIC DATA"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-21"
+  },
+  {
+    "slug": "waytrace",
+    "title": "WayTrace",
+    "url": "https://waytrace.org",
+    "tooltip": "WayTrace is an open-source OSINT tool that analyzes archived web data from the Wayback Machine to reveal historical exposure of domains including emails, subdomains, technologies, and potential leaks. It enables researchers and cybersecurity professionals to conduct passive reconnaissance without sending traffic to target sites. https://waytrace.org",
+    "categories": [
+      "DOMAININT > Subdomain Enumeration"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -73,6 +114,20 @@
     "tooltip": "ScanMalware is a free online tool that allows users to quickly check any URL or website for potential security threats such as malware, phishing, and other malicious activities. It provides real-time scanning capabilities to help users stay safe online by analyzing websites for vulnerabilities and suspicious behavior. https://scanmalware.com/",
     "categories": [
       "WEB OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-18"
+  },
+  {
+    "slug": "ccla",
+    "title": "CC.la",
+    "url": "https://cc.la/",
+    "tooltip": "Free Domain Name Information Lookup - Search WHOIS, RDAP, DNS, and nameserver information for any domain name https://cc.la/",
+    "categories": [
+      "DOMAININT > DNS Lookup",
+      "DOMAININT > Whois"
     ],
     "type": "Tool",
     "pricing": "Free",
@@ -814,14 +869,14 @@
     "slug": "agentic-earth",
     "title": "Agentic Earth",
     "url": "https://agenticearth.io/",
-    "tooltip": "Agentic Earth connects natural-language questions to 90+ live geospatial data sources — vessels, satellites, buildings, borders, weather, conflict, and more — mapped in seconds. https://agenticearth.io/",
+    "tooltip": "Agentic Earth turns millions of authoritative global datasets (satellite imagery, infrastructure, energy, live situational awareness) into decision-grade intelligence in seconds. In plain English. https://agenticearth.io/",
     "categories": [
       "GENERAL OSINT > Data Intelligence",
       "GEOINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
-    "featured": false,
+    "featured": true,
     "date_added": "2026-06-08"
   },
   {
@@ -1230,7 +1285,7 @@
       "BREACH DATA"
     ],
     "type": "Platform-SaaS",
-    "pricing": "Free",
+    "pricing": "Freemium",
     "featured": true,
     "date_added": "2026-05-17"
   },
