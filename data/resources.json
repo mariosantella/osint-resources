@@ -83,6 +83,19 @@
     "date_added": "2026-08-25"
   },
   {
+    "slug": "maxintel-ai-dorks-list",
+    "title": "Maxintel AI Dorks list",
+    "url": "https://maxintel.org/ai-dork-contact.html",
+    "tooltip": "AI-powered dorking prompt list, for investigate assets, people and companies. https://maxintel.org/ai-dork-contact.html",
+    "categories": [
+      "GENERAL OSINT > Dork Tools"
+    ],
+    "type": "Data-Source",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-25"
+  },
+  {
     "slug": "global-company-registry-search",
     "title": "Global Company Registry Search",
     "url": "https://registry-lookup.com/",
@@ -3063,7 +3076,7 @@
     "slug": "geovista",
     "title": "GeoVista",
     "url": "https://github.com/ekonwang/GeoVista",
-    "tooltip": "Agentic AI model for visual geolocation that combines image analysis with live web search to pinpoint where a photo was taken. It uses an image-zoom tool to inspect details and a web-search tool to validate hypotheses trained on GeoBench, a new benchmark of global photos, panoramas, and satellite imagery. Outperforms open-source models and rivals GPT-5/Gemini in accuracy. https://ekonwang.github.io/geo-vista/",
+    "tooltip": "Agentic AI model for visual geolocation that combines image analysis with live web search to pinpoint where a photo was taken. It uses an image-zoom tool to inspect details and a web-search tool to validate hypotheses trained on GeoBench, a new benchmark of global photos, panoramas, and satellite imagery. Outperforms open-source models and rivals GPT-5/Gemini in accuracy. https://github.com/ekonwang/GeoVista",
     "categories": [
       "GEOINT"
     ],
@@ -3633,8 +3646,8 @@
   {
     "slug": "think-pol",
     "title": "Think-Pol",
-    "url": "https://think-pol.com/tools",
-    "tooltip": "AI-powered OSINT engine exclusively for Reddit data—profile any user, export full comment histories, map subreddit networks, and search billions of public posts with advanced filters. No login required; all data derived from public historical records. https://think-pol.com",
+    "url": "https://think-pol.com/tools/",
+    "tooltip": "AI-powered OSINT engine exclusively for Reddit data—profile any user, export full comment histories, map subreddit networks, and search billions of public posts with advanced filters. No login required; all data derived from public historical records. https://think-pol.com/tools/",
     "categories": [
       "SOCMINT > Reddit"
     ],
@@ -4261,19 +4274,6 @@
     "date_added": "2025-10-04"
   },
   {
-    "slug": "danex",
-    "title": "DANEX",
-    "url": "https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
-    "tooltip": "DarkNet Explorer Search Engine designed to guide users through the hidden web by indexing .onion links on the Tor network. https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
-    "categories": [
-      "DARK WEB > Search Engines"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-10-04"
-  },
-  {
     "slug": "search-engine-dorks-generator",
     "title": "Search Engine Dorks Generator",
     "url": "https://kriztalz.sh/search-dorks/",
@@ -4308,6 +4308,19 @@
       "SOCMINT > YouTube"
     ],
     "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-10-04"
+  },
+  {
+    "slug": "danex",
+    "title": "DANEX",
+    "url": "https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
+    "tooltip": "DarkNet Explorer Search Engine designed to guide users through the hidden web by indexing .onion links on the Tor network. https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
+    "categories": [
+      "DARK WEB > Search Engines"
+    ],
+    "type": "Tool",
     "pricing": "Free",
     "featured": false,
     "date_added": "2025-10-04"
@@ -5480,19 +5493,6 @@
     "date_added": "2025-04-28"
   },
   {
-    "slug": "osintrocks",
-    "title": "OSINT.ROCKS",
-    "url": "https://osint.rocks/",
-    "tooltip": "A collection of powerful OSINT tools like GHunt, Sherlock, Holehe, HudsonRocks(etc) &#8211; all easily accessible without the need for downloads. https://osint.rocks/",
-    "categories": [
-      "GENERAL OSINT > Multi-tool Platforms"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-04-28"
-  },
-  {
     "slug": "greatfon-instagram-viewer",
     "title": "greatfon instagram viewer",
     "url": "https://greatfon.com/",
@@ -5969,8 +5969,8 @@
   {
     "slug": "depix",
     "title": "Depix",
-    "url": " https://codeberg.org/spipm/Depixelization_poc/",
-    "tooltip": "Depix is a powerful OSINT tool designed to recover text from pixelated images. Perfect for security researchers and investigators dealing with obfuscated data. https://github.com/spipm/Depixelization_poc",
+    "url": "https://codeberg.org/spipm/Depixelization_poc/",
+    "tooltip": "Depix is a powerful OSINT tool designed to recover text from pixelated images. Perfect for security researchers and investigators dealing with obfuscated data. https://codeberg.org/spipm/Depixelization_poc/",
     "categories": [
       "IMAGEINT > Image Enanchement"
     ],
@@ -6718,6 +6718,19 @@
     "tooltip": "Scan websites in real time to detect threats like malware and phishing before visiting: built by cybersecurity experts for both professionals and everyday users. https://cyscan.io/",
     "categories": [
       "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-04-28"
+  },
+  {
+    "slug": "osintrocks",
+    "title": "OSINT.ROCKS",
+    "url": "https://osint.rocks/",
+    "tooltip": "A collection of powerful OSINT tools like GHunt, Sherlock, Holehe, HudsonRocks(etc) &#8211; all easily accessible without the need for downloads. https://osint.rocks/",
+    "categories": [
+      "GENERAL OSINT > Multi-tool Platforms"
     ],
     "type": "Tool",
     "pricing": "Free",
