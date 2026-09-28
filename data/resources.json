@@ -1,5 +1,19 @@
 [
   {
+    "slug": "opsis-osint",
+    "title": "Opsis OSINT",
+    "url": "https://useopsis.com",
+    "tooltip": "Opsis OSINT allows you to search via Username, Email, and Domain with over 1000+ maintained sources. https://useopsis.com",
+    "categories": [
+      "GENERAL OSINT",
+      "PEOPLE SEARCH"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": true,
+    "date_added": "2026-09-28"
+  },
+  {
     "slug": "roso",
     "title": "ROSO",
     "url": "https://roso.info",
@@ -2187,20 +2201,6 @@
     "type": "Tool",
     "pricing": "Free",
     "featured": false,
-    "date_added": "2026-04-04"
-  },
-  {
-    "slug": "opsis-osint",
-    "title": "Opsis OSINT",
-    "url": "https://useopsis.com",
-    "tooltip": "Opsis OSINT allows you to search via Username, Email, and Domain with over 1000+ maintained sources. https://useopsis.com",
-    "categories": [
-      "GENERAL OSINT",
-      "PEOPLE SEARCH"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Paid",
-    "featured": true,
     "date_added": "2026-04-04"
   },
   {
