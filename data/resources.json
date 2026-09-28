@@ -5,11 +5,12 @@
     "url": "https://useopsis.com",
     "tooltip": "Opsis OSINT allows you to search via Username, Email, and Domain with over 1000+ maintained sources. https://useopsis.com",
     "categories": [
-      "GENERAL OSINT",
-      "PEOPLE SEARCH"
+      "GENERAL OSINT > Multi-tool Platforms",
+      "PEOPLE SEARCH",
+      "WEB OSINT"
     ],
     "type": "Platform-SaaS",
-    "pricing": "Paid",
+    "pricing": "Freemium",
     "featured": true,
     "date_added": "2026-09-28"
   },
