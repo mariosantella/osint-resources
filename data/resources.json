@@ -28,6 +28,20 @@
     "date_added": "2026-09-16"
   },
   {
+    "slug": "people-search-dork-builder",
+    "title": "People Search Dork Builder",
+    "url": "https://yogsec.github.io/People-Search/",
+    "tooltip": "An OSINT tool that constructs personalized Google dorks by merging full names and clues to locate individual profiles across the web. https://yogsec.github.io/People-Search/",
+    "categories": [
+      "GENERAL OSINT > Dork Tools",
+      "PEOPLE SEARCH"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-15"
+  },
+  {
     "slug": "phone-number-to-fb-bot",
     "title": "Phone_Number_To_FB_BOT",
     "url": "https://t.me/Phone_Number_To_FB_BOT",
@@ -52,6 +66,19 @@
     "type": "Tool",
     "pricing": "Free",
     "featured": true,
+    "date_added": "2026-08-27"
+  },
+  {
+    "slug": "cipher-identifier",
+    "title": "Cipher Identifier",
+    "url": "https://textmachine.org/en/text-tools/cipher-identifier",
+    "tooltip": "An automated cryptanalysis tool that identifies unknown encodings and ciphers by analyzing character sets, letter frequencies, and the Index of Coincidence. https://textmachine.org/en/text-tools/cipher-identifier",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
     "date_added": "2026-08-27"
   },
   {
@@ -2166,14 +2193,14 @@
     "slug": "opsis-osint",
     "title": "Opsis OSINT",
     "url": "https://useopsis.com",
-    "tooltip": "Advanced open-source intelligence gathering for law enforcement, investigators, and security analysts. 150+ platforms searched, enriched, and cross-referenced in real time. Live, accurate intelligence from public data sources, in seconds. https://useopsis.com",
+    "tooltip": "Opsis OSINT allows you to search via Username, Email, and Domain with over 1000+ maintained sources. https://useopsis.com",
     "categories": [
-      "PEOPLE SEARCH",
-      "GENERAL OSINT"
+      "GENERAL OSINT",
+      "PEOPLE SEARCH"
     ],
     "type": "Platform-SaaS",
     "pricing": "Paid",
-    "featured": false,
+    "featured": true,
     "date_added": "2026-04-04"
   },
   {
