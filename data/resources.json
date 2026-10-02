@@ -15,6 +15,23 @@
     "date_added": "2026-10-02"
   },
   {
+    "slug": "usersearch",
+    "title": "UserSearch",
+    "url": "https://usersearch.com/",
+    "tooltip": "UserSearch is an OSINT platform: 18 search types and 100+ premium data sources in one place, built for investigators, law enforcement, cyber security and fraud teams. https://usersearch.com/",
+    "categories": [
+      "GENERAL OSINT > Multi-tool Platforms",
+      "PEOPLE SEARCH > Deep Web People Search",
+      "PEOPLE SEARCH > Username Search",
+      "EMAILINT",
+      "PHONEINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-10-02"
+  },
+  {
     "slug": "darknyx",
     "title": "DarkNyx",
     "url": "https://darknyx.com",
