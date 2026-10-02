@@ -1,5 +1,34 @@
 [
   {
+    "slug": "osintly",
+    "title": "Osintly",
+    "url": "https://osint.ly",
+    "tooltip": "All-in-one OSINT platform to investigate usernames, emails, domains, IPs, phones and more across hundreds of public sources, tools, and datasets. https://osint.ly",
+    "categories": [
+      "GENERAL OSINT > Multi-tool Platforms",
+      "PEOPLE SEARCH",
+      "SOCMINT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-10-02"
+  },
+  {
+    "slug": "darknyx",
+    "title": "DarkNyx",
+    "url": "https://darknyx.com",
+    "tooltip": "A comprehensive dark web search engine and threat intelligence platform offering OSINT research, ransomware group monitoring, and marketplace trend analysis via NexVision Lab tools. https://darknyx.com",
+    "categories": [
+      "GENERAL OSINT > Multi-tool Platforms",
+      "DARK WEB"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-09-29"
+  },
+  {
     "slug": "opsis-osint",
     "title": "Opsis OSINT",
     "url": "https://useopsis.com",
@@ -15,6 +44,19 @@
     "date_added": "2026-09-28"
   },
   {
+    "slug": "gophoner",
+    "title": "Gophoner",
+    "url": "https://github.com/M4elstr0m/gophoner",
+    "tooltip": "Check simultaneously if a phone number is registered on popular apps & websites, without any prerequisite. https://github.com/M4elstr0m/gophoner",
+    "categories": [
+      "PHONEINT > Phone Number Lookup"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-23"
+  },
+  {
     "slug": "roso",
     "title": "ROSO",
     "url": "https://roso.info",
@@ -28,6 +70,88 @@
     "pricing": "Freemium",
     "featured": true,
     "date_added": "2026-09-23"
+  },
+  {
+    "slug": "instagram-oldest-posts-extractor",
+    "title": "Instagram Oldest Posts Extractor",
+    "url": "https://github.com/Provereno-Media/instagram-oldest-posts",
+    "tooltip": "A browser-based OSINT tool for extracting and exporting a complete Instagram profile's post history and metadata. It intercepts authenticated pagination requests to gather data into CSV or JSON without requiring third-party APIs. https://github.com/Provereno-Media/instagram-oldest-posts",
+    "categories": [
+      "CRAWLING - SCRAPING > Browser Automation",
+      "SOCMINT > Instagram"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-22"
+  },
+  {
+    "slug": "free-online-barcode-reader",
+    "title": "Free Online Barcode Reader",
+    "url": "https://online-barcode-reader.inliteresearch.com/",
+    "tooltip": "Decodes 1D/2D barcodes, QR codes, and driver licenses from uploaded images and PDFs. Extracts encoded data for OSINT, forensic, and data analysis workflows. https://online-barcode-reader.inliteresearch.com/",
+    "categories": [
+      "IMAGEINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-21"
+  },
+  {
+    "slug": "goofuzz",
+    "title": "GooFuzz",
+    "url": "https://github.com/m3n0sd0n4ld/GooFuzz",
+    "tooltip": "A Bash-based OSINT tool that uses advanced Google Dorking and the Google Custom Search API to enumerate directories, files, subdomains, and parameters without leaving traces on the target server. https://github.com/m3n0sd0n4ld/GooFuzz",
+    "categories": [
+      "GENERAL OSINT > Dork Tools",
+      "WEB OSINT"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-21"
+  },
+  {
+    "slug": "airplanes-live-flight-tracker",
+    "title": "Airplanes live Flight Tracker",
+    "url": "https://globe.airplanes.live/",
+    "tooltip": "Free Real-time ADS-B/MLAT aircraft tracking service displaying position, altitude, speed, and telemetry data for OSINT, cybersecurity, and data analysis. https://globe.airplanes.live/",
+    "categories": [
+      "GEOINT > Geolocalization",
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-21"
+  },
+  {
+    "slug": "geowhisperer",
+    "title": "GeoWhisperer",
+    "url": "https://www.geowhisperer.org/",
+    "tooltip": "GeoWhispererBeta lets you compare dated satellite imagery of any location, applying mechanical checks and cell‑by‑cell change detection for OSINT verification. https://www.geowhisperer.org/",
+    "categories": [
+      "GEOINT > Satellite Imagery"
+    ],
+    "type": "Beta",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-21"
+  },
+  {
+    "slug": "scweet-scraper",
+    "title": "Scweet Scraper",
+    "url": "https://github.com/Altimis/Scweet",
+    "tooltip": "Python and CLI OSINT/data collection tool for scraping X/Twitter tweets, profiles, followers, following, trends, and media without an API key, with proxy, multi-account, async, and export support. https://github.com/Altimis/Scweet",
+    "categories": [
+      "CRAWLING - SCRAPING > Web Scrapers",
+      "SOCMINT > Twitter / X"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-16"
   },
   {
     "slug": "osintsearch",
@@ -66,6 +190,79 @@
       "SOCMINT > Facebook"
     ],
     "type": "Telegram-Bot",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-15"
+  },
+  {
+    "slug": "synapsint-osint-engine",
+    "title": "SynapsInt OSINT Engine",
+    "url": "https://synapsint.com/",
+    "tooltip": "An OSINT intelligence platform offering open-source data gathering and analysis tools for domains, IPs, emails, phone numbers, social media accounts, cryptocurrency wallets, and CVE vulnerabilities. https://synapsint.com/",
+    "categories": [
+      "GENERAL OSINT > Multi-tool Platforms",
+      "CRYPTOCURRENCIES",
+      "DOMAININT"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-09-15"
+  },
+  {
+    "slug": "netryx-astra-v2-geolocation-tool",
+    "title": "Netryx Astra V2 Geolocation Tool",
+    "url": "https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool",
+    "tooltip": "An AI-driven OSINT tool that extracts precise GPS coordinates from a single image by matching it against street-view panoramas. It identifies the exact street, city, and location down to a few meters. https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool",
+    "categories": [
+      "GEOINT > Geolocalization"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-15"
+  },
+  {
+    "slug": "voidaccess",
+    "title": "VoidAccess",
+    "url": "https://katrielmoses.github.io/voidaccess/",
+    "tooltip": "A free, self-hosted dark web OSINT tool that automates threat intelligence gathering from Tor, clearnet, and paste sites, extracting indicators and building structured intelligence graphs. https://katrielmoses.github.io/voidaccess/",
+    "categories": [
+      "CRAWLING - SCRAPING > Web Scrapers",
+      "DARK WEB > Paste Sites",
+      "DARK WEB > Search Engines",
+      "VISUALIZATION > Graph Visualization"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-15"
+  },
+  {
+    "slug": "grepapp",
+    "title": "Grep.app",
+    "url": "https://grep.app",
+    "tooltip": "Effortlessly search for code, files, and paths across a million GitHub repositories. https://grep.app",
+    "categories": [
+      "GENERAL OSINT > Search Engines",
+      "PUBLIC DATA"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2026-09-15"
+  },
+  {
+    "slug": "video-scraping-apis",
+    "title": "Video Scraping APIs",
+    "url": "https://github.com/cporter202/video-scraping-apis",
+    "tooltip": "A GitHub collection of 979 APIs for scraping public video metadata, engagement stats, transcripts, comments, and downloads across platforms for OSINT and data analysis. https://github.com/cporter202/video-scraping-apis",
+    "categories": [
+      "CRAWLING - SCRAPING > API Access",
+      "GENERAL OSINT > Bookmark Collections",
+      "GENERAL OSINT > Data Intelligence"
+    ],
+    "type": "Aggregator",
     "pricing": "Free",
     "featured": false,
     "date_added": "2026-09-15"
@@ -2594,19 +2791,6 @@
     "date_added": "2026-04-04"
   },
   {
-    "slug": "traceon",
-    "title": "TRACEON",
-    "url": "https://traceon.re/",
-    "tooltip": "A threat intelligence platform that tracks threat actors by monitoring and analyzing messages from Telegram channels in real time for OSINT and cybersecurity purposes. https://traceon.re/",
-    "categories": [
-      "GENERAL OSINT > Data Intelligence"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Paid",
-    "featured": false,
-    "date_added": "2026-04-04"
-  },
-  {
     "slug": "sayari",
     "title": "Sayari",
     "url": "https://sayari.com/",
@@ -2672,6 +2856,19 @@
     ],
     "type": "Beta",
     "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "traceon",
+    "title": "TRACEON",
+    "url": "https://traceon.re/",
+    "tooltip": "A threat intelligence platform that tracks threat actors by monitoring and analyzing messages from Telegram channels in real time for OSINT and cybersecurity purposes. https://traceon.re/",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
     "featured": false,
     "date_added": "2026-04-04"
   },
