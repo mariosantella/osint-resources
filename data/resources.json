@@ -6,10 +6,12 @@
     "tooltip": "UserSearch is an OSINT platform: 18 search types and 100+ premium data sources in one place, built for investigators, law enforcement, cyber security and fraud teams. https://usersearch.com/",
     "categories": [
       "GENERAL OSINT > Multi-tool Platforms",
-      "PEOPLE SEARCH > Deep Web People Search",
       "PEOPLE SEARCH > Username Search",
       "EMAILINT",
-      "PHONEINT"
+      "IMAGEINT",
+      "PHONEINT",
+      "PUBLIC DATA",
+      "WEB OSINT"
     ],
     "type": "Platform-SaaS",
     "pricing": "Freemium",
