@@ -36,6 +36,21 @@
     "created_at": "2026-10-02T08:23:50.628000"
   },
   {
+    "slug": "vinted-osint",
+    "title": "Vinted_OSINT",
+    "url": "https://github.com/EchterAlsFake/Vinted_OSINT",
+    "tooltip": "An OSINT tool for Vinted.com that retrieves user information and performs seller risk evaluation to identify potential scammers. https://github.com/EchterAlsFake/Vinted_OSINT",
+    "categories": [
+      "CRAWLING - SCRAPING > Web Scrapers",
+      "GENERAL OSINT > Data Intelligence"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-10-01",
+    "created_at": "2026-10-01T07:18:54.049000"
+  },
+  {
     "slug": "darknyx",
     "title": "DarkNyx",
     "url": "https://darknyx.com",
@@ -49,6 +64,50 @@
     "featured": false,
     "date_added": "2026-09-29",
     "created_at": "2026-09-29T09:28:44.434000"
+  },
+  {
+    "slug": "birdy-edwards",
+    "title": "Birdy Edwards",
+    "url": "https://github.com/jeet-ganguly/birdy-edwards",
+    "tooltip": "Automated AI‑powered Facebook intelligence tool for target profiling, network analysis, and threat reporting, running locally via Ollama for on‑device OSINT investigations. https://github.com/jeet-ganguly/birdy-edwards",
+    "categories": [
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-29",
+    "created_at": "2026-09-29T09:28:44.287000"
+  },
+  {
+    "slug": "telegram-bot-dumper",
+    "title": "Telegram Bot Dumper",
+    "url": "https://github.com/soxoj/telegram-bot-dumper",
+    "tooltip": "Forensic CLI and web tool that dumps chat histories, media, user info, and profiles from a Telegram bot token for OSINT and security assessments. https://github.com/soxoj/telegram-bot-dumper",
+    "categories": [
+      "DIGITAL COMMUNICATION INTELLIGENCE > Telegram",
+      "GENERAL OSINT > Forensic tools"
+    ],
+    "type": "CLI",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-29",
+    "created_at": "2026-09-29T09:28:43.995000"
+  },
+  {
+    "slug": "instagram-relationship-analysis",
+    "title": "Instagram Relationship Analysis",
+    "url": "https://github.com/0x6rss/instagram-private-graph",
+    "tooltip": "A local research application for authorized OSINT investigations that analyzes followers and following accounts of private Instagram accounts, producing ranked candidate lists, visualizations, and reports. https://github.com/0x6rss/instagram-private-graph",
+    "categories": [
+      "SOCMINT > Instagram",
+      "VISUALIZATION > Graph Visualization"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-29",
+    "created_at": "2026-09-29T09:28:43.809000"
   },
   {
     "slug": "opsis-osint",
@@ -65,6 +124,21 @@
     "featured": true,
     "date_added": "2026-09-28",
     "created_at": "2026-09-28T16:12:24.750000"
+  },
+  {
+    "slug": "fieldcalc-geospatial-tools",
+    "title": "FieldCalc Geospatial Tools",
+    "url": "https://fieldcalc.app/tools",
+    "tooltip": "Offers coordinate conversion, area/distance measurement, file format conversion, and location utilities that aid OSINT, cybersecurity, and geospatial data analysis tasks. https://fieldcalc.app/tools",
+    "categories": [
+      "GEOINT > Geolocalization",
+      "GEOINT > Map Analysis"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-09-25",
+    "created_at": "2026-09-25T08:01:34.150000"
   },
   {
     "slug": "roso",
