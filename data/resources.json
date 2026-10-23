@@ -1,5 +1,22 @@
 [
   {
+    "slug": "intelbase",
+    "title": "IntelBase",
+    "url": "https://intelbase.is",
+    "tooltip": "OSINT platform that turns an email into actionable intelligence. Find linked accounts, breach history, infostealer logs, and activity timelines for security teams and investigators. https://intelbase.is",
+    "categories": [
+      "EMAILINT > Email Breach Check",
+      "BREACH DATA > Credential Leaks",
+      "GENERAL OSINT > Multi-tool Platforms"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "date_added": "2026-04-13",
+    "created_at": "2026-04-13T08:20:16.422000",
+    "featured_bumped_at": "2026-10-23T14:42:54.966389"
+  },
+  {
     "slug": "unfurl",
     "title": "Unfurl",
     "url": "https://hindsig.ht/unfurl/",
@@ -823,20 +840,6 @@
     "featured": false,
     "date_added": "2026-08-21",
     "created_at": "2026-08-21T07:05:04.730000"
-  },
-  {
-    "slug": "metadata-remover-metadata-viewer",
-    "title": "Metadata Remover – Metadata Viewer",
-    "url": "https://metadataremover.ai/metadata-viewer",
-    "tooltip": "A free browser-local viewer for inspecting EXIF, IPTC, XMP, and GPS metadata in images; metadata should be corroborated with other evidence in investigative workflows. https://metadataremover.ai/metadata-viewer",
-    "categories": [
-      "IMAGEINT > EXIF Removal",
-      "IMAGEINT > Metadata Analysis"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2026-08-21"
   },
   {
     "slug": "ccla",
@@ -2548,22 +2551,6 @@
     "created_at": "2026-04-13T08:20:16.525000"
   },
   {
-    "slug": "intelbase",
-    "title": "IntelBase",
-    "url": "https://intelbase.is",
-    "tooltip": "OSINT platform that turns an email into actionable intelligence. Find linked accounts, breach history, infostealer logs, and activity timelines for security teams and investigators. https://intelbase.is",
-    "categories": [
-      "EMAILINT > Email Breach Check",
-      "BREACH DATA > Credential Leaks",
-      "GENERAL OSINT > Multi-tool Platforms"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Freemium",
-    "featured": true,
-    "date_added": "2026-04-13",
-    "created_at": "2026-04-13T08:20:16.422000"
-  },
-  {
     "slug": "fingerprint-detector",
     "title": "Fingerprint Detector",
     "url": "https://github.com/mr-r3b00t/fingerprintdetector",
@@ -2646,19 +2633,6 @@
     "featured": false,
     "date_added": "2026-04-08",
     "created_at": "2026-04-08T07:32:44.364000"
-  },
-  {
-    "slug": "sharetrace",
-    "title": "ShareTrace",
-    "url": "https://github.com/hondling/sharetrace",
-    "tooltip": "OSINT tool that extracts user identity information from social media share links by analyzing internal identifiers and metadata from various platforms including TikTok, Instagram, Discord, and Microsoft services. https://github.com/hondling/sharetrace",
-    "categories": [
-      "WEB OSINT"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2026-04-08"
   },
   {
     "slug": "deepwiki",
@@ -3516,19 +3490,6 @@
     "featured": false,
     "date_added": "2026-04-04",
     "created_at": "2026-04-04T10:04:40.343000"
-  },
-  {
-    "slug": "traceon",
-    "title": "TRACEON",
-    "url": "https://traceon.re/",
-    "tooltip": "A threat intelligence platform that tracks threat actors by monitoring and analyzing messages from Telegram channels in real time for OSINT and cybersecurity purposes. https://traceon.re/",
-    "categories": [
-      "GENERAL OSINT > Data Intelligence"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Paid",
-    "featured": false,
-    "date_added": "2026-04-04"
   },
   {
     "slug": "phantom-tide",
@@ -5322,19 +5283,6 @@
     "created_at": "2025-10-04T00:00:00.000000"
   },
   {
-    "slug": "danex",
-    "title": "DANEX",
-    "url": "https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
-    "tooltip": "DarkNet Explorer Search Engine designed to guide users through the hidden web by indexing .onion links on the Tor network. https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
-    "categories": [
-      "DARK WEB > Search Engines"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-10-04"
-  },
-  {
     "slug": "tikspyder",
     "title": "TikSpyder",
     "url": "https://github.com/estebanpdl/tik-spyder",
@@ -5730,19 +5678,6 @@
     "featured": false,
     "date_added": "2025-08-14",
     "created_at": "2025-08-14T00:00:00.000000"
-  },
-  {
-    "slug": "facesearch-arrestsorg",
-    "title": "FaceSearch Arrests.org",
-    "url": "https://facesearch.arrests.org/",
-    "tooltip": "Search for individuals by facial recognition using publicly available mugshots and arrest records. https://facesearch.arrests.org/",
-    "categories": [
-      "PEOPLE SEARCH > Public Records"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-08-14"
   },
   {
     "slug": "postman-public-api",
@@ -6210,19 +6145,6 @@
     "created_at": "2025-06-27T00:00:00.000000"
   },
   {
-    "slug": "gitsearchaicom",
-    "title": "GitSearchAI.com",
-    "url": "https://www.gitsearchai.com/",
-    "tooltip": "An AI-powered search engine for GitHub repositories, facilitating the discovery of code snippets and projects related to specific keywords or technologies. https://www.gitsearchai.com/",
-    "categories": [
-      "GENERAL OSINT > Search Engines"
-    ],
-    "type": "Tool",
-    "pricing": "Free",
-    "featured": false,
-    "date_added": "2025-06-22"
-  },
-  {
     "slug": "pagecachedcom",
     "title": "PageCached.com",
     "url": "https://pagecached.com/",
@@ -6531,19 +6453,6 @@
     "featured": false,
     "date_added": "2025-04-30",
     "created_at": "2025-04-30T00:00:00.000000"
-  },
-  {
-    "slug": "subdosec",
-    "title": "SubDoSec",
-    "url": "https://subdosec.vulnshot.com/",
-    "tooltip": "SubDoSec simplifies subdomain enumeration, offering a user-friendly platform for discovering and analyzing subdomains during investigations. https://subdosec.vulnshot.com/",
-    "categories": [
-      "DOMAININT > Subdomain Enumeration"
-    ],
-    "type": "Tool",
-    "pricing": "Freemium",
-    "featured": false,
-    "date_added": "2025-04-30"
   },
   {
     "slug": "dnslytics",
@@ -7911,6 +7820,98 @@
     "featured": false,
     "date_added": "2025-04-28",
     "created_at": "2025-04-28T00:00:00.000000"
+  },
+  {
+    "slug": "metadata-remover-metadata-viewer",
+    "title": "Metadata Remover – Metadata Viewer",
+    "url": "https://metadataremover.ai/metadata-viewer",
+    "tooltip": "A free browser-local viewer for inspecting EXIF, IPTC, XMP, and GPS metadata in images; metadata should be corroborated with other evidence in investigative workflows. https://metadataremover.ai/metadata-viewer",
+    "categories": [
+      "IMAGEINT > EXIF Removal",
+      "IMAGEINT > Metadata Analysis"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-08-21"
+  },
+  {
+    "slug": "sharetrace",
+    "title": "ShareTrace",
+    "url": "https://github.com/hondling/sharetrace",
+    "tooltip": "OSINT tool that extracts user identity information from social media share links by analyzing internal identifiers and metadata from various platforms including TikTok, Instagram, Discord, and Microsoft services. https://github.com/hondling/sharetrace",
+    "categories": [
+      "WEB OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2026-04-08"
+  },
+  {
+    "slug": "traceon",
+    "title": "TRACEON",
+    "url": "https://traceon.re/",
+    "tooltip": "A threat intelligence platform that tracks threat actors by monitoring and analyzing messages from Telegram channels in real time for OSINT and cybersecurity purposes. https://traceon.re/",
+    "categories": [
+      "GENERAL OSINT > Data Intelligence"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Paid",
+    "featured": false,
+    "date_added": "2026-04-04"
+  },
+  {
+    "slug": "danex",
+    "title": "DANEX",
+    "url": "https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
+    "tooltip": "DarkNet Explorer Search Engine designed to guide users through the hidden web by indexing .onion links on the Tor network. https://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
+    "categories": [
+      "DARK WEB > Search Engines"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-10-04"
+  },
+  {
+    "slug": "facesearch-arrestsorg",
+    "title": "FaceSearch Arrests.org",
+    "url": "https://facesearch.arrests.org/",
+    "tooltip": "Search for individuals by facial recognition using publicly available mugshots and arrest records. https://facesearch.arrests.org/",
+    "categories": [
+      "PEOPLE SEARCH > Public Records"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-08-14"
+  },
+  {
+    "slug": "gitsearchaicom",
+    "title": "GitSearchAI.com",
+    "url": "https://www.gitsearchai.com/",
+    "tooltip": "An AI-powered search engine for GitHub repositories, facilitating the discovery of code snippets and projects related to specific keywords or technologies. https://www.gitsearchai.com/",
+    "categories": [
+      "GENERAL OSINT > Search Engines"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "date_added": "2025-06-22"
+  },
+  {
+    "slug": "subdosec",
+    "title": "SubDoSec",
+    "url": "https://subdosec.vulnshot.com/",
+    "tooltip": "SubDoSec simplifies subdomain enumeration, offering a user-friendly platform for discovering and analyzing subdomains during investigations. https://subdosec.vulnshot.com/",
+    "categories": [
+      "DOMAININT > Subdomain Enumeration"
+    ],
+    "type": "Tool",
+    "pricing": "Freemium",
+    "featured": false,
+    "date_added": "2025-04-30"
   },
   {
     "slug": "osintrocks",
