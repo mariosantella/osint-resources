@@ -1,5 +1,84 @@
 [
   {
+    "slug": "haveibeenransom",
+    "title": "HaveIBeenRansom",
+    "url": "https://haveibeenransom.com/",
+    "tooltip": "A free OSINT service that alerts users if their email or personal data appears in infostealer logs—malware-collected credentials and browser artifacts often dumped on underground forums or ransomware leak sites. https://haveibeenransom.com/",
+    "categories": [
+      "BREACH DATA > Credential Leaks",
+      "EMAILINT > Email Breach Check"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "sponsored": true,
+    "date_added": "2026-03-26",
+    "created_at": "2026-03-26T00:00:00.000000",
+    "featured_bumped_at": "2026-11-02T14:45:49.709105"
+  },
+  {
+    "slug": "breach-house",
+    "title": "Breach House",
+    "url": "https://breach.house/",
+    "tooltip": "A real-time monitoring platform for ransomware attacks and data leaks, aggregating intelligence from underground forums, leak sites, and dark web sources. Tracks exposures by sector, country, and threat actor—ideal for proactive threat intel, victim notification, and exposure assessment. https://breach.house/",
+    "categories": [
+      "BREACH DATA",
+      "DARK WEB"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Freemium",
+    "featured": true,
+    "sponsored": true,
+    "date_added": "2026-03-26",
+    "created_at": "2026-03-26T00:00:00.000000",
+    "featured_bumped_at": "2026-11-02T14:45:39.372222"
+  },
+  {
+    "slug": "xcircle",
+    "title": "XCircle",
+    "url": "https://xcircle.me",
+    "tooltip": "An OSINT and social media analysis tool that visualizes the interaction network of public X (Twitter) accounts. It analyzes public replies, mentions, quotes, and reposts to map out and rank the most active contacts in a user's social graph. https://xcircle.me",
+    "categories": [
+      "SOCMINT > Twitter / X"
+    ],
+    "type": "Platform-SaaS",
+    "pricing": "Free",
+    "featured": false,
+    "sponsored": false,
+    "date_added": "2026-11-02",
+    "created_at": "2026-11-02T10:11:24.179000"
+  },
+  {
+    "slug": "anonstories",
+    "title": "AnonStories",
+    "url": "https://anonstories.org/",
+    "tooltip": "View and download public Instagram stories, highlights, and media without requiring an account. Anonymously. https://anonstories.org/",
+    "categories": [
+      "SOCMINT > Instagram"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "sponsored": false,
+    "date_added": "2026-10-29",
+    "created_at": "2026-10-29T14:33:52.689000"
+  },
+  {
+    "slug": "ttanon",
+    "title": "TTAnon",
+    "url": "https://ttanon.com/",
+    "tooltip": "TTAnon is a service for anonymously browsing TikTok content, including profiles, videos, and hashtags, without an account. It fetches pages server-side to prevent tracking. https://ttanon.com/",
+    "categories": [
+      "SOCMINT > TikTok"
+    ],
+    "type": "Tool",
+    "pricing": "Free",
+    "featured": false,
+    "sponsored": false,
+    "date_added": "2026-10-29",
+    "created_at": "2026-10-29T14:33:51.840000"
+  },
+  {
     "slug": "related-repos",
     "title": "Related Repos",
     "url": "https://relatedrepos.com",
@@ -3974,38 +4053,6 @@
     "sponsored": false,
     "date_added": "2026-04-03",
     "created_at": "2026-04-03T15:02:32.914000"
-  },
-  {
-    "slug": "breach-house",
-    "title": "Breach House",
-    "url": "https://breach.house/",
-    "tooltip": "A real-time monitoring platform for ransomware attacks and data leaks, aggregating intelligence from underground forums, leak sites, and dark web sources. Tracks exposures by sector, country, and threat actor—ideal for proactive threat intel, victim notification, and exposure assessment. https://breach.house/",
-    "categories": [
-      "BREACH DATA",
-      "DARK WEB"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Freemium",
-    "featured": true,
-    "sponsored": true,
-    "date_added": "2026-03-26",
-    "created_at": "2026-03-26T00:00:00.000000"
-  },
-  {
-    "slug": "haveibeenransom",
-    "title": "HaveIBeenRansom",
-    "url": "https://haveibeenransom.com/",
-    "tooltip": "A free OSINT service that alerts users if their email or personal data appears in infostealer logs—malware-collected credentials and browser artifacts often dumped on underground forums or ransomware leak sites. https://haveibeenransom.com/",
-    "categories": [
-      "BREACH DATA > Credential Leaks",
-      "EMAILINT > Email Breach Check"
-    ],
-    "type": "Platform-SaaS",
-    "pricing": "Freemium",
-    "featured": true,
-    "sponsored": true,
-    "date_added": "2026-03-26",
-    "created_at": "2026-03-26T00:00:00.000000"
   },
   {
     "slug": "imagewhisperer",
