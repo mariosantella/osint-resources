@@ -1,5 +1,22 @@
 [
   {
+    "slug": "darkeye",
+    "title": "DarkEye",
+    "url": "https://darkeye.io",
+    "tooltip": "Proactive Dark Web indexing and ransomware leak analysis. Indexes ransomware leak sites to provide real‑time monitoring and analysis of exposed records for OSINT and cyber‑risk assessment. https://darkeye.io",
+    "categories": [
+      "DARK WEB",
+      "GENERAL OSINT"
+    ],
+    "type": "Tool",
+    "pricing": "Freemium",
+    "featured": true,
+    "sponsored": true,
+    "date_added": "2026-11-02",
+    "created_at": "2026-11-02T14:39:24.777000",
+    "featured_bumped_at": "2026-11-02T14:46:16.850917"
+  },
+  {
     "slug": "haveibeenransom",
     "title": "HaveIBeenRansom",
     "url": "https://haveibeenransom.com/",
